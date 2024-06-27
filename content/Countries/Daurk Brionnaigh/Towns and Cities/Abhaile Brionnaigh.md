@@ -13,7 +13,7 @@ The home of the forge, Abhaile hosts [[The Council of Elders]], and the [[Béal 
 ### [[Master Cruthman]] Housing
 
 ### The Masterworks
- The first masterwork of each council member is displayed prominently here on dwarven statues, other historic master works can be seen in the center of the beautified walk.
+ The first masterwork of each council member is displayed prominently here on Rugadhian statues, other historic master works can be seen in the center of the beautified walk.
 ### City Center
 ###### Inns
  - Abhaile as baile
@@ -29,7 +29,7 @@ The home of the forge, Abhaile hosts [[The Council of Elders]], and the [[Béal 
 	A bit of a pretentious general store owned by a bit of a pretentious Rugadh named Cromwell Burdock.
 ###### Taverns
  - Aoibh Tavern
-	 Ailbhe (Irish: White) is a rare fair skinned dwarf. She presents gruff to scare off would be hecklers and bullies, but is rather kind and gentle to those she respects or comes to know and love.
+	 Ailbhe (Irish: White) is a rare fair skinned Rugadh. She presents gruff to scare off would be hecklers and bullies, but is rather kind and gentle to those she respects or comes to know and love.
 ###### Legal offices
 - Mail
 - Trade and Contracts
