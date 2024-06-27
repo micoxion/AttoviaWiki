@@ -50,8 +50,11 @@ Rugadhian weddings are relatively down played compared to many other cultures. D
 	 The couple each take a chisel and hammer to a 2x3 foot cuboid block of stone. They each carve one half of the small totem often incorporating runes and imagery important to their family history and heritage. This often takes roughly 2 hours of non-stop work.
 - Exchanging of rings
 	 Before the ceremony the two lovers create a set of three rings each. Then during this portion they take turns braiding the custom rings into each other's beards. Each ring's material represents a different aspect of Rugadhian marriage:
+	 
 	 **Gold:** The rarity of true love
+	 
 	 **Silver:** Purity between partners
+	 
 	 **Tungsten:** The strength of the marriage bond
 - Request [[Aoire Sléibhe|Aoire Sléibhe's]] blessing on the couple.
 ### Christening a Masterwork
