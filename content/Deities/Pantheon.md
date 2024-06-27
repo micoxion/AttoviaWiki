@@ -1,3 +1,8 @@
+---
+title: Pantheon
+draft: false
+tags:
+---
 - [[Hormus]]: Pure god of Sacrifice and Healing
 - [[Graskoroth]]: Corrupt god of the Deep and Hate
 - [[The Hebdomad|Asthéneia]]: Corrupt demon Lord of Disease.
