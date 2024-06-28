@@ -1,0 +1,9 @@
+---
+title: Mach'shavah Chofesh
+draft: false
+tags:
+  - Spoiler
+---
+
+# Description
+Once simply a theoretical concept granted a name by the [[Abbaki]], however once thousands of planets began to take the seed of consciousness, the [[Ember]], the Mach'shavah Chofesh became a rare, but no longer theoretical being. It was first believed that [[Demons]] would be the chrysalis for a Mach'shavah Chofesh to exist, however their nature entirely negates this possibility. Instead it requires very specific circumstances, and great power. The current known way in which such a creature may come to exist is as follows. A sapient being is granted a [[False Soul]] by a being of at least an [[Olam Beyn|Olam Beyn's]] mastery of [[Meyda]], this is done via the extension of the creatures sapience, and the creation of an [[Ogen]] [[Tethers|connected]] to its creator. The creature granted this faux sentience is extremely similar to a Demon, having no real agency, reflecting the will of its master. However, when such a creature continues to grow in power and its False Soul takes on more and more Meyda it gains the ability to process thought and feeling separately from the progenitor. Once the creature is powerful enough, if it feels dissent towards its master, it may sever the **tether** between their minds. Thus gaining freedom of thought. This however, does not change the fact that the creator being is still their Ogen, meaning that upon death the Mach'shavah Chofesh functionally ceases to exist, all of its Meyda will be reabsorbed by the source of its Ogen and it will become but a drop in an endless well of power. It is for this reason that [[Dragons]] cling to life so desperately on [[Attovia]], Graskoroth their malevolent creator waits beneath the sea for their return, and their is no putting off death forever.
