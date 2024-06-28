@@ -3,6 +3,7 @@ title: Olam Beyn
 draft: false
 tags:
   - Spoiler
+  - 🌶🌶
 ---
 
 # Description

@@ -3,6 +3,7 @@ title: Mach'shavah Chofesh
 draft: false
 tags:
   - Spoiler
+  - 🌶🌶🌶
 ---
 
 # Description

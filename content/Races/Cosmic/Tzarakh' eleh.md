@@ -3,6 +3,7 @@ title: Tzarakh' eleh
 draft: false
 tags:
   - Spoiler
+  - 🌶🌶
 ---
 
 # Description

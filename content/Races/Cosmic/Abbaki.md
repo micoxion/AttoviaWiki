@@ -3,6 +3,7 @@ title: Abbaki
 draft: false
 tags:
   - Spoiler
+  - 🌶🌶🌶
 ---
 
 # Description

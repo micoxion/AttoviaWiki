@@ -1,0 +1,26 @@
+---
+title: Magic
+draft: true
+tags:
+  - Spoiler
+  - 🌶🌶
+---
+
+Magic is, put shortly the informing of [[Meyda]]. One must have some way of accessing or creating Meyda first, then it can be informed to create a multitude of effects. The ”soul” of a sentient being is made entirely of Meyda, but should never be consumed for this purpose. Fortunately so long as one maintains possession of their [[Ogen]] this is unlikely to occur. When a sentient being is born it is generally devoid of an innate way to access Meyda en mass for the casting of spells and enchantments. In some rare cases the [[Contracts|Contract of Birth]] may pass on or even create a [[Tethers|Tether]] which provides a flow of Meyda. These are those know as [[Sorcerer|sorcerers]], blessed or cursed with a way to draw upon Meyda at their leisure. However, without extensive knowledge and training it is difficult to cause more than a rush of wind or fleeting flame, no matter the volume of Meyda one has access to. 
+The informing of Meyda comes in two parts. Universal laws of physics, and focused consciousness. When one draws a circle within a circle whose diameters are in the ratio 1:3 and places a [[Minor Stone]] in its center. The first half is accomplished by the precision of the circles and the second by the very nebulous concept of the stone’s considered state of “insideness”. When one also acknowledges that the first circle represents Attovia and the second its “soul” this further increases the effect. 
+The circle and the one who has drawn it have informed the Meyda within the Minor Stone to **connect** to the [[World Stone]]. Since all **tethered** objects reflect in proportion their counterpart the Minor Stone begins to mirror the spin of the planet.
+Not all informing of Meyda facilitates a **tether**. It is more common to see one-off effects such as flames, lights and smells, or in the more complex spells, cleaning, purification, healing and disassembly. 
+The reason such spells are significantly more common is due to the way in which **tethers** is most easily made. Utilizing the shape of the “soul”. Many rituals which form **contracts** with deities and demons alike require the use of drawn magic circles due to the complexity of the information involved. The vast majority of these circles are granted to individuals who the being considers worthy. To discover one through research or even worse, trial and error, is nigh impossible. 
+This does not of course take into account the **Contract of Focus** and more sinister **Forced Contract of Focus** which allow one to see the information of a “soul” or previously defined [[False Soul]], and thus use it to facilitate a **tether**.
+It is for these reasons that magic has taken so long on Attovia to develop more fully. Trial and error take centuries to produce meaningful results and even with more proper scientific methods, without modern day tools and understanding of chemistry and the universes building blocks, things move slowly. The greatest pushes to magic are often via divine inspiration or the discovery of the writings of a genius like [[Mordechai]].
+Magic circles are not the only way in which Meyda can be informed. They are cumbersome and slow after all, making them unusable during an altercation, and annoying to have to use when the need is not dire. Meyda can also be informed through the use of very accurate hand gestures. Few understand why but the allowed margin of error here is significantly larger than when using a circle. Language is also a very powerful tool when it comes to focused consciousness and is employed heavily when not using a circle. Any language may be used but the potency is enhanced when it is not your native tongue.
+# The Language of Magic
+When informing Meyda much of the symbolism used was discovered largely through trial and error, as well inspired by some ancient religious practices of the [[Church of Hormus]]. Below are some of the basics.
+### Concentric Circles
+Concentric circles represent different objects of effect. One circle means nothing until you place it in or out of another. From their, the origin point of the circles, and their relative diameters heavily determine the following effect.
+- World Stone: Concentric circles whose origins are identical with diameters in a ratio of 1:3 with a degree of error no greater than 5%.
+- Atmosphere: Concentric circles who's origins are identical with diameters in a ration of 23:24 with a degree of error no greater than 5%
+### Straight Lines
+Straight lines with a degree of error no greater than 2% are used for two primary purposes.
+- Connection: drawing a line between two entities that connects them within a magic circle implies the joining or connection of those two things. This could form a **tether** if the two entities in question both have at least a [[False Soul]]. Or instead an alchemical result.
+- Separation: Drawing a line between two entities that divides them implies the separation, often forced, of the entities involved. This can be used to sever a **tether** between two “souls” or simply to purify water. Separating the h2o from everything else.

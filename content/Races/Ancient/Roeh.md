@@ -3,6 +3,7 @@ title: Roeh
 draft: true
 tags:
   - Spoiler
+  - 🌶🌶
 ---
 # Overview
 Before [[The Great Conflict]] truly began Hormus took from his own stony flesh and created the Roeh alongside the [[Human|Humans]] and [[Elves]]. When each new sentient race was created by his hand a Roeh would join them in their respective home. The Roeh are a slow and graceful race. Each is granted Hormus' wisdom but a free mind and [[Nephesh (5e)]], with these aspects they guide their flock. Today most Roeh have joined Hormus in the Attovian soil. Becoming one with the planet as their progenitor before them generally ascending to become [[Olam Beyn]]. However, those who still believe their charge carries on remain as living, breathing deities who yet walk among their people. The only two known living Roeh continue to assist the Goliath #placeholder and [[Tréigtheoir Sliabh]] of [[Strana Gigantov]], its frozen tundra and beset coast keeping the ever responsible Roeh from passing onward to true godhood.

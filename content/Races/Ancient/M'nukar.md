@@ -3,6 +3,7 @@ title: M'nukar
 draft: false
 tags:
   - Spoiler
+  - 🌶🌶🌶
 ---
 
 Occasionally a being of indeterminable origin or race will find themselves wandering the continent of Attovia. Born of an [[Olam Beyn|Olam Beyn’s]] cast off devotion, they generally struggle finding an identity or common ground among other creatures. Usually discovering [[Those who Work Meyda|Meyda-work]] and feeling an odd kinship with the magic itself, M’nukar often go on to make ground breaking discoveries due to life spans which rival the [[Elves]]. M’nukar are responsible for [[Astrostone|Astrostones]], intelligent prosthetics, most [[Necromancy|pseudo-necromancy]], and a myriad of other spells and enchantments. 

@@ -3,6 +3,7 @@ title: Dragons
 draft: true
 tags:
   - Spoiler
+  - 🌶🌶
 ---
 # Description
 Massive lizard like beings who vary in appearance, from the komodo like Black Dragon to the majestic Red. Each begins its life as an egg about the size of a [[Human]] child.
