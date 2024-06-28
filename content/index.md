@@ -10,7 +10,7 @@ A good place to start diving in would be to look through the current most fleshe
 - [[Daurk Brionnaigh]]
 
 # Tag Key
-If you see the Spoiler tag at the top of the page it should always be accompanied by one of the following: #🌶 #🌶🌶 #🌶🌶🌶 . The spoiler spice meter as it were.
+If you see the Spoiler tag at the top of the page it should always be accompanied by one of the following: 🌶, 🌶🌶, 🌶🌶🌶. The spoiler spice meter as it were.
 #🌶 = Light spoilers, generally won't cause any kind of meta-game issues but simply something an in world character wouldn't know
 #🌶🌶 = Medium spoilers, could be used to meta-game but not in any kind of story or game breaking way
 #🌶🌶🌶 = HOT Spoilers, this knowledge is volatile for a consistent player to know, may come with specific role tagged in which case those not tagged consider it medium
