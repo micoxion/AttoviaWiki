@@ -12,4 +12,3 @@ Wizards differ from other non-Meyda-born in that they inform Meyda and conduct m
 - The Elvish [[Nabalan]] connect to the heart of the [[Ambar Tree]], however if their soul is severed from the tree they are cutoff on all fronts.
 - Rarely an individual mage may find themselves in possession of a [[God Stone]].
 - There are some cases in which Wizards have worked their way into contracts with [[Dragons]] or other mages in which they connect to an unknown source of Meyda that is not also a [[Nephesh (5e)]]. Putting them adjacent to Warlocks #temp yet entirely separate.
-- 
