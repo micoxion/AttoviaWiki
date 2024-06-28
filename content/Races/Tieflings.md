@@ -11,4 +11,4 @@ Skin colors include, but are not limited to: Red, green, pink, blue, and all nor
 
 Body shape does not vary outside of racial norms except for occasional dramatic increases/decreases in height.
 
-Often boasting one or more horns at varying stages of development. The horns can manifest almost anywhere but most commonly are found on the head.
+Often boasting one or more horns at varying stages of development. The horns can manifest almost anywhere but most commonly are found on the head. In more extreme cases horns may cover large portions or even *all* of the body. It is also possible to exhibit bundles of much larger horns in a single spot commonly referred to as the demons bouquet.
