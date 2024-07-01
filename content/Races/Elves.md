@@ -3,7 +3,6 @@ title: Elves
 draft: false
 tags:
 ---
-# Description
 Paragons of beauty and pride, elves live extremely long lives. Often a bit stuck up, they have a bad habit of taking their lands standards for granted.
 
 # Traits

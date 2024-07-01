@@ -3,8 +3,6 @@ title: Harrow Field
 draft: false
 tags:
 ---
-# Description
-
 A sizeable town in the Zyclester Empire boasting roughly 5,000 residence. It is surrounded by a 10 foot wide stone wall with walkways for guards. The main road cutting through Harrowfield's center continues directly on to Zyclest City. Many roads shoot off to either side leading to residences, shops, inns, taverns, and a small marketplace.
 
 # Buildings/Layout

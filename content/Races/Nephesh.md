@@ -3,8 +3,6 @@ title: Nephesh
 draft: false
 tags:
 ---
-
-# Description
 The Nephesh are beautiful and rare creatures. Rumors claim they are born from the land through Hormus’ magic when his creation is threatened, however the Nephesh know this to be false. They are souls. The souls of forests, oceans, mountains, great lakes, rivers, and deserts. They understand deeply that all entities have a soul, and the more ancient the entity the more likely it is to manifest a Nephesh. Nephesh appear almost exclusively when the entity they belong to is placed in jeopardy or comes under sudden stress.
 
 # Looks

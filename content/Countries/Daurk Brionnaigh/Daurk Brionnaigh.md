@@ -5,7 +5,6 @@ tags:
 ---
 <hr>
 
-# Description
 Daurk Brionnaigh is home of the [[Rugadh Sliabh]]. Its borders consist primarily of [[Darkmount]] Mountain, and some small stretch of farmlands near its base. Though the great mountain has not erupted for several hundred years the land is still black from Darkmount's active century. The soil at its base is still rich in nutrients allowing for a consistent, self contained food supply.
 
 <hr>

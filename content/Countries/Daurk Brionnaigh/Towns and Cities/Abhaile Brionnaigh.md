@@ -3,7 +3,6 @@ draft: true
 title: Abhaile Brionnaigh
 ---
 
-# Description
 The home of the forge, Abhaile hosts [[The Council of Elders]], and the [[Béal Brionnaigh]] (Mouth of the Forge), two of the most important establishments in all of [[Daurk Brionnaigh]]. 
 
 # Buildings/Layout

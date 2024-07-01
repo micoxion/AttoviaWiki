@@ -3,7 +3,6 @@ title: Dragonborn
 draft: false
 tags:
 ---
-# Description
 Cast to Attovia's planes from its own brilliant moon, dragonborn arrive on the planet as falling stars, smoldering in an atmosphere warmed egg they stumble into the world bewildered, sent as a missionary force by their Dragon Queen [[Urumuri]]. The majority of these falling eggs land in the current [[Claskarian Theocracy]] but on rare occasion upper atmosphere storms and fronts knock the eggs off course, landing them all across the continent.
 
 # Details
