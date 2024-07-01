@@ -16,8 +16,12 @@ As the wiki grows exploration may begin to feel daunting, here are a few recomme
 - [[Meyda-flow]]
 - [[Contracts]]
 ### Tag Key
-If you see the Spoiler tag at the top of the page it should always be accompanied by one of the following: 🌶, 🌶🌶, 🌶🌶🌶. The spoiler spice meter as it were.
-#🌶 = Light spoilers, generally won't cause any kind of meta-game issues but simply something an in world character wouldn't know
-#🌶🌶 = Medium spoilers, could be used to meta-game but not in any kind of story or game breaking way
-#🌶🌶🌶 = HOT Spoilers, this knowledge is volatile for a consistent player to know, may come with specific role tagged in which case those not tagged consider it medium
-These are of course only applicable if you think you might play in a game of mine any time soon. If that is not the case then sally forth curious [[Soul]]!
+- #Spoiler 
+	If you see the Spoiler tag at the top of the page it should always be accompanied by one of the following: 🌶, 🌶🌶, 🌶🌶🌶. The spoiler spice meter as it were.
+	#🌶 = Light spoilers, generally won't cause any kind of meta-game issues but simply something an in world character wouldn't know
+	#🌶🌶 = Medium spoilers, could be used to meta-game but not in any kind of story or game breaking way
+	#🌶🌶🌶 = HOT Spoilers, this knowledge is volatile for a consistent player to know, may come with specific role tagged in which case those not tagged consider it medium
+	These are of course only applicable if you think you might play in a game of mine any time soon. If that is not the case then sally forth curious [[Soul]]!
+- #incomplete 
+	Notes with the incomplete tag aren't *really* publish ready, but have information that isn't incorrect. They will often be quite short or small, but at least help flesh out more of the linking. Hopefully I can reduce the number of files that are tagged as such but we will see.
+
