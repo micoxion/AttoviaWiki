@@ -10,11 +10,13 @@ As the wiki grows exploration may begin to feel daunting, here are a few recomme
 ##### Countries of Interest
 - [[Daurk Brionnaigh]]
 - [[Zyclester Empire]]
+- [[Beleg gúl]]
 ###### [[Pantheon]]
 ###### Magic System Fundamentals
 - [[Tethers]]
 - [[Meyda-flow]]
 - [[Contracts]]
+- [[God Stone]]
 ### Tag Key
 - #Spoiler 
 	If you see the Spoiler tag at the top of the page it should always be accompanied by one of the following: 🌶, 🌶🌶, 🌶🌶🌶. The spoiler spice meter as it were.
