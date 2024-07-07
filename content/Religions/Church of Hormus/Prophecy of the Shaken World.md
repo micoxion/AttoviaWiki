@@ -6,5 +6,3 @@ The [[Church of Hormus]] does not generally deal in the prophetic or the process
 When Ember's spark lights Meyda's egg the shell will sunder loud.
 The son arise from shaken world and pass between the stars.
 Rivers of flame expose the soul and burn away untruth.
-# World Builder Notes
-This prophecy refers to the time in which Hormus will eject a portion of the [[World Stone]] as a chrysalis for a new [[Abbaki]]. A crater who's bottom touches the World Stone will be opened somewhere on Attovia and magma will pool around it.
