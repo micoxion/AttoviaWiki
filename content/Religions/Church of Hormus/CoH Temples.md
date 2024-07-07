@@ -3,7 +3,7 @@ title: CoH Temples
 draft: false
 tags:
 ---
-[[Church of Hormus]] temples are full of symbolism, each body part is represented in some portion of the architecture 7and construction process.
+[[Church of Hormus]] temples are full of symbolism, each body part is represented in some portion of the architecture and construction process.
 # Eye
 Temples are built with two eye shaped stained glass windows which look across from the side walls. Sunlight streams unburdened through the pupil in a clean beam during the morning and the evening, the surrounding yellow stained glass in the rest of the eye shape sheds an even golden glow through the room. The beam of sunlight is used to track time by priests and visitors.
 # Head

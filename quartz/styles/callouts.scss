@@ -108,9 +108,15 @@
   }
 
   &[data-callout="quote"] {
-    --color: var(--secondary);
+    --color: black;
     --border: var(--lightgray);
     --callout-icon: var(--callout-icon-quote);
+    background-image: url("../static/wooden-floor-background.jpg");
+    background-size: 100%;
+  }
+
+  &.quote .callout-content p{
+    color: black;
   }
 
   &.is-collapsed > .callout-title > .fold-callout-icon {

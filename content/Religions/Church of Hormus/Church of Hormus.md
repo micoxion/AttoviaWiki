@@ -3,7 +3,7 @@ title: Church of Hormus
 draft: false
 tags:
 ---
-The Church of Hormus focusses heavily on their [[Hormus|god's]] sacrificial aspect. The only widely recognized religion with more warlocks than paladins or clerics, the majority of those who wish to pledge service to their deity perform a brutal ritual known as the "Tear" and become one of the Sundered.
+The Church of Hormus focusses heavily on their [[Hormus|god's]] sacrificial aspect. The only widely recognized religion with more warlocks than paladins or clerics, the majority of those who wish to pledge service to their deity perform a brutal ritual known as the "Tear" and become one of the [[Sundered Priests|Sundered]].
 
 # Tenets
 The Church of Hormus (CoH) focuses its beliefs around the 7 body parts of Hormus that where ripped from him during [[The Great Conflict]]. Each body part represents a different aspect of Hormus' benevolence which allows for a very wide variety of foci for believers. The seven parts and their related concepts are listed below:
