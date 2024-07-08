@@ -2,6 +2,7 @@
 title: Pantheon
 draft: false
 tags:
+date: 2024-07-01
 ---
 - [[Hormus]]: Pure god of Sacrifice and Healing
 - [[Graskoroth]]: Corrupt god of the Deep and Hate

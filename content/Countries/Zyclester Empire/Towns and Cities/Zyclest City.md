@@ -1,7 +1,8 @@
 ---
 title: Zyclest City
 draft: false
-tags:
+tags: 
+date: 2024-06-27
 ---
 Capital city of the [[Zyclester Empire]]. A hub of magical study, knowledge, experimentation, and invention. The residents are all above the national average in wealth and quite snobbish. This city is extremely advanced, and is home to the College of Zyclest, the best school of magic in all of Attovia. The Table of Judges gathers in Zyclest City to reevaluate the decrees and laws made previously and suggest and vote on new ones. The city is laid out in 4 rough districts. The market district sprawls across the southern entrance to the city sweeping out and connecting to the poor district and the high district. The poor district is riddled with slums and inns, but not all who live there are so bad off. The high district is where those with the greatest income live. It boasts lavish dwellings and almost every house within this district is fueled by magic, drawing a stream of [[Meyda]] from the cities central [[God Stone]] housed within the University. The university itself doubles as both a school of magic and the meeting place for the Table. The university (a district all its own) is extremely well kept, hemmed by walls, and guarded by some of the [Chain Keepers](Chain%20Keepers.md)' best.
 

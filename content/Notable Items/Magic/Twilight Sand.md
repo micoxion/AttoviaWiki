@@ -2,6 +2,7 @@
 title: Twilight Sand
 draft: false
 tags:
+date: 2024-07-02
 ---
 Found exclusively in the [[Twilight Desert]], this sand's light absorbent properties makes it highly prized for certain classes of magical study, specifically that of chromatic spells, and some potion brewing. It is also a prized product for magical research conducted by students at Wizard academies.
 

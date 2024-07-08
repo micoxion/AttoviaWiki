@@ -2,6 +2,7 @@
 title: Church of Hormus
 draft: false
 tags:
+date: 2024-07-06
 ---
 The Church of Hormus focusses heavily on their [[Hormus|god's]] sacrificial aspect. The only widely recognized religion with more warlocks than paladins or clerics, the majority of those who wish to pledge service to their deity perform a brutal ritual known as the "Tear" and become one of the [[Sundered Priests|Sundered]].
 

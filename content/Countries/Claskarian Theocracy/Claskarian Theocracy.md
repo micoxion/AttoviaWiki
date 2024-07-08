@@ -3,6 +3,7 @@ title: Claskarian Theocracy
 draft: false
 tags:
   - incomplete
+date: 2024-07-03
 ---
 
 Grown from small but many communes and encampments the Claskarian Theocracy exploded in size through its charismatic leaders and extremely welcoming theology. To this day Claskaria has little structure within its populace, who lean heavily into the teachings of the nation. Communes, villages and towns dot the landscape wherever enough people come together. The capital is one of the only major cities that boasts more than a thousand residents.

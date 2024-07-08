@@ -2,6 +2,7 @@
 title: Divine Star
 draft: false
 tags:
+date: 2024-07-03
 ---
 The Divine Star is the vessel through which [[Urumuri]] communicates to her people on the planet of Attovia. More specifically it is [[Kochavism|Kochavism's]] leader and believed direct line to her majesty the Great Platinum Dragon. To become a divine star one must meet all 4 of the following requirements within seven days:
 - Sent directly from [[Urubu]] to Attovia's soil. No one born a natural birth could hope to have such a **[[Tethers|Tether]]** to Urumuri

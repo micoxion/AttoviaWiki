@@ -4,6 +4,7 @@ draft: false
 tags:
   - Spoiler
   - 🌶
+date: 2024-06-28
 ---
 The Ogen, or anchor of an individuals [[Soul]] is one of the more misunderstood concepts to even the brightest minds of Attovia. They understand it is responsible for keeping a soul in its current vessel, and how one might create an artificial Ogen for [[Necromancy|Necromantic]] purposes, but they do not quite grasp its deeper purpose.
 # Details

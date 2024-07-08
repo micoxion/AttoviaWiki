@@ -1,8 +1,8 @@
 ---
 draft: false
 title: Chain Keepers
+date: 2024-06-27
 ---
-
 The soft, almost silent clinking of the keeper's chain never alerts you in time. Prowling the alleys and streets of [[Zyclest City]], the practiced hand of the Chain Keeper smothers the cities dark crevices and corners with justice. Once the Chain has you there is not escape. Dressed in yellow, green, or red robes, the glistening silver tool of the Chain Keeper glints proudly, begging to be noticed and respected.
 # Hierarchy
 ### Initiate

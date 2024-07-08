@@ -1,5 +1,6 @@
 ---
 title: Welcome to Attovia
+date: 2024-06-27
 ---
 ![[Pasted image 20240626205049.png]]
 # Introduction

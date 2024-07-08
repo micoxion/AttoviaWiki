@@ -2,6 +2,7 @@
 title: Waterhelm
 draft: false
 tags:
+date: 2024-07-03
 ---
 Waterhelm is unique amongst the capitals of Attovia in that it was constructed *after* the country was established. Naturally this resulted in a city which mirrored it's nations founding ethos. Straight edged streets outline measured city blocks that pack cheap and efficient housing together like sardines. The mortar used was extremely cost effective but some 300 years later the Patchers crawl the streets replacing it gallons at a time as it crumbles around them. 
 

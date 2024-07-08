@@ -4,8 +4,8 @@ draft: false
 tags:
   - Spoiler
   - 🌶🌶🌶
+date: 2024-06-27
 ---
-
 Occasionally a being of indeterminable origin or race will find themselves wandering the continent of Attovia. Born of an [[Olam Beyn|Olam Beyn’s]] cast off devotion, they generally struggle finding an identity or common ground among other creatures. Usually discovering [[Those who Work Meyda|Meyda-work]] and feeling an odd kinship with the magic itself, M’nukar often go on to make ground breaking discoveries due to life spans which rival the [[Elves]]. M’nukar are responsible for [[Astrostone|Astrostones]], intelligent prosthetics, most [[Necromancy|pseudo-necromancy]], and a myriad of other spells and enchantments. 
 Because of their extremely reclusive nature however, the world changing discoveries of the M’nukar often go unnoticed for centuries until finally, their notes are discovered and adapted by another. There are even several pieces of research which have yet to be translated. It appears the M’nukar which wrote them devised their own system of written language that mirrors no known languages on the continent.
 Despite their incredible work and their kinship with it, their Meyda-work is commonly a sorrowful one. They are cursed with deeply powerful souls capable of conducting Meyda-work with no Meyda-well but their own internal source. However, each and every M’nukar’s Tether has been forcibly, and permanently cut from the [[World Stone]]. No afterlife awaits them, not even the undesirable. Their soul in all its potency will have to float in the cosmos till it discovers another World Stone large enough to absorb it. A mathematical impossibility in the vast stretches of the singular Universe. One is always more likely to float forever than to find a hopeful orbit.

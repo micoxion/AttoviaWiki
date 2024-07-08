@@ -3,6 +3,7 @@ title: Graskoroth
 draft: false
 tags:
   - incomplete
+date: 2024-07-01
 ---
 An eldritch kraken god of the ocean. Graskoroth birthed the monster races during his war with [Hormus](Hormus.md).
 

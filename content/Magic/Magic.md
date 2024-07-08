@@ -4,6 +4,7 @@ draft: true
 tags:
   - Spoiler
   - 🌶🌶
+date: 2024-06-28
 ---
 Magic is, put shortly the informing of [[Meyda]]. One must have some way of accessing or creating Meyda first, then it can be informed to create a multitude of effects. The ”soul” of a sentient being is made entirely of Meyda, but should never be consumed for this purpose. Fortunately so long as one maintains possession of their [[Ogen]] this is unlikely to occur. When a sentient being is born it is generally devoid of an innate way to access Meyda en mass for the casting of spells and enchantments. In some rare cases the [[Contracts|Contract of Birth]] may pass on or even create a [[Tethers|Tether]] which provides a flow of Meyda. These are those know as [[Sorcerer|sorcerers]], blessed or cursed with a way to draw upon Meyda at their leisure. However, without extensive knowledge and training it is difficult to cause more than a rush of wind or fleeting flame, no matter the volume of Meyda one has access to. 
 The informing of Meyda comes in two parts. Universal laws of physics, and focused consciousness. When one draws a circle within a circle whose diameters are in the ratio 1:3 and places a [[Minor Stone]] in its center. The first half is accomplished by the precision of the circles and the second by the very nebulous concept of the stone’s considered state of “insideness”. When one also acknowledges that the first circle represents Attovia and the second its “soul” this further increases the effect. 

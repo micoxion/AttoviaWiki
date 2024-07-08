@@ -2,6 +2,7 @@
 title: Meyda-flow
 draft: false
 tags:
+date: 2024-06-28
 ---
 Meyda-flow is the general term used when discussing the measure of [[Meyda]] required to power a spell and the type of flow involved in its casting.
 # Types of Flow

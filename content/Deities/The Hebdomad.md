@@ -4,6 +4,7 @@ draft: false
 tags:
   - Spoiler
   - 🌶🌶
+date: 2024-07-01
 ---
 The Hebdomad is the term used for the seven demon lords born of Graskoroth's malevolent rage, each spawned as lord of a different aspect of Graskoroth's darkness.
 ## Asthéneia Lord of Disease

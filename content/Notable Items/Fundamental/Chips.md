@@ -2,6 +2,7 @@
 title: Chips
 draft: false
 tags:
+date: 2024-07-02
 ---
 Chips are the most common currency on Attovia. Found in all [[True Monsters]] the chip retains value due to its intrinsic magical properties, and the comforting knowledge that a chip represents one less goblin to haunt your fields. 
 

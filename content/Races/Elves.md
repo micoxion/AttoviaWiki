@@ -1,7 +1,8 @@
 ---
 title: Elves
 draft: false
-tags:
+tags: 
+date: 2024-06-27
 ---
 Paragons of beauty and pride, elves live extremely long lives. Often a bit stuck up, they have a bad habit of taking their lands standards for granted.
 

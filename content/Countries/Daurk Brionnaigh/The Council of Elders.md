@@ -1,7 +1,8 @@
 ---
 title: The Council of Elders
 draft: false
-tags:
+tags: 
+date: 2024-06-27
 ---
 Presiding over all legal and cultural matters of import within [[Daurk Brionnaigh]] the council is a very select group of 20 [[Master Cruthman]].
 

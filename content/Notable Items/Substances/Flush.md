@@ -4,6 +4,7 @@ draft: false
 tags:
   - Spoiler
   - 🌶
+date: 2024-07-02
 ---
 Flush is an incredibly powerful drug. It brings on a rush of extreme energy levels, and reduces stress to negligibility. Its greatest property however, is its magical nature which removes the crash one would expect after such a high. This not only makes it quite expensive, but also extremely addictive. Hosting the highest price per dose of any drug due to the difficulty in its creation. Some have found ways of producing it cheaper resulting in a more affordable but far more dangerous version known as Cracked Flush. The [[Zyclester Empire]] is heavily inundated with the substance due to their proximity to the [[Grask Forest]] where the most key ingredient resides: tears from the [[Eye of Hormus]].
 

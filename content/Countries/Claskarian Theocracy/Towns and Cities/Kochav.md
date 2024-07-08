@@ -4,6 +4,7 @@ draft: false
 tags:
   - Spoiler
   - 🌶
+date: 2024-07-03
 ---
 Kochav sprawls in an oblong, awkward shape, stretching in and out of the nearby forest, compressing at the forest's densest portions and expanding when large clearings are found. With little structure or organization there are only 3 named streets in the [[Claskarian Theocracy|Claskarian]] capital, each stretch 10-20 miles curving in and around outcroppings of trees, houses, and across open plains with sparse huts and empty fields. There are many people selling many things but few named shops or structured businesses. Most businesses are run out of someone's house, half barter half currency, its a jungle of free market enterprise for better or worse.
 

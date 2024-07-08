@@ -1,14 +1,10 @@
 ---
 title: Daurk Brionnaigh
 draft: false
-tags:
+tags: 
+date: 2024-06-27
 ---
-<hr>
-
 Daurk Brionnaigh is home of the [[Rugadh Sliabh]]. Its borders consist primarily of [[Darkmount]] Mountain, and some small stretch of farmlands near its base. Though the great mountain has not erupted for several hundred years the land is still black from Darkmount's active century. The soil at its base is still rich in nutrients allowing for a consistent, self contained food supply.
-
-<hr>
-
 # Government
 A council of elders presides at the head of all major decisions made for the people of Brion. The Rugadhian system of government has not changed in over a millenia, but their people's nature leads them to require little governing so long as craft and forge can be used and improved. 
 

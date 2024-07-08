@@ -5,6 +5,7 @@ tags:
   - incomplete
   - Spoiler
   - 🌶🌶🌶
+date: 2024-07-07
 ---
 Externally referred to as the Krakens Cult, or more long form the Cult of the Kraken, internally this group of [[Graskoroth]] worshipers refer to themselves as **Those who Seek the Deep** or **Divers** when connecting/meeting in public. The end goal of the cult is to bring Grask back into power. The means is difficult though, it requires a ritual to adjust or remove the [[Contracts|contract]] between [[Hormus]] and Attovia. The majority of the cults funds and proceedings are funneled towards the research required to conquer this hurdle. 
 

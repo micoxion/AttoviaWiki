@@ -5,6 +5,7 @@ tags:
   - Spoiler
   - 🌶
   - incomplete
+date: 2024-07-03
 ---
 Traditional, powerful and beautiful, the elven lands of Beleg gul span the frozen north, to the temperate meridian of Attovia. Unlike its ecosystems the populace of Beleg gul lacks diversity. Few non-elven citizens are allowed legal entrance, and those who are allowed must be prepared to face segregation, systemic racism, and laws built to favor their long lived rulers. Behind the mask of beauty, lies the ugly face of corruption.
 

@@ -1,8 +1,8 @@
 ---
 draft: false
 title: Zyclester Empire
+date: 2024-06-27
 ---
-
 One of the two largest nations on Attovia. Boasting rich fertile land thanks to the deltas formed by many rivers running through Zyclester. The Zyclester Empire takes pride in its magic and technology being one of the most generally advanced nations in both. 
 Previously ruled by the recently deceased half-elf emperor [[Leduin Aearonian]], the empire is kept safe from both internal and external threats via their judicial organization the [[Chain Keepers]], and their powerful military.
 

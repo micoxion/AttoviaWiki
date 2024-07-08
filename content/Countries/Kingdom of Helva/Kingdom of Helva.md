@@ -4,6 +4,7 @@ draft: false
 tags:
   - Spoiler
   - 🌶
+date: 2024-07-03
 ---
 The most eclectic of the modern nations, the Kingdom of Helva hosts a staggeringly diverse population. Created after [[The Magic War]] through diplomatic espionage they are the first and only current kingdom with an elected monarch. 
 <hr>

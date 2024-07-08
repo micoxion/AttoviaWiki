@@ -1,3 +1,9 @@
+---
+title: Prophecy of the Shaken World
+draft: false
+tags:
+date: 2024-07-06
+---
 > [!quote] Uhrata Kaikki, First Head Priest
 > "Sacrifice of the future is today's glory."
 

@@ -4,6 +4,7 @@ draft: false
 tags:
   - Spoiler
   - 🌶🌶
+date: 2024-06-28
 ---
 Contracts come in several forms. They can be legitimate pen and paper signed in blood contracts, or more extravagant ritualistic contracts. Rituals often form bi-directional [[Tethers]] between one being and another. The word Contract does not quite capture the extent of impact and power to which this phenomenon is privy to, but it is perhaps the closest descriptive word that could be used.
 

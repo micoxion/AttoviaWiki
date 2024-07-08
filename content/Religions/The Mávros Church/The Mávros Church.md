@@ -5,6 +5,7 @@ tags:
   - incomplete
   - Spoiler
   - 🌶
+date: 2024-07-07
 ---
 
 More colloquially known as the Cult of Akhar the Mávros Church is one of the largest named [[Dragons|Dragon]] cults and hosts roughly 1300 members spread across a number of locations, with the vast majority living in a large commune on the western edge of [[Claskarian Theocracy|Claskaria]]. They have a well defined hierarchy, and conduct regular rituals and rites that provide a structure and consistency that helps maintain numbers.

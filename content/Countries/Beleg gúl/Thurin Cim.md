@@ -4,6 +4,7 @@ draft: false
 tags:
   - Spoiler
   - 🌶🌶
+date: 2024-07-03
 ---
 The Thurin Cim are the dirtiest of the elven royal bloodlines, and utilized for [[Beleg gúl|Beleg gúl's]] darkest dealings. The Thurin Cim are internally organized in a simple pyramid system. Each layer of the pyramid is horizontally disconnected, ensuring information has no redundancy, and that rebellion is as difficult as possible.
 The Herdir Cim reports directly to the king and is head of two or more Ortirmo. Each Ortirmo delegates orders to and from individual Nehtar. Each layer is closely monitored and any convening done at any level is immediately shut down, usually via quiet execution for all parties in question.

@@ -2,6 +2,7 @@
 title: CoH Temples
 draft: false
 tags:
+date: 2024-07-06
 ---
 [[Church of Hormus]] temples are full of symbolism, each body part is represented in some portion of the architecture and construction process.
 # Eye
