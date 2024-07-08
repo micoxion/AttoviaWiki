@@ -13,7 +13,7 @@ Generally the more commonly understood Meyda-flow type, named by the early wizar
 - Arcane Lock
 These spells are almost always characterized as singular impactful results, eruptions of elements, sudden non-continues mental attacks, or the switching of one state to another. 
 ## Siphon-flow (Si-flow)
-Siphon-flow spells are generally not taught to beginner workers of Meyda as they require more training so as to not overwork one's [[Nephesh (5e)]]. Siphon-flow describes a spell which consumes a continuous, often smaller quantity of Meyda to facilitate a temporary or lasting effect. Examples of Siphon-flow spells are listed below:
+Siphon-flow spells are generally not taught to beginner workers of Meyda as they require more training so as to not overwork one's [[Soul]]. Siphon-flow describes a spell which consumes a continuous, often smaller quantity of Meyda to facilitate a temporary or lasting effect. Examples of Siphon-flow spells are listed below:
 - Fog Cloud
 - Mage Armor
 - Alter Self
