@@ -1,0 +1,7 @@
+---
+title: Birth and Fall of the Ambar Tree
+draft: false
+tags: 
+date: 2024-07-09 21:34
+---
+[[Hormus]] was sad when he saw how quickly the [[Human|humans]] would die. In fractions of his own lifetime he watched entire generations rise and fall among the human people. When he made the [[Elves]] he gifted them with a seed and the stipulation that so long as they cultivated and protected this seed they would live exceptionally long lives. The strange plant grew quickly under the rapt attention of its people and before long the [[Ambar Tree]] stood far above the surrounding forest canopy. Its massive roots and branches full of the hustle and bustle of early Elven society. The earliest Attovian advancements in magical study and the arts were made during this small golden age, when the ancient Elves utilized their long lives to learn and grow as a people. However, their millennia of experience caused them to lose site of their shortcomings. When [[Graskoroth]] filled the shores of Attovia with his spawn, the people of the Ambar Tree were sorely unprepared and their beautiful home was destroyed. The beacon of civilization the Ambar Tree represented was burned to the forest floor and a small glowing seed at its heart was all that was left. Centuries later a new Ambar Tree would sprout several hundred miles away as the first of the [[Beleg gúl]] began to rebuild their long lost utopia.

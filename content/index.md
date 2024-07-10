@@ -27,4 +27,5 @@ As the wiki grows exploration may begin to feel daunting, here are a few recomme
 	These are of course only applicable if you think you might play in a game of mine any time soon. If that is not the case then sally forth curious [[Soul]]!
 - #incomplete 
 	Notes with the incomplete tag aren't *really* publish ready, but have information that isn't incorrect. They will often be quite short or small, but at least help flesh out more of the linking. Hopefully I can reduce the number of files that are tagged as such but we will see.
-
+- #old 
+	Files that at some point will hopefully get an edit, some are several years old, and really could use some better prose, or perhaps are off the lore mark a bit these days.

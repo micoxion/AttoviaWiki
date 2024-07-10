@@ -1,0 +1,7 @@
+---
+title: Shen Dynasty Rise to Power
+draft: false
+tags: 
+date: 2024-07-09 21:46
+---
+Gnomes are specifically connected to baking in the minds of the populace, the majority of bakeries in some of the largest countries are owned and run by gnomes. This first began when the [[Ashari]] leaders attempted to right the systemic mistreatment of the gnomish people, granting them a large portion of land and an economic exclusivity contract on the industry of their choice. At the time the **Wei** house was the political group in power and requested baking as a snub to both Ashari and their rivals the **Fu** clan. It turned out that the resource allocation to build a nation of bakers was low and the resulting status as confectionery geniuses helped to level the previous discrimination. The **Fu** clan who were given the responsibility of funding and executing the project quickly rose to power as they controlled the major source of income for the entire populace. Soon the reputation of gnomish bakers began to spread to other developing nations and they were invited to work elsewhere. The **Fu** clans new found power had already corrupted their upper crust and they turned down anyone who wouldn’t provide an exclusive contract. This attitude was not appreciated by the **Shen** house who started a university and sent their even more competent alumni to whoever would have them. Once the [[Zyclester Empire]] began to hire the **Shen** clan’s gnomes en masse they became a more legitimate family, quickly surpassing the **Fu** in wealth and reputation. 

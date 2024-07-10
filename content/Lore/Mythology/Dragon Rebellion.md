@@ -1,0 +1,7 @@
+---
+title: Dragon Rebellion
+draft: false
+tags: 
+date: 2024-07-09 21:38
+---
+[[Graskoroth]]'s dragons were exceedingly powerful and intelligent. Far more so than any other animal species and this was to Graskoroth both a blessing and a curse. The first several centuries while the dragons were young and obedient were a time of domination for the monsters and Graskoroth's campaign against [[Hormus]]. However, as the dragons began to mature and grow in both intelligence and power their obedience began to wane. They soon grew envious of the freedom Hormus gave to his creation, and began to plot. The first green dragon [[Dgalion]] convinced Graskoroth to conduct a large scale attack involving all 10 dragons. By the time Graskoroth realized that his dragons were never returning, and had in fact turned to destroying HIS monsters it was too late to stop them, for they had grown more powerful than any simple spawn of rage and hate, they could [[Mach'shavah Chofesh|think for themselves]]. The dragons did not immediately help turn the tide of the age long battle between the sentient races and the monsters. Instead the dragons first utilized their freedom to establish firm holds in Attovia constructing lairs and taking strongholds. Roughly a generation later the dragons began a violent campaign against Graskoroth's monsters massacring Graskoroth's front lines and driving thousands of his spawn back to the sea. 

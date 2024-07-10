@@ -1,0 +1,9 @@
+---
+title: Sea Trade and Travel
+draft: false
+tags:
+  - Spoiler
+  - 🌶
+date: 2024-07-09 21:27
+---
+Sea faring travel is limited heavily to the immediate coast of [[Attovia]] since traveling too far from land is like sending up a flare to the many massive and hungry sea beasts in deeper waters. This limitation puts a heavy damper on those seeking to conduct trade routes over water instead of slow and varied land, but where there is money to be made, people will find a solution. In Attovia's case sea faring technology was pushed heavily by [[Ornsiire Pre-imperialism|Ornsiire]] before their [[Ornsiire Becomes an Empire|rise to imperialisms]]. Vast amounts of the small Ornsiire treasury were allotted to the development and construction of a moderate fleet of varied ship designs. With this new fleet of trade vessels they began to sail to and from [[Beleg gúl|Elven territory]] efficiently connecting a previously high risk low profit trade route. The natural response to this was a meteoric rise in sea based crime. The soon to be called [[Gabraa'ir|Manir]] began to flood the northern coast. This further prompted a war of progression, new defensive measures taken by the Ornsiire navy meant that only the best, most up to date Manir ships could reap rewards. Over time the Ornsiire to Elf trade route became extremely treacherous due to an over inflation of easy fortune seekers, which in turn caused the majority of Manir vessels to leave the business as it was no longer profitable. If you weren't the best, you were poor, or you were dead. Today, the trade route is still in effect with the now sovereign Beleg gúl. Manir attacks and levels of trade have balanced out over the course of roughly 2000 years, and the naval battles that now occur are deadly, explosive events that would baffle those who came before.
