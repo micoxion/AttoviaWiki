@@ -4,7 +4,6 @@ draft: false
 tags:
 date: 2024-06-27
 ---
-# Description
 Any sentient being who has undergone mutation due to extended exposure to a demonic influence, or have received demonically mutated genes through sexual reproduction. The level of mutation varies wildly between individuals in all races, some forms of the gene manifest as simple patches of discolored skin while others are left with large curling horns or strange semi-prehensile tails.
 
 # Appearance
