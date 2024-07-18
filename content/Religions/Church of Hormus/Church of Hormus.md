@@ -57,5 +57,3 @@ I will teach of Hormus and the contentment he gives
 # Books
 #### The Book of Nefiqaddis (Holy Giant in Aramaic/hebrew)
 The primary holy book of the CoH, it contains ancient mythological writing of [[The Great Conflict]] and [[Hormus Sundered|The Sundering]], as well as rites, rituals, and tenets of believers and especially those who commit to the Tear.
-# World Builder Notes
-Hormus' body parts are located all across the continent of Attovia. His gargantuan eye lies staring at the sky in the [[Grask Forest]] and is the most commonly known part. However, other parts lie in other places their residual power causing strange effects wherever they lie. The Foot is beneath the sands of the [[Twilight Desert]], and [[🌍World Building/Attovia/🏔Landmarks/The Head Library|The Head Library's]] foundations are built from his skull. 

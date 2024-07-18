@@ -8,7 +8,7 @@ The sands of the Twilight Desert mysteriously absorb the majority of sunlight, t
 # Details
 The sands are fine to travel on during their day cycle, however at night when the sands begin to release the energy they absorbed the 12 hours before they become scalding hot. Extended exposure with most materials renders leather burnt and in tatters, natural rubbers melted, and skin with third degree burns. Specialty boots can be bought at the [[Twilight Outpost]] trading post. These Panner Boots as their called by locals are magically enchanted to facilitate extreme insulation protecting the wearer's feet from major burns.
 # Creatures
-- [[🌍World Building/Attovia/🖼Notable Landscapes/Twilight Desert/Monsters/Geal Worm|Geal Worm]] 
+- [[Geal Worm]] 
 - [[Twilight Piper]]
 # Items/Materials
 - [[Twilight Fruit]]

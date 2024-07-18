@@ -13,7 +13,7 @@ date: 2024-07-01
 - [[The Hebdomad#Akinisía Lord of Stagnation (Foot opposite)|Akinisía]]: Corrupt demon Lord of Stagnation.
 - [[The Hebdomad#Kraipáli Lord of Debauchery (Leg opposite)|Kraipáli]]: Corrupt demon Lord of Debauchery.
 - [[The Hebdomad#Peína Lord of Hunger (Torso opposite)|Peína]]: Corrupt demon Lord of Hunger.
-- [[🌍World Building/Attovia/😇Deities/Krag the Quick|Krag the Quick]]: Neutral god of the Athletics and the Day Sky
+- [[Deities/Krag the Quick|Krag the Quick]]: Neutral god of the Athletics and the Day Sky
 - [[Lielun]]: Neutral god of the Night Sky and Weather
 - [[Ubumnyama]]: Corrupt god of Darkness and Control
 - [[Urumuri]]: Pure god of Light and Freedom

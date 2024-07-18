@@ -17,7 +17,7 @@ Referring to the planets own name, ancient superstition about offsetting the bad
 ### Uhrataday
 Named after the first ever [[The Head Priest|Head Priest]] of the Church of Hormus Uhrata Kaikki.
 ### Kragday
-Named after [[🌍World Building/Attovia/😇Deities/Krag the Quick|Krag the Quick]].
+Named after [[Deities/Krag the Quick|Krag the Quick]].
 ### Mosday
 Long since shortened from the previous Hormusday, Mosday is the seventh and last day of an Asharin week.
 # Months
