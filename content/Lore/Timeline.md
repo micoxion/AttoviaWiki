@@ -11,7 +11,7 @@ See [[Eras of Attovia]] for a rundown on Era's abbreviations and a short descrip
 | Event                                             | Date | Era |
 | ------------------------------------------------- | ---- | --- |
 | [[The Great Conflict]]                            | 7000 | AoC |
-| [[[The Birth of Death]]                           | 6780 | AoC |
+| [[The Birth of Death]]                            | 6780 | AoC |
 | [[Lielun's Retreat]]                              | 4880 | AoC |
 | [[Continents Created]]                            | 2980 | AoC |
 | [[Animals Created]]                               | 2730 | AoC |
