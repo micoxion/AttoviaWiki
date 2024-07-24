@@ -4,8 +4,8 @@ draft: false
 tags:
 date: 2024-07-06
 ---
-The Church of Hormus focusses heavily on their [[Hormus|god's]] sacrificial aspect. The only widely recognized religion with more warlocks than paladins or clerics, the majority of those who wish to pledge service to their deity perform a brutal ritual known as the "Tear" and become one of the [[Sundered Priests|Sundered]].
-
+The Church of Hormus focusses heavily on their [[Hormus|god's]] sacrificial aspect. The only widely recognized religion with more warlocks than paladins or clerics, the majority of those who wish to pledge service to their deity perform a brutal ritual known as the "Tear" and become one of the [[Sundered Priests]].
+Followers of the religion generally refer to one another and themselves as “The Bereaved”. Generally not associated with any tenet of the belief in regards to grief or sorrow, but attributed to the fact that their god’s physical body is considered deceased after his penultimate sacrifice.
 # Tenets
 The Church of Hormus (CoH) focuses its beliefs around the 7 body parts of Hormus that where ripped from him during [[The Great Conflict]]. Each body part represents a different aspect of Hormus' benevolence which allows for a very wide variety of foci for believers. The seven parts and their related concepts are listed below:
 - Eye: Healing
@@ -53,7 +53,6 @@ I will sacrifice my life for inner peace
 I will become a beacon
 I will sacrifice my society to strengthen within
 I will teach of Hormus and the contentment he gives
-
 # Books
-#### The Book of Nefiqaddis (Holy Giant in Aramaic/hebrew)
+#### [[The Book of Nefiqaddis]]
 The primary holy book of the CoH, it contains ancient mythological writing of [[The Great Conflict]] and [[Hormus Sundered|The Sundering]], as well as rites, rituals, and tenets of believers and especially those who commit to the Tear.
