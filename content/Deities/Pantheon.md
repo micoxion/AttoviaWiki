@@ -15,6 +15,7 @@ date: 2024-07-01
 - [[The Hebdomad#Peína Lord of Hunger (Torso opposite)|Peína]]: Corrupt demon Lord of Hunger.
 - [[Deities/Krag the Quick|Krag the Quick]]: Neutral god of the Athletics and the Day Sky
 - [[Lielun]]: Neutral god of the Night Sky and Weather
+- [[Ukko]] Neutral god of the Day Sky and Thunder
 - [[Ubumnyama]]: Corrupt god of Darkness and Control
 - [[Urumuri]]: Pure god of Light and Freedom
 - [[Mammon]]: Neutral god of Commerce and Progress
@@ -24,3 +25,5 @@ date: 2024-07-01
 - [[Şivan Rêk]]: Pure god of tides and uncorrupt ocean life.
 - [[Dia na Péisteanna]]: Corrupt worm god of the Goweh.
 - [[Trebulance]]: Corrupt tickster god of cons and thieves.
+- [[Qiúfàn Nǚwáng]] Pure goddess of captives and justice
+- [[Pellervo]] Pure god of the harvest
