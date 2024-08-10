@@ -51,5 +51,3 @@ The second of the two sisters Peína is also often referred to as the Lady of Hu
 It was common for those who were famished to attempt to gift Peína with large quantities of material posessions for consumption in the hopes that she might move on, or grant them power with which they might find the means to acquire food. Unfortunately, the position of Herald of Peína came with an aching hunger that could not be sated. Though unable to die from malnourishment many Heralds killed themselves after being driven mad by their unfulfillable cravings. 
 ### Common Depictions
 Peína's most common imagery is that of a massive snake devouring whole mountains or forests. In some cases she is instead a humanoid figure dressed in rags with the head of a snake.
-# World Builder Notes
-Each demon lord name is a greek version of their aspect

@@ -9,6 +9,3 @@ Kochavism also known as The Star Gazers, so named after the method by which [[Ur
 
 # Tenets
 Kochavists prioritize freedom. Urumuri has seen fit to grant them new life by sending them to her planet of birth, they will use that granted freedom to live a life free of shackles and obligations. The Great Platinum Dragon is praised by all Kochavists, but they are also free to follow and abide by any other religion so long as it is by choice, for this too is worship to the Brightmother. 
-
-# World Building Notes
-Kochav is star in aramaic 
