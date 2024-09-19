@@ -1,0 +1,9 @@
+---
+title: Troll
+draft: false
+tags:
+  - Spoiler
+  - 🌶🌶
+date: 2024-09-19 11:25
+---
+Where the [[Goblin|Goblins]] appear to be the direct offspring of [[Graskoroth|Graskoroth’s]] wrath, the Troll’s are instead likely born from his extreme greed. Unlike other [[True Monsters]] ravenous consumption of organic matter, Trolls care more about collection. Becoming envious and jealous of any creature that appears to have **more** than them, Trolls create many small hordes which they easily discard in favor for something else that suddenly appears more valuable or worthy of their attention. Occasionally a Troll may become aware of the existence of [[Monster Stones]], it then often becomes entirely homicidal towards all other True Monsters, removing their stones and embedding them in its own flesh. If left unchecked over time the Troll becomes an Epistroménos, a troll who’s normal layer of flesh has been completely replaced by Monster Stones. They exhibit a remarkable resistance to all forms of [[Meyda]]-work and their regeneration capabilities grow in relation to the amount of stones they have added to their body. Ancient writings have been found that appear to describe such creatures dominating ancient battlefields during the [[Era’s of Attovia|Times of Sorrow]], but few are found or heard of today due to the consistent practice of looting True Monster corpses for [[Chips]]. The very nature of how most True Monster’s are killed as well as their generally much lower population makes the odds of the already dim witted Trolls discovering how Monster bodies are powered exceedingly unlikely.

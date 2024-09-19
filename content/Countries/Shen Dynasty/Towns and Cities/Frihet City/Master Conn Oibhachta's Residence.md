@@ -1,0 +1,11 @@
+---
+title: Master Conn Oibhachta's Residence
+draft: false
+tags:
+  - SilverSwords
+date: 2024-09-19 11:34
+---
+Amidst the functional Great Dock architecture of highly regarded businesses stands a [[Frihet City]] eye sore. [[Master Conn Oibhachta|Master Conn Oibhachta's]] strange boxy metal house stands some 50 ft. from a rarely used [[Brionnaigh Hooker]] christened the *A Mháire Bhreá* or *Lovely Mary* in common. Conn constructed the house himself using a suspicious amount of [[Rugadhian Steel]] that he brought with him from [[Darkmount]]. He has slowly added on to it over his years in the [[Shen Dynasty]] and the surrounding buildings give his property a wide birth as the conjoined mass of metal boxes continues to press against its confines. Portions of the outside built from traditional metals stand in differing states of rusted decay giving the structure a mottled brown hue occasionally punctuated by dark Rugadhian Steel peering out from underneath. Several sets of metal lattice supports appear to have been recently added to support dangerously outstretched stacks.
+# Interior
+Though the external appearance is that of a madman's dream home, the interior is surprisingly organized. Much of the floor is furnished with a simple carpet of wooden floor, and the interior walls, shielded from the elements, have retained a consistent grey sheen. Conn tends to tack on a new box whenever he has a new idea or experiment, "To keep it organized" he says to the few who have entered. There are ladders and simple metal stairways bolted directly to walls everywhere one leading to a bubbling cauldron, a desk cluttered in paper, a [[Meyda-Circle]], a small forge, or truly anything one might imagine a [[Those who Work Meyda|Meyda-worker]] could be interesting and several things one might not. 
+The central room hosts a large lavish rug on which a stone bed, and full living space worth of furniture sits. An oak table with matching chairs, [[Spider Silk]] couch, and two plush chairs stand in the center, and any wall real-estate not taken up by metal stairs is occupied by countless bookshelves filled to bursting. Two large standout cabinets presumably for food storage stick out from the rest of the open shelving.
