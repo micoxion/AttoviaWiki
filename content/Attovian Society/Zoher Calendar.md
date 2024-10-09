@@ -1,5 +1,5 @@
 ---
-title: Asharin Calendar
+title: Zoher Calendar
 draft: false
 tags: 
 date: 2024-07-09 21:25
@@ -9,7 +9,7 @@ The planet of Attovia has a very uniform orbit of 350.10 days.
 ### Ambarday
 Taken from the elves old calendar Ambar day is the current widely accepted first day of the week. Each year starts exactly on an Ambarday. Except every 10 years in which (last day of the week) occurs twice in a row to account for a noticeable offset.
 ### Slevday
-Commonly thought to have originated from the [[Rugadh Sliabh]] named after their god [[Aoire Sléibhe]], and slowly mutated over time after being adopted by the Asharin calendar. 
+Commonly thought to have originated from the [[Rugadh Sliabh]] named after their god [[Aoire Sléibhe]], and slowly mutated over time after being adopted by the Zoher calendar. 
 ### Atonday
 Also referred to as the day of weakness, this week gets its unfortunate name from [[The Hebdomad]], specifically Atonía Lord of Weakness. 
 ### Tovday
@@ -19,9 +19,9 @@ Named after the first ever [[The Head Priest|Head Priest]] of the Church of Horm
 ### Kragday
 Named after [[Deities/Krag the Quick|Krag the Quick]].
 ### Mosday
-Long since shortened from the previous Hormusday, Mosday is the seventh and last day of an Asharin week.
+Long since shortened from the previous Hormusday, Mosday is the seventh and last day of a Zoherian week.
 # Months
-The Asharin Calendar months are taken from the elvish words for their numerical order, keeping things consistent and easy.
+The Zoher Calendar months are taken from the elvish words for their numerical order, keeping things consistent and easy.
 ### Minui
 ### Atya
 ### Nelui

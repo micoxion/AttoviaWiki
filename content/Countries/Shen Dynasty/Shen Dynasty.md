@@ -15,7 +15,7 @@ The Shen Dynasty, or Shen as many are found to call it is a country in a constan
 
 ********************Zyclester:******************** The [Zyclester Empire](Zyclester%20Empire.md) has a contract with the Shen Dynasty obligating them to only employ gnome bakers. This has helped to smooth over some of the bad blood between the two countries due to a history of oppression.
 
-**Ashari:** The Asharin Theocracy was the first country to make steps towards freeing gnomes. The land which makes up the Shen Dynasty was given to the gnomes in large from [[Ashari|Ashari's]] own borders.
+**Zoher:** The Zoher Theocracy was the first country to make steps towards freeing gnomes. The land which makes up the Shen Dynasty was given to the gnomes in large from [[Zoher|Zoher's]] own borders.
 # Notable Families
 ### Shen
 The **Shen** family has maintained power as the ruling family after their initial [[Shen Dynasty Rise to Power|rise to power]]. It is a tenuous grasp in which their greed has begun to backfire, as their nation begins to steadily turn on them.

@@ -4,9 +4,6 @@ draft: false
 tags: 
 date: 2024-06-27
 ---
-<hr>
-
-# Description
 Daurk Brionnaigh is home of the [[Rugadh Sliabh]]. Its borders consist primarily of [[Darkmount]] Mountain, and some small stretch of farmlands near its base. Though the great mountain has not erupted for several hundred years the land is still black from Darkmount's active century. The soil at its base is still rich in nutrients allowing for a consistent, self contained food supply.
 
 <hr>
@@ -29,10 +26,9 @@ All other crimes are to be evaluated by [[The Council of Elders]] and the culpri
 # Political Status
 
 ### [[Claskarian Theocracy]]
-Claskarian paladins and officials often commission special made weaponry from Brion. They have never complained with the result of any order, outside of timeliness. Dwarves are prone to being perfectionists.
-
+Claskarian paladins and officials often commission special made weaponry from Brion. They have never complained with the result of any order, outside of timeliness. Rugadh are prone to perfectionism.
 ### [[Zyclester Empire]]
-The Rugadhians have a testy relationship with the Zyclester Empire, as they attempted to haggle extremely low prices on bulk weaponry trade during a war. The dwarves do not take kindly to haggling, they will always price their work at an exacting worth.
+The Rugadhians have a testy relationship with the Zyclester Empire, as they attempted to haggle extremely low prices on bulk weaponry trade during a war. The Rugadh do not take kindly to haggling, they will always price their work at an exacting worth.
 
 ### [[Ornsiire Empire]]
 Weapon trade
@@ -46,24 +42,21 @@ Little to no interaction. The gnomes of the Shen Dynasty have little time to spe
 ---
 # Festivals and Rituals
 ### Weddings
-Dwarven weddings are relatively down played compared to many other cultures. Due to the Dwarven culture's suppression of emotive response weddings are often private or immediate family affairs in which several key traditions are conducted. 
+Rugadhian weddings are relatively down played compared to many other cultures. Due to Rugadh culture's suppression of emotive response weddings are often private or immediate family affairs in which several key traditions are conducted. 
 - Carving the family Totem
 	 The couple each take a chisel and hammer to a 2x3 foot cuboid block of stone. They each carve one half of the small totem often incorporating runes and imagery important to their family history and heritage. This often takes roughly 2 hours of non-stop work.
 - Exchanging of rings
-	 Before the ceremony the two lovers create a set of three rings each. Then during this portion they take turns braiding the custom rings into each other's beards. Each ring's material represents a different aspect of dwarven marriage:
+	 Before the ceremony the two lovers create a set of three rings each. Then during this portion they take turns braiding the custom rings into each other's beards. Each ring's material represents a different aspect of Rugadhian marriage:
 	 **Gold:** The rarity of true love
 	 **Silver:** Purity between partners
 	 **Tungsten:** The strength of the marriage bond
 - Request [[Aoire Sléibhe|Aoire Sléibhe's]] blessing on the couple.
 ### Christening a Masterwork
-When [[The Council of Elders]] has deemed a dwarven cruthman's work a masterwork for the first time a ceremony is held the following month once the cruthman's statue is complete. During the ceremony his statue is erected and the masterwork displayed in the statues hands overseen by the council to the fanfare of a dwarven choir and cheering crowd. 
+When [[The Council of Elders]] has deemed a Rugadh cruthman's work a masterwork for the first time a ceremony is held the following month once the cruthman's statue is complete. During the ceremony his statue is erected and the masterwork displayed in the statues hands overseen by the council to the fanfare of a Rugadhian choir and cheering crowd. 
 
 # Cultural Quirks/Notes
-
-### Racial Naming Convention
-Dwarves prefer to refer to their entire race as Rugadh Sliabh meaning Mountain Born, or Rugadh.
 ### Signs and acts of respect
-The utmost sign of respect in dwarven culture is the act of laying your smithing hammer or comparable tools at the feet of the one you are deferring to.
+The utmost sign of respect in Rugadhian culture is the act of laying your smithing hammer or comparable tools at the feet of the one you are deferring to.
 ### Naming Convention
 The number and order of a Rugadhian’s names can tell one a substantial amount about their life. When first born a Rugadh has one name given them by their parents. Their second name will almost always be their chosen profession. Rugadhian’s change profession extremely rarely, as there is some social taboo associated with it. One’s profession is believed to have been built into their person. Changing their profession implies they had been created faulty by Aoire Sléibhe. 
 Further names could come from several other sources:

@@ -6,6 +6,7 @@ tags:
   - 🌶
 date: 2024-07-03
 ---
+
 Kochav sprawls in an oblong, awkward shape, stretching in and out of the nearby forest, compressing at the forest's densest portions and expanding when large clearings are found. With little structure or organization there are only 3 named streets in the [[Claskarian Theocracy|Claskarian]] capital, each stretch 10-20 miles curving in and around outcroppings of trees, houses, and across open plains with sparse huts and empty fields. There are many people selling many things but few named shops or structured businesses. Most businesses are run out of someone's house, half barter half currency, its a jungle of free market enterprise for better or worse.
 
 ---
@@ -23,12 +24,13 @@ Urumuri
 ## Shops
 - Blacksmith
 	 A grouchy Rugadhian named Doran makes a tidy profit here in Kochav outclassing any would be competition in quality of work. He had grown disillusioned with the way [[Daurk Brionnaigh]] was being run and has lived here in Kochav for the last 200 years of his life, creating fine cutlery and dishes for the wealthy, and the occasional emergency weapon commission.
+	 After the mountain had gone silent his business was booming, to a point that he couldn't keep up with. While thankful for the extra attention, he is happy the mountain is fixed to at least relieve him of some work.
 	 Commission rates:
 	 - Cutlery set: 1 bit per set
 	 - Dishware: 2 bits each
 	 - Weapon: 5-1000 slivers heavily dependent on the request and requested materials.
 	 - Armor: 100-2000 slivers heavily dependent on the request and requested materials.
-- Legitimate Apothecary
+- Apothecary legit
 	 Sierra Lustrum a [[Krest]] woman who, she is a bit scatter brained but extremely good at her job. Her antidotes, tinctures, oils, and potions are prized by the entire city.
 - Apothecary scam
 	 Many newcomers or those who can do with just a placebo come to Rilver, a sleazy halfling man who's most legitimate sale is a moderately strong tea.
@@ -41,7 +43,6 @@ Urumuri
 - Magic Item Seller scam
 	 There is always someone selling fake magical goods, or even cursed goods in Kochav. The current miscreant conning people out of large sums of chips for useless charms and inert wands is Mistress Moshennik, a goliath from [[Strana Gigantov]].
 - Butcher
-	 
 
 ## Inns/Taverns
 - Kochav Nights
@@ -50,8 +51,8 @@ Urumuri
 	 Tankard of ale: 5 shards
 	 Simple meal: 3 shards
 ## Other
-- The Gilded Corner
-	 A group of the wealthier citizens of Kochav have created a small neighborhood in which they control the housing market so as to ensure only those of the upper crust may live there. 
+- [[The Gilded Corner]]
+	  
 - The House of the Divine Star
 	 A small mansion that functions as both the residents of the governing body and their relevant offices. A large foyer remains open at all times for any citizen who might be in need of emergency shelter, or who have a request of some kind. There is often a line of people waiting to be heard by the Divine Star.
 

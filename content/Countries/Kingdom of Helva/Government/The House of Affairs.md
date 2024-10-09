@@ -1,4 +1,10 @@
-
+---
+title: The House of Affairs
+draft: false
+tags:
+  - incomplete
+date: 2024-09-29 17:26
+---
 ```mermaid
 graph TD;
 	A[Head of House\n<b>William Woodsoul</b>]-->B[Head of Operations\n<b>Valeria Woodsoul</b>]
@@ -9,10 +15,12 @@ graph TD;
 	F-->G["Private Operatives\n<b>Desria (Spiderfolk)</b>\n<b>Naya (Spiderfolk)"]
 	F-->H["Public Operatives\n<b>Tarik Woodsoul</b>\n<b>Dimitri Hardback (Yewdi)</b>"]
 	C-->I[Administrative Assistant\n<b>Christos Woodsoul]
-	C-->J[Bookkeepers\n<b>TBD</b>\n<b>TBD</b>\n<b>TBD</b>\n<b>TBD</b>]
+	C-->J[Bookkeepers]
 ```
 # Details
 The House of Affairs is at present run via the influential family Woodsoul. Nepotistic tendencies is relatively normal in Helva and its Houses, but none quite so prolific as House of Affairs. Few members even at the lowest rungs are hired from anywhere but within the bloodline. This is argued as beneficial due to its encapsulated nature since the subject matter of Affairs is to be kept hush hush at all times.
+# Positions
+
 # Officers
 ### William Woodsoul
 William is a hard, Utilitarian man who puts the good of the House above all else, even truly his nation. He will do anything within his power to maintain his Houses good standing on the Council whilst maintaining the façade that they are helping the nation. 
@@ -25,3 +33,5 @@ A money grubbing man of shrewd business Teo has his financial fingers in far mor
 Teodor is William's older brother
 ### Christos Woodsoul
 Son of Teodor Christos mostly attempts to get by without doing any real work, however Valeria often finds him when he would least like her to and has some project or idea or work related thing she wants him to relay to his father.
+### Clarence Woodsoul
+Clarence's primary job on the Council is to maintain the House of Affairs autonomy. He is a sweaty, worried man who is constantly putting out political fires. Though he is pushed around by his cousins William and Teodor he is quite adept at keeping a majority of the other Council members in his good graces. In many ways he has singlehandedly allowed for the House of Affairs continued success.

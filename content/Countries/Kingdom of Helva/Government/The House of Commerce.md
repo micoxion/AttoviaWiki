@@ -4,7 +4,6 @@ draft: false
 tags: []
 date: 2024-09-29 17:24
 ---
-
 ```mermaid
 graph TD;
 	A[Head of House\n<b>Casper Barwick</b>]-->B[Director of Commerce\n<b>Master Amelie Contasóir Casper</b>];
@@ -19,3 +18,4 @@ Casper is a dangerous man; having large scale control and responsibility of the 
 ### Master Amelia Contasóir Casper
 Casper's wife, she is roughly 40 years older than him, but is a Rugadhian woman so shows little of her long life. She has an incredible mind for accounting and deal making, securing her position in the house first before love blossomed.
 ### Isa Blyth
+Isa's fiery temper and larger than life attitude are matched well by her red [[Human#Amodians|Amodian]] complexion. She's a bit of a bully in the Council room and makes a heavy handed point of denying any budgetary requests or legislation that has not been directly approved or put forth by the House of Commerce.
