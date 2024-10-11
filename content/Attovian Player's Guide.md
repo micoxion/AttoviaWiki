@@ -7,6 +7,7 @@ date: 2024-10-11 14:45
 # Table of Contents
 - [[#History of Attovia]]
 	- [[#The Magic War]]
+	- [[#Time of Rest]]
 - [[#Sovereign Lands]]
 	- [[#Zoher]]
 	- [[#Shen Dynasty]]
