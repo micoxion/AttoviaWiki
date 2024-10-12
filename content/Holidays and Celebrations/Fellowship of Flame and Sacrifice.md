@@ -23,5 +23,3 @@ It is said that Hormus took from his own heart a beating, burning ember, and pla
 # Details
 Each family unit or individual in a community is expected to bring some amount of fuel for the burning, as well as food or cooking supplies. Even the smallest amount is respected so long as it is was your own. 
 In the late evening the cooking begins, it is around this time that much storytelling and reading from [[The Book of Nefiqaddis#Hormus' Works and Wonders of Power and Sacrifice|Hormus' Works and Wonders of Power and Sacrifice]]. When the first courses are finished the feasting begins, it often lasts several hours into the night before drinks are brought out and dancing begins. Finally in the earliest hours of the morning, those who have volunteered to do so tend the fire till dawn, dousing it with water when the sun first crests the horizon so as to not belittle its presence with their poor imitation. 
-# World Builder Notes
-Liekin ja uhrauksen toveruus is finnish for "Fellowship of flame and Sacrifice"
