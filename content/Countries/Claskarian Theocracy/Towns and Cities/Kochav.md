@@ -19,7 +19,7 @@ City Scale (in miles): 30
 # Buildings/Layout
 ## Named Streets
 Kochav (The only paved street)
-Urumuri
+Hikari
 [[Koch'dir]]
 ## Shops
 - Blacksmith

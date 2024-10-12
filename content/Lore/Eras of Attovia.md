@@ -17,7 +17,7 @@ A 600 year period of true hopelessness after [[Hormus]] was sundered by The Hebd
 Start: 920 ToS
 End: 1519 ToS
 # Age of Vala
-Finally the continent wide plague, pestilence, and massacre is finally stopped, and for three millennia tiny populations struggle to survive against the remaining [[True Monsters|Monster Hordes]].
+The continent wide plague, pestilence, and massacre is finally stopped, and for three millennia tiny populations struggle to survive against the remaining [[True Monsters|Monster Hordes]].
 Start: 1520 AoV
 End: 4519 AoV
 # Age of Nations

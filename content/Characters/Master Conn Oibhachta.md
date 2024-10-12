@@ -13,7 +13,7 @@ Master Conn Oibhachta uses a alphanumeric system to designate and sort the IDs o
 | ---------- | -------------------------------------------- |
 | A13        | Communications Meyda-circle (Utility)        |
 | H16        | Dragon Turtles (Research)                    |
-| K3         | Urumuri the Platinum Queen (Research)        |
+| K3         | Hikari the Platinum Queen (Research)         |
 | M1         | Fractalmancy and spacial collapse (Research) |
 | ZA2        | Translation from Rugadhian to Common (Task)  |
 | ZA4        | True Monster Turtles? (Research)             |

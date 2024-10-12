@@ -16,8 +16,8 @@ date: 2024-07-01
 - [[Deities/Krag the Quick|Krag the Quick]]: Neutral god of the Athletics and the Day Sky
 - [[Lielun]]: Neutral god of the Night Sky and Weather
 - [[Ukko]] Neutral god of the Day Sky and Thunder
-- [[Ubumnyama]]: Corrupt god of Darkness and Control
-- [[Urumuri]]: Pure god of Light and Freedom
+- [[Yami]]: Corrupt god of Darkness and Control
+- [[Hikari]]: Pure god of Light and Freedom
 - [[Mammon]]: Neutral god of Commerce and Progress
 - [[Mordechai]]: Neutral/Benevolent god of Science and his believers also see him as the god of Magic
 - [[Bara Levatel]]: Neutral god of Death

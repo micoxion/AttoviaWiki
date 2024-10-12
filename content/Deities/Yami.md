@@ -1,5 +1,5 @@
 ---
-title: Ubumnyama
+title: Yami
 draft: false
 tags:
   - incomplete
@@ -10,4 +10,3 @@ The evil dragon god of the dragonborn. A patron of evil clerics, paladins, and w
 # Other Names
 
 - Great Black Dragon
-- Ubu
