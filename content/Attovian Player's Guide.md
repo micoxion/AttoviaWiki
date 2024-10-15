@@ -1,7 +1,8 @@
 ---
 title: Attovian Player's Guide
 draft: false
-tags: 
+tags:
+  - incomplete
 date: 2024-10-11 14:45
 ---
 # Table of Contents

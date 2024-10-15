@@ -1,7 +1,8 @@
 ---
 title: Zoher
 draft: false
-tags: 
+tags:
+  - incomplete
 date: 2024-10-14 11:23
 ---
 The first recognized nation on Attovia. It functions as a theocracy with the[[ Church of Hormus]] as the religious organization in charge. Zoher has strong influence in its neighboring nations due to the presence of the Church of Hormus within them.
