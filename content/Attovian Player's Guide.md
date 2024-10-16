@@ -70,9 +70,13 @@ The once long oppressed Gnomes make their home in a portion of the frigid north 
 
 A strange history of [[Shen Dynasty Rise to Power|political maneuvers]] placed the **Shen** clan in power and simultaneously built the nation into a baking powerhouse. The Shen Dynasty has a viselike grip on the industry of baking, having trained and released their best into the continent who have little formally trained competition. 
 
-Any settlement with a population in the hundreds likely has a bakery, and the odds are 10 to 1 that its run and operated by Gnomes.
+Any settlement in the landlocked nations of Attovia with a population in the hundreds or more likely has a bakery, and the odds are 10 to 1 that its run and operated by Gnomes.
 ### [[Zyclester Empire]]
+Forged in the Magic War, the Zyclester Empire is a nation of technological prowess and progress. Run and operated by members of the Table; theoretically merit based positions spanning the spectrum of what a large government might need. The great [[Zyclest University]] in their capital [[Zyclest City]] continues to push the empire to the forefront of Meyda-work research and development.
+
+Zyclestian streets are kept safe by the notoriously effective [[Chain Keepers]]. An extremely organized group of law keepers who use imbued chains to fight and subdue criminals with remarkable efficiency.
 ### [[Kingdom of Helva]]
+An elected monarchy built by taking advantage of the confusion in the year following the [[The Magic War Ends|end of the Magic War]]. Diplomatic espionage and social engineering turned many city states and disgruntled cities into a single united nation. Their capital [[Waterhelm]], built after the countries inception reflects their focus on order and efficiency.
 ### [[Claskarian Theocracy|Claskaria]]
 ### [[Daurk Brionnaigh]]
 ### [[Ornsiire Empire]]
