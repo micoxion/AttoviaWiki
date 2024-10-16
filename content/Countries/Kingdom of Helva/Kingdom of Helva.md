@@ -7,10 +7,8 @@ tags:
 date: 2024-07-03
 ---
 The most eclectic of the modern nations, the Kingdom of Helva hosts a staggeringly diverse population. Created after [[The Magic War]] through diplomatic espionage they are the first and only current kingdom with an elected monarch. 
-<hr>
-
 # Government
-The kingdom of helva has at its head an elected monarch, selected by an elected council who are selected by the people. The king can declare martial law under times of duress, and may attempt to pass any laws he creates or is provided via the council or the people. A new law can only be passed if a 2/3rds majority vote is cast in its favor by the Council.
+The kingdom of Helva has at its head an elected monarch, selected by an elected council who are selected by the people. The king can declare martial law under times of duress, and may attempt to pass any laws he creates or is provided via the council or the people. A new law can only be passed if a 2/3rds majority vote is cast in its favor by the Council.
 ## Helvan Contract
 The first founding document of any nation on Attovia. The Helvan Contract was signed by the first 3 Council Members and their King. It lays out the base structure of government and other important rules and concepts core to Helva.
 ## Period of Kingly Term

@@ -78,6 +78,9 @@ Zyclestian streets are kept safe by the notoriously effective [[Chain Keepers]].
 ### [[Kingdom of Helva]]
 An elected monarchy built by taking advantage of the confusion in the year following the [[The Magic War Ends|end of the Magic War]]. Diplomatic espionage and social engineering turned many city states and disgruntled cities into a single united nation. Their capital [[Waterhelm]], built after the countries inception reflects their focus on order and efficiency.
 ### [[Claskarian Theocracy|Claskaria]]
+Claskaria takes up the primary area where the [[Dragonborn]] make landfall. Those who are not born naturally on the continent are sent by [[Hikari]] via an egg cast from [[Yähti]] at unimaginable speeds. A strange jungle of a freemarket exists under the pillowy thumb of the [[Kochavism|Kochavist]] religion; a strange belief system that prioritizes freedom above all else. 
+
+Run by the [[Divine Star]], their Kochrêa and a rag tag group of assistants the government is extremely lax. As much of a dream this can be for the average citizen, it is a pot of unguarded gold to the cults and spurned aristocrats of Attovia. Peoples unwelcome or unhappy with societal law elsewhere can go relatively unpoliced and unpunished.
 ### [[Daurk Brionnaigh]]
 ### [[Ornsiire Empire]]
 ### [[Beleg gúl]]
