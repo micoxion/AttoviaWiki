@@ -1,7 +1,8 @@
 ---
 title: The Carven
 draft: false
-tags: 
+tags:
+  - content-warning-self-harm
 date: 2024-10-16 15:28
 ---
 > [!quote] Sayings of the first **Master**
