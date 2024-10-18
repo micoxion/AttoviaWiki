@@ -82,9 +82,17 @@ Claskaria takes up the primary area where the [[Dragonborn]] make landfall. Thos
 
 Run by the [[Divine Star]], their Kochrêa and a rag tag group of assistants the government is extremely lax. As much of a dream this can be for the average citizen, it is a pot of unguarded gold to the cults and spurned aristocrats of Attovia. Peoples unwelcome or unhappy with societal law elsewhere can go relatively unpoliced and unpunished.
 ### [[Daurk Brionnaigh]]
+Across the [[Twilight Desert]] near the southwestern most corner of Attovia stands a tall, proud mountain known to all as [[Darkmount]]. Here live the great craftsmen of the [[Rugadh Sliabh]], overseen by [[The Council of Elders]] the nation of Daurk Brionnaigh runs quite smoothly. Long since shunted from the belly of the rock they dwell on, their focus is the fulfillment of outside orders, exporting their unrivaled works in return for all manner of needs and luxuries. And though the [[Master Cruthman]] forges the first blade, it is the [[Béal Brionnaigh]] taught by the [[Scríobs|Scríob]] that belches forth the hundred replicas laid out per the contract signed. [[The Craft Mind]] under miles of rock is the last hand to touch each exported treasure.
 ### [[Ornsiire Empire]]
+An empire forged from a single city state by the hand of [[Gnaeus Metellus]] through militarization and a heavy hand. This trend has continued through their growth and can be seen in their governing hierarchy, based around the number of troops a given lord can muster at any given time for their Visare. 
+
+Their border with the [[Western Wastes]] has spawned the only two functional mercenary companies of the continent. The [[Silver Swords]] and the [[Mun Blades]]. Each companies history is unique, but their finalization speaks to the necessity they served protecting the eastern border of Ornsiire thousands of turns ago. Though opposed to each other structurally, the two share a general kinship and friendly rivalry, staying out of one another's way where possible, and taking no grudges when exchanged blows were met with proper payment.
 ### [[Beleg gúl]]
+Half the eastern coast belongs to the [[Elves]]. They have named their territories Beleg gúl and have built a large buffer of control around the beacon of their nation. The [[Ambar Tree]], an unfathomably colossal living organism, stretches multiple miles into the sky, providing space for several layers of society to live within it, their height within the tree directly correlating to their class and social standing.
+
+The brilliant gold of [[Ambar Flower|Ambar Flowers]] contrasts unfortunately with the muck and grime of the southern border many miles away. A battle line of slaves and half-bloods fight a never ending war with the spawn of [[Graskoroth]] who find their way north after making land. The beautiful [[Ambar Forest]] does not show its face here, where the blood, mud and gore have emulsified into a singular foul mass, the stench of which clears wildlife off for tens of miles.
 ### [[Giravian Archipelago]]
+A strange, and unknown anomaly has made the waters surrounding the tiny islands of the [[Girav gel]] the only nautical safe haven the continent has ever seen. Even the most well guarded port town would pay a kings ransom for he security in which these large aquatic people make their culture. Little of their ritualistic tribal warfare is understood by outsiders, but the habitants of the Giravian Archipelago couldn't be happier. They live a strange and simple, but arguably beautiful life here, and seek not the luxuries of other nations.
 ### [[Strana Gigantov]]
 # Denizens of Attovia
 ### [[Human|Humans]]
@@ -110,3 +118,4 @@ Run by the [[Divine Star]], their Kochrêa and a rag tag group of assistants the
 ## Organized Religions
 ## Common Religious Practices
 # Zoher Calendar
+![[Zoher Calendar]]
