@@ -7,17 +7,9 @@ date: 2024-06-27
 Attovia is a homebrew world that was born during my time playing the TTRPG pathfinder. These days I run 5e with the hope to branch out into other systems. But Attovia was never intended to be a system specific setting and is a passion project of mine. This wiki is another way in which I am hoping to push myself to continue its creation and development. I likely won't be updating daily, but once to several times a week will likely be the norm, so if you are interested, check in consistently! There are many things written about that don't exist here yet because they are incomplete, spoiler rich, or not very readable yet. So part of the project is to simply get portions of the large vault into a state that I'm happy with them existing here.
 As time goes on I will also be updating the look of the site as I learn more about Quartz 4.0 and the extent I can effect it.
 # Guide
-As the wiki grows exploration may begin to feel daunting, here are a few recommended places to start in the case that you want to dive in and click around and aren't looking for something specific.
-##### Countries of Interest
-- [[Daurk Brionnaigh]]
-- [[Zyclester Empire]]
-- [[Beleg gúl]]
-###### [[Pantheon]]
-###### Magic System Fundamentals
-- [[Tethers]]
-- [[Meyda-flow]]
-- [[Contracts]]
-- [[God Stone]]
+If you want to get a quick handle on what's going on with Attovia I recommend checking the [[Attovian Player's Guide|Player's Guide]]. As of my writing this it is not currently completed, but is being updated daily. A brief overview of all important and major elements of the world will be present there and link heavily to other areas. If you find something interesting feel free to click around and explore it! If you are an active player ensure you check the tag key below :)
+# Community
+If you are interested in getting notified about updates to the wiki, chatting with others about the world, or perhaps ask me questions directly please join us at my discord: https://discord.gg/9FvdCZmyA5!
 ### Tag Key
 - #Spoiler 
 	If you see the Spoiler tag at the top of the page it should always be accompanied by one of the following: 🌶, 🌶🌶, 🌶🌶🌶. The spoiler spice meter as it were.
@@ -29,5 +21,7 @@ As the wiki grows exploration may begin to feel daunting, here are a few recomme
 	Notes with the incomplete tag aren't *really* publish ready, but have information that isn't incorrect. They will often be quite short or small, but at least help flesh out more of the linking. Hopefully I can reduce the number of files that are tagged as such but we will see.
 - #old 
 	Files that at some point will hopefully get an edit, some are several years old, and really could use some better prose, or perhaps are off the lore mark a bit these days.
+- #content-warning 
+	Any file with a content warning will start with this text and be followed by the specific content in question. One current example is \#content-warning-self-harm. I try to keep all my world building at a PG-13 level at **MOST** but know there are certain triggers for some people and want to be respectful of these potential issues. If you see something else I should tag please let me know.
 > [!warning]
 If you see a tag with the title of a campaign you are playing in, DO NOT READ!

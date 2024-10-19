@@ -21,10 +21,10 @@ date: 2024-10-11 14:45
 	- [[#Beleg gúl]]
 - [[#Denizens of Attovia]]
 	- [[#Human Humans|Humans]]
-		- [[#Amodians]]
-		- [[#Nammalians]]
-		- [[#Zoherians]]
-		- [[#Tzelians]]
+		- [[#Human Amodians Amodians|Amodians]]
+		- [[#Human Nammalians Nammalians|Nammalians]]
+		- [[#Human Zoherians Zoherians|Zoherians]]
+		- [[#Human Tzelians Tzelians|Tzelians]]
 	- [[#Elves]]
 	- [[#Rugadh Sliabh]]
 		- [[#Tréigtheoir Sliabh]]
@@ -94,12 +94,21 @@ The brilliant gold of [[Ambar Flower|Ambar Flowers]] contrasts unfortunately wit
 ### [[Giravian Archipelago]]
 A strange, and unknown anomaly has made the waters surrounding the tiny islands of the [[Girav gel]] the only nautical safe haven the continent has ever seen. Even the most well guarded port town would pay a kings ransom for he security in which these large aquatic people make their culture. Little of their ritualistic tribal warfare is understood by outsiders, but the habitants of the Giravian Archipelago couldn't be happier. They live a strange and simple, but arguably beautiful life here, and seek not the luxuries of other nations.
 ### [[Strana Gigantov]]
+The ice and wind of this northern territory is so constant and disruptive, that the number of non-natives who find their way behind its borders can be counted on one hand in a given turn. For this reason the culture and habits of the [[Yewdi]] and [[Tréigtheoir Sliabh]] are unfamiliar to the masses. Even in Attovia's age of progression information regarding Strana Gigantov remains an untenable mixture of legend and historical truth.
 # Denizens of Attovia
+A rich and often traumatic history adorns each of Attovia's racial and ethnic groups. Many such histories overlap, the oppressed and their oppressors telling and recording differing historical accounts. Each people paints their hue of truth on the canvas of time, and where their colors differ, the lines turn a muddy brown.
 ### [[Human|Humans]]
-##### Amodians
-##### Nammalians
-##### Zoherians
-##### Tzelians
+According to the Zoherians and the Elves the Humans were [[Hormus|Hormus']] first created sentient people. In general there is some deep cultural pride due to this mythology. For better they strive to become great individuals, and for worse they lord it over others. 
+
+Among the Human species as it were there are four distinct genetic groups. Because the mortal mind is most pleased when it can categorize by the most obvious differences, each of these groups has its own cultural background and societal norms. There is little to no strife between the four but like keeps to like and thus they drew tribal lines thousands of turns ago that remain to this day.
+##### [[Human#Amodians|Amodians]]
+Rusty red skin and broad stature set the Amodians apart from not only other Humans, but from most other races except those touched by Tiefling corruption. In the ancient past Amodians drew the unwanted eye of [[Corruption Cleansers]] due to their skin easily mistaken for demonic mutation. Now such mistakes are extremely rare, and in fact have reversed; consistently pigment altered Tieflings with no other obvious signs being taken incorrectly for Amodians.
+##### [[Human#Nammalians|Nammalians]]
+Nammalians are *notably* smaller than the other three groups. Despite their remarkable departure in stature their proportions have remained surprisingly intact. As though a full sized Zoherian were shrunk down exactingly. Nammalians less notably differ from their brethren in the general variety in their skin tone, from a Zoherian pale to an almost Tzelian tan they cover a broader spectrum than any other Human.
+##### [[Human#Zoherians|Zoherians]]
+Of any Human sub-group the Zoherians are the most proud. It is only their name which decorates the oldest nation, and within said nation the greatest religion. Their pale skin evokes a transparency their ego is all to eager to mimic. Most of the [[Church of Hormus]] consists of Zoherian priests, but no individual is ever refused from service for any reason other than lacking the life of sacrificed to be expected from one of The Bereaved.
+##### [[Human#Tzelians|Tzelians]]
+The Tzelians are often considered the wisest of the Humans. Just as any Zoherian may show humility a Tzelian may show themself a fool, but as generalizations go history has played favorites to the idea of the Tzelian wiseman. Many of the greatest Human breakthroughs in [[Meyda-work]], Philosophy, and religion are attributed to great Tzelian men and women. No other species has a complexion that can compare to the deep ebony of the Tzelian and they can be found *everywhere*. They have spread through the continent more so than any other Human and are appreciated wherever they find homes.
 ### [[Elves]]
 ### [[Rugadh Sliabh]]
 ##### [[Tréigtheoir Sliabh]]
