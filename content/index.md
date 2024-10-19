@@ -24,4 +24,4 @@ If you are interested in getting notified about updates to the wiki, chatting wi
 - #content-warning 
 	Any file with a content warning will start with this text and be followed by the specific content in question. One current example is \#content-warning-self-harm. I try to keep all my world building at a PG-13 level at **MOST** but know there are certain triggers for some people and want to be respectful of these potential issues. If you see something else I should tag please let me know.
 > [!warning]
-If you see a tag with the title of a campaign you are playing in, DO NOT READ!
+> If you see a tag with the title of a campaign you are playing in, DO NOT READ!
