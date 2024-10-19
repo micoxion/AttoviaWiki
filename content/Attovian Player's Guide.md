@@ -20,12 +20,13 @@ date: 2024-10-11 14:45
 	- [[#Ornsiire Empire]]
 	- [[#Beleg gúl]]
 - [[#Denizens of Attovia]]
-	- [[#Human Humans|Humans]]
-		- [[#Human Amodians Amodians|Amodians]]
-		- [[#Human Nammalians Nammalians|Nammalians]]
-		- [[#Human Zoherians Zoherians|Zoherians]]
-		- [[#Human Tzelians Tzelians|Tzelians]]
+	- [[#Human]]
+		- [[#Amodians]]
+		- [[#Nammalians]]
+		- [[#Zoherians]]
+		- [[#Tzelians]]
 	- [[#Elves]]
+		- [[#Half-Elves]]
 	- [[#Rugadh Sliabh]]
 		- [[#Tréigtheoir Sliabh]]
 	- [[#Yewdi]]
@@ -97,21 +98,28 @@ A strange, and unknown anomaly has made the waters surrounding the tiny islands 
 The ice and wind of this northern territory is so constant and disruptive, that the number of non-natives who find their way behind its borders can be counted on one hand in a given turn. For this reason the culture and habits of the [[Yewdi]] and [[Tréigtheoir Sliabh]] are unfamiliar to the masses. Even in Attovia's age of progression information regarding Strana Gigantov remains an untenable mixture of legend and historical truth.
 # Denizens of Attovia
 A rich and often traumatic history adorns each of Attovia's racial and ethnic groups. Many such histories overlap, the oppressed and their oppressors telling and recording differing historical accounts. Each people paints their hue of truth on the canvas of time, and where their colors differ, the lines turn a muddy brown.
-### [[Human|Humans]]
+### [[Human]]
 According to the Zoherians and the Elves the Humans were [[Hormus|Hormus']] first created sentient people. In general there is some deep cultural pride due to this mythology. For better they strive to become great individuals, and for worse they lord it over others. 
 
 Among the Human species as it were there are four distinct genetic groups. Because the mortal mind is most pleased when it can categorize by the most obvious differences, each of these groups has its own cultural background and societal norms. There is little to no strife between the four but like keeps to like and thus they drew tribal lines thousands of turns ago that remain to this day.
-##### [[Human#Amodians|Amodians]]
+##### Amodians
 Rusty red skin and broad stature set the Amodians apart from not only other Humans, but from most other races except those touched by Tiefling corruption. In the ancient past Amodians drew the unwanted eye of [[Corruption Cleansers]] due to their skin easily mistaken for demonic mutation. Now such mistakes are extremely rare, and in fact have reversed; consistently pigment altered Tieflings with no other obvious signs being taken incorrectly for Amodians.
-##### [[Human#Nammalians|Nammalians]]
+##### Nammalians
 Nammalians are *notably* smaller than the other three groups. Despite their remarkable departure in stature their proportions have remained surprisingly intact. As though a full sized Zoherian were shrunk down exactingly. Nammalians less notably differ from their brethren in the general variety in their skin tone, from a Zoherian pale to an almost Tzelian tan they cover a broader spectrum than any other Human.
-##### [[Human#Zoherians|Zoherians]]
+##### Zoherians
 Of any Human sub-group the Zoherians are the most proud. It is only their name which decorates the oldest nation, and within said nation the greatest religion. Their pale skin evokes a transparency their ego is all to eager to mimic. Most of the [[Church of Hormus]] consists of Zoherian priests, but no individual is ever refused from service for any reason other than lacking the life of sacrificed to be expected from one of The Bereaved.
-##### [[Human#Tzelians|Tzelians]]
+##### Tzelians
 The Tzelians are often considered the wisest of the Humans. Just as any Zoherian may show humility a Tzelian may show themself a fool, but as generalizations go history has played favorites to the idea of the Tzelian wiseman. Many of the greatest Human breakthroughs in [[Meyda-work]], Philosophy, and religion are attributed to great Tzelian men and women. No other species has a complexion that can compare to the deep ebony of the Tzelian and they can be found *everywhere*. They have spread through the continent more so than any other Human and are appreciated wherever they find homes.
 ### [[Elves]]
+The Elves scoff at the pride of Humans. After all, they are the perfected form spawned by the imperfect, short lived Human creature. They are the closest mortal beings to godhood and believe all others ought to understand this simple fact of nature. This idea of nature defining the order of authority and thus society can be seen permeating every corner of Elven society. Though a shining beacon of beauty from the outside, behind the doors of the upper class a grave campaign of pride and hate presses forward.
+
+Many Elves of lower standing find themselves disgusted with the conduct of their nations aristocracy. It is this diaspora that has lead to the Elven and Half-elven individuals and groups found in all nations, even the most remote or obscure.
+##### Half-Elves
+Due to a surprising genetic closeness, Humans can have children with Elves. A strange blessing and curse it brings to the child at hand. It is a strange and terrible thing when one side of your heritage falls into the obscurity of a mind that has experienced many lifetimes. Half-Elves receive the same life expectancy as their elvish parent, and pull most of their appearance from their Human half. In addition Half-Elves are only capable of procreating with other Half-Elves for reasons still yet unknown.
 ### [[Rugadh Sliabh]]
+Ashy grey skin, short yet muscular, great black beards that stretch to the center of the torso, and fingers which itch to pull form from rock and stone. The Rugadh are simple and easily read, anyone on the continent who has met a Rugadh would have intuited these aspects rather quickly. But within their honest simplicity a complex and ancient culture exists. For a Rugadhian heart to sing they must be part of a creation process. For the [[Master Cruthman]] it is most obvious, but for the Master [[Daurk Brionnaigh#Leabharchoimeád|Leabharchoimeád]] it is perhaps less so. No naming of Mastery has existed since the time of [[Rugadhian History#The Waking Floods|The Waking Floods]] that was not recognized by [[The Council of Elders]] to be, at its core, subservient to the art of creation granted the Rugadh by [[Aoire Sléibhe]].
 ##### [[Tréigtheoir Sliabh]]
+A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago. Though scattered across Attovia, their primary home and source of culture is in [[Strana Gigantov]] alongside the [[Yewdi]] people. The drastic change in environment enforced a steady change in the Tréigtheoirians. Their complexion has become more of a light sandy brown, their body fat ratio has increased to counteract the harsh winters of the north, and every one to the last of them has a beard as white as the snow they call home.
 ### [[Yewdi]]
 ### [[Gnomes]]
 ### [[Krest]]
