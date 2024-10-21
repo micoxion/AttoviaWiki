@@ -43,6 +43,9 @@ date: 2024-10-11 14:45
 - [[#The Pantheon]]
 	- [[#Organized Religions]]
 	- [[#Common Religious Practices]]
+- [[#5th Edition DnD Conversions]]
+	- [[#Racial Analogs]]
+	- [[#Currency Conversion]]
 - [[#Zoher Calendar]]
 # History of Attovia
 A continent that until recently knew nothing but strife and darkness for many millennia. [[The Great Conflict]] left a populace forever at war with the sea. Floods of horrific [[True Monsters|Monsters]] clambered out of the sea foam, through the halls of the [[Goweh]], and spread calamity to every people. The rise and dominance of [[The Hebdomad]] still leaves its vestigial corruption in many who walk the continent.
@@ -54,7 +57,7 @@ With the eventual development of proper politics came the advent of proper war. 
 As the seesaw of progress tilts back towards Meyda-work, the Age of Nations culminates in the aptly named Magic War. The casualties accrued by almost every country exceeded the total recorded casualties of all other wars during the Age of Nations combined. Lasting a full decade the Magic War left the Attovian Continent forever changed. Entire peoples were all but wiped out, and the previously diverse borders consolidated heavily as winner and loser alike held allies close to lick their wounds.
 ### Time of Rest
 The modern Era of Attovia where a four century long implicit peace rests gently over the land. A new, tense feeling of the inevitable has crept under the blanket however, it whispers in the ears of the [[Houses]] of Helva. Its forked tongue tickles the Ornsiire Emperor's cheek, and [[Zyclester Empire#The Table|The Table]] of the Zyclester Empire requires little encouragement. The spoils of war have never looked so tempting.
-# Meyda-work
+# [[Meyda-work]]
 A wizard's grand display of destructive force differs from the simple herbalists water purification in little but its complexity. Both are Meyda-workers instructing the strange [[Meyda|substance]] to work changes in the world around them. 
 
 Whether it is via the precision of a [[Meyda-circle]] or through [[Meyda Intercession]] Attovian magic cannot function without a source of power. For commonplace Meyda-circles this is facilitated through the consumption of [[Chips]], Attovia's primary currency. In other instances it is the [[Tethers]] formed via [[Contracts]] with entities much more powerful than one's self that provide a flow of Meyda.
@@ -121,7 +124,9 @@ Ashy grey skin, short yet muscular, great black beards that stretch to the cente
 ##### [[Tréigtheoir Sliabh]]
 A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago. Though scattered across Attovia, their primary home and source of culture is in [[Strana Gigantov]] alongside the [[Yewdi]] people. The drastic change in environment enforced a steady change in the Tréigtheoirians. Their complexion has become more of a light sandy brown, their body fat ratio has increased to counteract the harsh winters of the north, and every one to the last of them has a beard as white as the snow they call home.
 ### [[Yewdi]]
+A very large people who stand well above most other Attovian residents. They are perhaps the most unique genetic grouping on the continent. They carry their newborns in pouches, have extended hair at the ends of their ears, and resonate an unnatural level of body heat compared to any other species. The Yewdi as a group are known primarily by these obvious differences, and their tribal lifestyle is not well known. Even outside of [[Strana Gigantov]] they tend to latch on quickly to family groups drawing their own tribal lines with whatever delineator they can. They are a fiercely loyal people and often end up as body guards or "help" for the nefarious and innocent.
 ### [[Gnomes]]
+Smaller even than the shorter spectrum of [[Human#Nammalians|Nammalians]], Gnomish society always has an interesting collision with the rest of the world around it. Most bakeries being run by these little people have internals constructed on a different scale than other typical structures in a city outside the [[Shen Dynasty]]. Especially for the larger Yewdi and Girav gel, it may feel like walking into an upscaled doll house. Gnomes are quite proud of their culture however, having risen from their oppressed past, they boast a new history of culture and development. After all, no other group can make the claim to pastries that the Gnomes can.
 ### [[Krest]]
 ### [[Tieflings]]
 ### [[Girav gel]]
@@ -134,5 +139,31 @@ A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago.
 # The Pantheon
 ## Organized Religions
 ## Common Religious Practices
+# 5th Edition DnD Conversions
+There are several things done a bit differently in Attovia, namely many races that exist in typical 5e settings don't here, but for most there is a stat analog that can be played or used. I have created a table of stat analogs. If you don't see a race in the list please let me know. I am quite amenable to allowing people to play what they want and can usually make it work!
+In addition Attovian currency works differently, and while there is a whole doc on [[Chips]] I will provide a conversion table below for those building characters and taking starting wealth.
+### Racial Analogs
+What this table means mechanically is this: If a homebrew does not exist for a race, you may use the 5th edition stat blocks. In most cases I'm fine if you use my homebrew statblock or the 5th Edition stat block. All current homebrews both races and classes can be found [here](https://homebrewery.naturalcrit.com/share/GbqHqm0VKNoM) in my homebrewery document.
+
+| 5th Edition | Attovia                            |
+| ----------- | ---------------------------------- |
+| Dwarf       | [[Rugadh Sliabh]] (Rugadh)         |
+| Halfling    | [[Human#Nammalians\|Nammalians]]   |
+| Aasimar     | [[Attovia/Races/Nephesh\|Nephesh]] |
+| Goliath     | [[Yewdi]]                          |
+| Orc         | [[Girav gel]]                      |
+| Aarakocra   | [[Krest]]                          |
+| Genasi      | [[Attovia/Races/Nephesh\|Nephesh]] |
+| Bugbear     | [[Yewdi]]                          |
+| Deep Gnome  | [[Goweh Gnome]]                    |
+### Currency Conversion
+See the [[Chips]] doc to see how the denominations within chips convert with one another, but below is how each denomination converts to 5th Editions typical metal currencies.
+
+| Attovia | 5e |
+| ---- | ---- |
+| 1 Shard | 1 Copper |
+| 1 Chip | 2 Silver |
+| 1 Bit | 20 Gold |
+| 1 Sliver | 200 Gold |
 # Zoher Calendar
 ![[Zoher Calendar]]
