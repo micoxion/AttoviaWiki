@@ -101,6 +101,8 @@ A strange, and unknown anomaly has made the waters surrounding the tiny islands 
 The ice and wind of this northern territory is so constant and disruptive, that the number of non-natives who find their way behind its borders can be counted on one hand in a given turn. For this reason the culture and habits of the [[Yewdi]] and [[Tréigtheoir Sliabh]] are unfamiliar to the masses. Even in Attovia's age of progression information regarding Strana Gigantov remains an untenable mixture of legend and historical truth.
 # Denizens of Attovia
 A rich and often traumatic history adorns each of Attovia's racial and ethnic groups. Many such histories overlap, the oppressed and their oppressors telling and recording differing historical accounts. Each people paints their hue of truth on the canvas of time, and where their colors differ, the lines turn a muddy brown.
+
+If you would like proper descriptions of each race those can be found in their linked pages. If something doesn't have a doc yet I'm sorry ;-;
 ### [[Human]]
 According to the Zoherians and the Elves the Humans were [[Hormus|Hormus']] first created sentient people. In general there is some deep cultural pride due to this mythology. For better they strive to become great individuals, and for worse they lord it over others. 
 
@@ -130,13 +132,18 @@ Smaller even than the shorter spectrum of [[Human#Nammalians|Nammalians]], Gnomi
 ### [[Tieflings]]
 Not truly its own race or ethnic group, this moniker is used for those who's original genetics are not discernable beneath the demonic corruption that instead adorns their flesh. Every horn, tail and discoloration tells a haunting story of a distant relative long dead who suffered the presence of one of [[The Hebdomad]]. Few cultures still shun those with Tiefling mutations, but for any individual who suffers it, a crisis of identity must always be summited.  
 ### [[Girav gel]]
+Even more rarely seen than the Yewdi people Giravians come from out past the [[Western Wastes]] in the [[Giravian Archipelago]]. No other society is capable of existing near the corrupted ocean, but there is something special about the waters around the islands the Girav gel call home. The water teems with life and many large reefs are found off the sandbars that connect the many islets. 
 
+The Girav gel have a strange culture surrounding death, and ritualistic warfare which most have difficulty leaving behind in favor of more modern traditions. They believe they were built for the purpose of battle in the surf, and find it strange that anyone would ask them to do something different with their short time in the material world.
 ### [[Dragonborn]]
+
 ## The Rare and Cryptic
 ### [[Krest]]
 ### [[Ankan]]
 ### [[Attovia/Races/Nephesh|Nephesh]]
+The [[Soul|Souls]] of the mountains, rivers and forests of Attovia are coming under duress during the [[Era’s of Attovia#Time of Rest|Time of Rest's]] rapid progress at a rate never before seen. What were once purely the stuff of oral histories now walk in remarkable numbers on the continent. Remarkable in that they can even *be* observed and counted, but they are still almost one to a nation in their rarity. These strange entities of natural purpose attempt to influence society and culture towards the betterment of their representative biomes. If they must, [[Desolation of Deep Home|cataclysmic measures]] may be taken.
 ### [[Awakened]]
+
 # Attovian Culture
 # The Pantheon
 ## Organized Religions
