@@ -31,11 +31,11 @@ date: 2024-10-11 14:45
 		- [[#Tréigtheoir Sliabh]]
 	- [[#Yewdi]]
 	- [[#Gnomes]]
-	- [[#Krest]]
 	- [[#Tieflings]]
 	- [[#Girav gel]]
 	- [[#Dragonborn]]
 	- [[#The Rare and Cryptic]]
+		- [[#Krest]]
 		- [[#Ankan]]
 		- [[#Attovia/Races/Nephesh Nephesh|Nephesh]]
 		- [[#Awakened]]
@@ -127,11 +127,13 @@ A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago.
 A very large people who stand well above most other Attovian residents. They are perhaps the most unique genetic grouping on the continent. They carry their newborns in pouches, have extended hair at the ends of their ears, and resonate an unnatural level of body heat compared to any other species. The Yewdi as a group are known primarily by these obvious differences, and their tribal lifestyle is not well known. Even outside of [[Strana Gigantov]] they tend to latch on quickly to family groups drawing their own tribal lines with whatever delineator they can. They are a fiercely loyal people and often end up as body guards or "help" for the nefarious and innocent.
 ### [[Gnomes]]
 Smaller even than the shorter spectrum of [[Human#Nammalians|Nammalians]], Gnomish society always has an interesting collision with the rest of the world around it. Most bakeries being run by these little people have internals constructed on a different scale than other typical structures in a city outside the [[Shen Dynasty]]. Especially for the larger Yewdi and Girav gel, it may feel like walking into an upscaled doll house. Gnomes are quite proud of their culture however, having risen from their oppressed past, they boast a new history of culture and development. After all, no other group can make the claim to pastries that the Gnomes can.
-### [[Krest]]
 ### [[Tieflings]]
+Not truly its own race or ethnic group, this moniker is used for those who's original genetics are not discernable beneath the demonic corruption that instead adorns their flesh. Every horn, tail and discoloration tells a haunting story of a distant relative long dead who suffered the presence of one of [[The Hebdomad]]. Few cultures still shun those with Tiefling mutations, but for any individual who suffers it, a crisis of identity must always be summited.  
 ### [[Girav gel]]
+
 ### [[Dragonborn]]
 ## The Rare and Cryptic
+### [[Krest]]
 ### [[Ankan]]
 ### [[Attovia/Races/Nephesh|Nephesh]]
 ### [[Awakened]]

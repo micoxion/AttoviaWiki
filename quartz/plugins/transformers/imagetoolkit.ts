@@ -8,7 +8,7 @@ export const ImageToolkit: QuartzTransformerPlugin = () => {
         name: "ImageToolkit",
         externalResources() {
             const js: JSResource[] = []
-
+                
             js.push({
                 script: imagetoolkit,
                 loadTime: "afterDOMReady",
