@@ -26,3 +26,5 @@ A sweet older [[Human#Nammalians|Nammalian]] couple Veera and her husband Edvin.
 The most recent newcomer to Mutka, a young Tzelian man who lives off little but his small garden in a tiny hut. He is good spirited but the older population of the town worry about his health.
 ### Zente Sándor
 The resident with the closest home to the nearby forest, Zente is a middle aged Zoherian gentleman with countless hunting stories of his time in the Ambar forest. The townsfolk know its all talk, they all know the bow slung on his back is for show, but they enjoy the stories and how they entertain the children.
+### Raimond Enn
+A remarkably old Nammalian man who takes his job very seriously. Every night he ensures two bright oil lamps are burning on the edge of the river. It provides a fixed reference point for the apex of the bend in the river, and aids sailors in navigating Mutka's small portion of the river. Raimond also spends much of his time fishing when not tending to the lamps, and uses his catches to fund his constant need for oil.

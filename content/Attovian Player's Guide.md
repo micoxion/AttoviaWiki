@@ -127,10 +127,20 @@ Ashy grey skin, short yet muscular, great black beards that stretch to the cente
 A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago. Though scattered across Attovia, their primary home and source of culture is in [[Strana Gigantov]] alongside the [[Yewdi]] people. The drastic change in environment enforced a steady change in the Tréigtheoirians. Their complexion has become more of a light sandy brown, their body fat ratio has increased to counteract the harsh winters of the north, and every one to the last of them has a beard as white as the snow they call home.
 ### [[Yewdi]]
 A very large people who stand well above most other Attovian residents. They are perhaps the most unique genetic grouping on the continent. They carry their newborns in pouches, have extended hair at the ends of their ears, and resonate an unnatural level of body heat compared to any other species. The Yewdi as a group are known primarily by these obvious differences, and their tribal lifestyle is not well known. Even outside of [[Strana Gigantov]] they tend to latch on quickly to family groups drawing their own tribal lines with whatever delineator they can. They are a fiercely loyal people and often end up as body guards or "help" for the nefarious and innocent.
+###### Playing a Yewdi
+You come from a land where some gods of old still walk among your people. This profoundly impacts the way you view the world. Be it superstition, doubt in modern ways, reverence for the divine or the opposite. 
+If instead you are a generation removed from [[Strana Gigantov]] then your homeland is a mystery known only to you through the oral stories of your parentage. Perhaps this guides your motivation?
 ### [[Gnomes]]
 Smaller even than the shorter spectrum of [[Human#Nammalians|Nammalians]], Gnomish society always has an interesting collision with the rest of the world around it. Most bakeries being run by these little people have internals constructed on a different scale than other typical structures in a city outside the [[Shen Dynasty]]. Especially for the larger Yewdi and Girav gel, it may feel like walking into an upscaled doll house. Gnomes are quite proud of their culture however, having risen from their oppressed past, they boast a new history of culture and development. After all, no other group can make the claim to pastries that the Gnomes can.
+###### Playing a Gnome
+Not every gnome is trained in the art of baking, but all of them encounter it tangentially. Did your parents run a bakery in another nation? Or were you a baking school dropout? Perhaps you take some pride in this comical piece of culture you have, or maybe you scoff at it.
 ### [[Tieflings]]
 Not truly its own race or ethnic group, this moniker is used for those who's original genetics are not discernable beneath the demonic corruption that instead adorns their flesh. Every horn, tail and discoloration tells a haunting story of a distant relative long dead who suffered the presence of one of [[The Hebdomad]]. Few cultures still shun those with Tiefling mutations, but for any individual who suffers it, a crisis of identity must always be summited.  
+###### Playing a Tiefling
+If you choose to play as a Tiefling keep in mind that this means your mutations are extreme enough to overpower other notable racial features. What are you underneath the corruption? An elf, human, gnome? Or are you an orphan who has no way of knowing?
+
+You may also choose to have minor Tiefling mutations if you play as another race. These of course have no mechanical impact but are fun for flavor.
+
 ### [[Girav gel]]
 Even more rarely seen than the Yewdi people Giravians come from out past the [[Western Wastes]] in the [[Giravian Archipelago]]. No other society is capable of existing near the corrupted ocean, but there is something special about the waters around the islands the Girav gel call home. The water teems with life and many large reefs are found off the sandbars that connect the many islets. 
 
