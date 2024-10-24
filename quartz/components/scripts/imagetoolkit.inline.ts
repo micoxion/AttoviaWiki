@@ -6,17 +6,21 @@ let mouseOverCurrentImage: boolean = false;
 let imageDraggedOffset = {x: 0, y: 0};
 let startMouseDrag = {x: 0, y: 0};
 let mouseIsDown: boolean = false;
+let zoomModifier = .5;
 
 document.addEventListener("nav", () => {
     const imagesInArticle = document.querySelectorAll<HTMLImageElement>("article img");    
     imagesInArticle.forEach((element) => {
         element.tabIndex = 1;     
         element.addEventListener("click", () => {
+            if (imagePoppingOut) {
+                return;
+            }
             console.log("IMAGE CLICKED");
             popOutImage(element);
             element.focus();
         });
-        element.addEventListener("blur", () => {
+        element.addEventListener("blur", () => {            
             resetImage();
         });
     });
@@ -27,8 +31,8 @@ document.addEventListener("nav", () => {
         }
         e.preventDefault();
 
-        zoomLevel += e.deltaY;
-        console.log(zoomLevel);
+        zoomLevel += e.deltaY * zoomModifier;
+        console.log(`${e.deltaY} * ${zoomModifier}`);
 
         currentImage.style.width = defaultWidth + zoomLevel + "px";
         reposition();
@@ -57,17 +61,23 @@ document.addEventListener("nav", () => {
         if (!mouseOverCurrentImage || !mouseIsDown) {
             return;
         };
+        let mouseDelta = {x: e.pageX - startMouseDrag.x, y: e.pageY - startMouseDrag.y};
+        startMouseDrag = {x: e.pageX, y: e.pageY}
+        imageDraggedOffset = { x: imageDraggedOffset.x + mouseDelta.x, y: imageDraggedOffset.y + mouseDelta.y }
+        reposition();
         mouseIsDown = false;
         //let mouseDelta = {x: startMouseDrag.x - e.pageX, y: startMouseDrag.y - e.pageY};
-    })
+    });
     
     function popOutImage(element: HTMLImageElement) {
         currentImage = element;
         element.style.position = "absolute";
         element.style.width = defaultWidth + "px";
+        element.style.maxWidth = "none";
         reposition();
         element.style.zIndex = "10";
         imagePoppingOut = true;
+        mouseOverCurrentImage = true;
         currentImage.addEventListener("mouseover", () => {
             mouseOverCurrentImage = true;
         });
@@ -83,6 +93,7 @@ document.addEventListener("nav", () => {
         currentImage.style.position = "";
         currentImage.style.top = "";
         currentImage.style.width = "";
+        currentImage.style.maxWidth = "";
         imagePoppingOut = false;
         currentImage = undefined;
         zoomLevel = 1;
@@ -95,8 +106,9 @@ document.addEventListener("nav", () => {
         if (currentImage == undefined) {
             return;
         }
+        console.log("REPOSITIONING");
         let centerX = (window.innerWidth / 2) - (defaultWidth + zoomLevel) / 2;
-        let centerY = (window.innerHeight / 2) - currentImage.height / 2;
+        let centerY = (window.innerHeight / 2) - (currentImage.height/* - zoomLevel*/) / 2;
         currentImage.style.top = centerY + imageDraggedOffset.y + "px";
         currentImage.style.left = centerX + imageDraggedOffset.x + "px";
     }
