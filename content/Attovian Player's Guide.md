@@ -19,6 +19,8 @@ date: 2024-10-11 14:45
 	- [[#Daurk Brionnaigh]]
 	- [[#Ornsiire Empire]]
 	- [[#Beleg gúl]]
+	- [[#Giravian Archipelago]]
+	- [[#Strana Gigantov]]
 - [[#Denizens of Attovia]]
 	- [[#Human]]
 		- [[#Amodians]]
@@ -115,14 +117,22 @@ Nammalians are *notably* smaller than the other three groups. Despite their rema
 Of any Human sub-group the Zoherians are the most proud. It is only their name which decorates the oldest nation, and within said nation the greatest religion. Their pale skin evokes a transparency their ego is all to eager to mimic. Most of the [[Church of Hormus]] consists of Zoherian priests, but no individual is ever refused from service for any reason other than lacking the life of sacrificed to be expected from one of The Bereaved.
 ##### Tzelians
 The Tzelians are often considered the wisest of the Humans. Just as any Zoherian may show humility a Tzelian may show themself a fool, but as generalizations go history has played favorites to the idea of the Tzelian wiseman. Many of the greatest Human breakthroughs in [[Meyda-work]], Philosophy, and religion are attributed to great Tzelian men and women. No other species has a complexion that can compare to the deep ebony of the Tzelian and they can be found *everywhere*. They have spread through the continent more so than any other Human and are appreciated wherever they find homes.
+###### Playing a Human
+Don't let anyone tell you the Human choice is boring. There is a special sauce in the variety of Human flaw. Their character can be steered in almost any direction and it won't feel out of place in the world. If other races feel like a cultural or world building box, this could be your outlet. 
 ### [[Elves]]
 The Elves scoff at the pride of Humans. After all, they are the perfected form spawned by the imperfect, short lived Human creature. They are the closest mortal beings to godhood and believe all others ought to understand this simple fact of nature. This idea of nature defining the order of authority and thus society can be seen permeating every corner of Elven society. Though a shining beacon of beauty from the outside, behind the doors of the upper class a grave campaign of pride and hate presses forward.
 
 Many Elves of lower standing find themselves disgusted with the conduct of their nations aristocracy. It is this diaspora that has lead to the Elven and Half-elven individuals and groups found in all nations, even the most remote or obscure.
+###### Playing an Elf
+Do not feel pressured to play an Elf as close-minded, arrogant, and self serving. Keep in mind that there are many Elves who attempt to cast off these common traits. Instead I encourage one to think how the current age of your PC in relation to a life that will live naturally for at least a millennia. If its your first century perhaps you still retain the rose tinted glasses of the young. Or instead are you a multi-century lived individual who struggles every day to find novelty or light in the world around them? What [[Elves#Tears of Memory|Tears of Memory]] do you wear and how?
 ##### Half-Elves
-Due to a surprising genetic closeness, Humans can have children with Elves. A strange blessing and curse it brings to the child at hand. It is a strange and terrible thing when one side of your heritage falls into the obscurity of a mind that has experienced many lifetimes. Half-Elves receive the same life expectancy as their elvish parent, and pull most of their appearance from their Human half. In addition Half-Elves are only capable of procreating with other Half-Elves for reasons still yet unknown.
+Due to a surprising genetic closeness, Humans can have children with Elves. A strange blessing and curse it brings to the child at hand. It is a tragic and terrible thing when one side of your heritage falls into the obscurity of a mind that has experienced many lifetimes. Half-Elves receive the same life expectancy as their elvish parent, and pull most of their appearance from their Human half. In addition Half-Elves are only capable of procreating with other Half-Elves for reasons still yet unknown.
+###### Playing a Half-Elf
+All the guidance I placed for Elves works similarly here, but you have an additional axis of character development. One of your parents will be *extremely* short lived in comparison to yourself and the other could quite possibly outlive you.
 ### [[Rugadh Sliabh]]
 Ashy grey skin, short yet muscular, great black beards that stretch to the center of the torso, and fingers which itch to pull form from rock and stone. The Rugadh are simple and easily read, anyone on the continent who has met a Rugadh would have intuited these aspects rather quickly. But within their honest simplicity a complex and ancient culture exists. For a Rugadhian heart to sing they must be part of a creation process. For the [[Master Cruthman]] it is most obvious, but for the Master [[Daurk Brionnaigh#Leabharchoimeád|Leabharchoimeád]] it is perhaps less so. No naming of Mastery has existed since the time of [[Rugadhian History#The Waking Floods|The Waking Floods]] that was not recognized by [[The Council of Elders]] to be, at its core, subservient to the art of creation granted the Rugadh by [[Aoire Sléibhe]].
+###### Playing a Rugadhian
+The Rugadhian culture is encompassed neatly in the word "creation". Every aspect of their lives is in pursuit of cultivating creative arts. The more tangible the better. Let this infuse your character as much as possible. There is some room for a very odd Rugadh who has little interest in such pursuits, but it would be an almost world shattering anomaly to most. 
 ##### [[Tréigtheoir Sliabh]]
 A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago. Though scattered across Attovia, their primary home and source of culture is in [[Strana Gigantov]] alongside the [[Yewdi]] people. The drastic change in environment enforced a steady change in the Tréigtheoirians. Their complexion has become more of a light sandy brown, their body fat ratio has increased to counteract the harsh winters of the north, and every one to the last of them has a beard as white as the snow they call home.
 ### [[Yewdi]]
@@ -145,6 +155,8 @@ You may also choose to have minor Tiefling mutations if you play as another race
 Even more rarely seen than the Yewdi people Giravians come from out past the [[Western Wastes]] in the [[Giravian Archipelago]]. No other society is capable of existing near the corrupted ocean, but there is something special about the waters around the islands the Girav gel call home. The water teems with life and many large reefs are found off the sandbars that connect the many islets. 
 
 The Girav gel have a strange culture surrounding death, and ritualistic warfare which most have difficulty leaving behind in favor of more modern traditions. They believe they were built for the purpose of battle in the surf, and find it strange that anyone would ask them to do something different with their short time in the material world.
+###### Playing a Girav gel
+The Giravian's, unless second generation are quite unfamiliar with most of the goings on of the continent. You could be easily impressed by technology or dismissive of it. There is lots of room here to be one who marvels, or one who suspects. Girav gel take premature death very hard, and believe everyone has a purpose, a destiny, in life they must fulfill before their eventual demise.
 ### [[Dragonborn]]
 
 ## The Rare and Cryptic
