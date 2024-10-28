@@ -104,7 +104,7 @@ The ice and wind of this northern territory is so constant and disruptive, that 
 # Denizens of Attovia
 A rich and often traumatic history adorns each of Attovia's racial and ethnic groups. Many such histories overlap, the oppressed and their oppressors telling and recording differing historical accounts. Each people paints their hue of truth on the canvas of time, and where their colors differ, the lines turn a muddy brown.
 
-If you would like proper descriptions of each race those can be found in their linked pages. If something doesn't have a doc yet I'm sorry ;-;
+If you would like proper appearance descriptions of each race those can be found in their linked pages. If something doesn't have a doc yet I'm sorry ;-;
 ### [[Human]]
 According to the Zoherians and the Elves the Humans were [[Hormus|Hormus']] first created sentient people. In general there is some deep cultural pride due to this mythology. For better they strive to become great individuals, and for worse they lord it over others. 
 
@@ -158,9 +158,14 @@ The Girav gel have a strange culture surrounding death, and ritualistic warfare 
 ###### Playing a Girav gel
 The Giravian's, unless second generation are quite unfamiliar with most of the goings on of the continent. You could be easily impressed by technology or dismissive of it. There is lots of room here to be one who marvels, or one who suspects. Girav gel take premature death very hard, and believe everyone has a purpose, a destiny, in life they must fulfill before their eventual demise.
 ### [[Dragonborn]]
+The Dragonborn are unequivocally more alien than any other species. Born quite late in regards to other races, there was a time when all others had begun to develop simplistic civilizations and the Dragonborn were not yet a thought to be considered. Now, though still a focused population within [[Claskarian Theocracy|Claskaria]], they can be found scattered through their fellow nations. 
 
+Most Dragonborn are [[Kochavism|Kochavists]]. It is difficult for someone with such obviously foreign origins to deny the myths of [[Hikari]] and the [[Dragonfall]]. So in varietous fervor the Dragonborn race praises their Platinum Queen and laud her tenets of freedom to those who will listen.
+###### Playing a Dragonborn
+Keep in mind that there are two very differing methods by which you came to the planet. Either you have two Dragonborn parents or crashed to this continents soil in a super heated egg sent from an extraterrestrial source. Depending on your decision, your outlook on Kochavism and other Dragonborn and their foreignness will warp. You have a unique claim if you were subject to Dragonfall, perhaps you keep it secret? Or you let everyone know how blessed you were to have been granted this special freedom.
 ## The Rare and Cryptic
 ### [[Krest]]
+No societies tale is as tragic as the Krest. Even the [[Gnomes]] have a powerful respect for the heinous nature of Krest history. Their wings being considered beautiful and rare drove them to near extinction, as they were hunted, killed, and carefully de-winged for sale. Their wings still trade for astronomical amounts in dark circles, but in general no longer suffer for their unique beauty. Though they have more of a place now sociologically, their population dwindles in places of civilization. More of them are found in communes and villages where their hunters' necessitated their current remoteness.
 ### [[Ankan]]
 ### [[Attovia/Races/Nephesh|Nephesh]]
 The [[Soul|Souls]] of the mountains, rivers and forests of Attovia are coming under duress during the [[Era’s of Attovia#Time of Rest|Time of Rest's]] rapid progress at a rate never before seen. What were once purely the stuff of oral histories now walk in remarkable numbers on the continent. Remarkable in that they can even *be* observed and counted, but they are still almost one to a nation in their rarity. These strange entities of natural purpose attempt to influence society and culture towards the betterment of their representative biomes. If they must, [[Desolation of Deep Home|cataclysmic measures]] may be taken.
@@ -176,17 +181,17 @@ In addition Attovian currency works differently, and while there is a whole doc 
 ### Racial Analogs
 What this table means mechanically is this: If a homebrew does not exist for a race, you may use the 5th edition stat blocks. In most cases I'm fine if you use my homebrew statblock or the 5th Edition stat block. All current homebrews both races and classes can be found [here](https://homebrewery.naturalcrit.com/share/GbqHqm0VKNoM) in my homebrewery document.
 
-| 5th Edition | Attovia                            |
-| ----------- | ---------------------------------- |
-| Dwarf       | [[Rugadh Sliabh]] (Rugadh)         |
-| Halfling    | [[Human#Nammalians\|Nammalians]]   |
-| Aasimar     | [[Attovia/Races/Nephesh\|Nephesh]] |
-| Goliath     | [[Yewdi]]                          |
-| Orc         | [[Girav gel]]                      |
-| Aarakocra   | [[Krest]]                          |
-| Genasi      | [[Attovia/Races/Nephesh\|Nephesh]] |
-| Bugbear     | [[Yewdi]]                          |
-| Deep Gnome  | [[Goweh Gnome]]                    |
+| 5th Edition  | Attovia                            |
+| ------------ | ---------------------------------- |
+| Dwarf        | [[Rugadh Sliabh]] (Rugadh)         |
+| Halfling     | [[Human#Nammalians\|Nammalians]]   |
+| Aasimar      | [[Attovia/Races/Nephesh\|Nephesh]] |
+| Goliath      | [[Yewdi]]                          |
+| Orc/Half-Orc | [[Girav gel]]                      |
+| Aarakocra    | [[Krest]]                          |
+| Genasi       | [[Attovia/Races/Nephesh\|Nephesh]] |
+| Bugbear      | [[Yewdi]]                          |
+| Deep Gnome   | [[Goweh Gnome]]                    |
 ### Currency Conversion
 See the [[Chips]] doc to see how the denominations within chips convert with one another, but below is how each denomination converts to 5th Editions typical metal currencies.
 
