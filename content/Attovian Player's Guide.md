@@ -175,6 +175,42 @@ Whether its a goblin or a small housecat, the Awakened have one thing in common.
 
 # Attovian Culture
 # The Pantheon
+Whether in the public [[CoH Temples|Temple]] of the [[Church of Hormus]], or the secluded commune of the [[Cult of the Kraken]], many gods are worshiped on Attovia. Though they do not show themselves commonly to the mortal, their presence is undeniable, and the boons granted to those who worship 
+## [[Hormus]]
+A pure deity considered widely to be responsible for all sentient groups of life. He is often considered to be a parental or grandparental figure to races and the creator of the [[Roeh]]. Described most commonly as a colossal stone giant with a sacrificial love for his creations, he now lies in still living pieces across the continent, most notable being his [[Eye of Hormus|eye]].
+###### Aspects
+Among the general populace and unorganized Hormus is the god of Sacrifice and Healing.
+The Church of Hormus assigns a unique aspect to each of Hormus sundered parts:
+- Eye: Healing
+- Head: Knowledge
+- Arm: Power
+- Hand: Protection
+- Foot: The Journey
+- Leg: Balance
+- Torso: Vitality
+### [[Graskoroth]]
+The corrupt antagonist to Hormus. Graskoroth is believed to live off the southeastern coast, where his rage continues to spill onto Attovian coasts in the form of [[True Monsters]]. Few worship the kraken, for according to legend he is defeated. But cults and individuals still beseech him for power.
+###### Aspects
+Graskoroth is said to be the champion of wrath and hate, and the lord of the deep.
+## [[The Hebdomad]]
+Graskoroth's seven corrupt Demon Lords, born of his wrath and corruption to savage the continent with all manner of darkness and disease. Hormus' sundered state is attributed to the Hebdomad who were then sealed by the [[Crystal Guard]]. Despite their sealed state, each is worshiped by niche groups, and some of their abominable creations still walk the material world.
+### Asthéneia
+Corrupt Demon Lord of Disease, Asthéneia is considered the Eye's opposite by the Church of Hormus. It is believed many illnesses and diseases that exist today were conjured by Asthéneia. They are described as appearing rotten and dilapidated except for their head which hosts a pair of twisting horns.
+###### Aspects
+Asthéneia is the Lord of Rot and Disease.
+### Skoteinóti̱ta
+Corrupt Demon Lord of Darkness, Skoteinóti̱ta is considered the Head's opposite by the Church of Hormus. He is rarely depicted at all since it is widely considered a way to let him [[The Painter's Blot|reenter the world]].
+###### Aspects
+Skoteinóti̱ta is the Lord of Darkness.
+## [[Hikari]]
+The pure dragon goddess of the [[Dragonborn]] and especially [[Kochavism]]. It is believed she and her brother live on [[Yähti]] and though her light shines on the world, they continue to war for control of the sphere.
+###### Aspects
+Hikari is the queen of light and freedom.
+## [[Yami]]
+Hikari's corrupt brother, he vies for control over [[Yähti]] and despises his sister and her Dragonborn.
+###### Aspects
+Yami is Hikari's opposite and is the lord of darkness and control.
+## [[]]
 ## Organized Religions
 ## Common Religious Practices
 # 5th Edition DnD Conversions
