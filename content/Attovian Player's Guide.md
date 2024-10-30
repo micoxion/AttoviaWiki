@@ -210,7 +210,6 @@ Hikari is the queen of light and freedom.
 Hikari's corrupt brother, he vies for control over [[Yähti]] and despises his sister and her Dragonborn.
 ###### Aspects
 Yami is Hikari's opposite and is the lord of darkness and control.
-## [[]]
 ## Organized Religions
 ## Common Religious Practices
 # 5th Edition DnD Conversions
