@@ -12,12 +12,11 @@ Daurk Brionnaigh is home of the [[Rugadh Sliabh]]. Its borders consist primarily
 A council of elders presides at the head of all major decisions made for the people of Brion. The Rugadhian system of government has not changed in over a millenia, but their people's nature leads them to require little governing so long as craft and forge can be used and improved. 
 
 ### Punishments
-There are 5 capital crimes in Brion. Each warrant's a decision of permanent exile or death.
+There are 4 capital crimes in Brion. Each warrant's a decision of permanent exile or death.
 1. Destruction of a recognized master work or relic
 2. Attempted disruption of the [[The Craft Mind|Mind]]
 3. Plagiarism
 4. Murder
-5. Rape
 
 All other crimes are to be evaluated by [[The Council of Elders]] and the culprit punished accordingly.
 

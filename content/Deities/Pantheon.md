@@ -24,6 +24,6 @@ date: 2024-07-01
 - [[Aoire Sléibhe]]: Pure god of stonework, creator of the [[Rugadh Sliabh]]
 - [[Şivan Rêk]]: Pure god of tides and uncorrupt ocean life.
 - [[Dia na Péisteanna]]: Corrupt worm god of the Goweh.
-- [[Trebulance]]: Corrupt tickster god of cons and thieves.
+- [[Trebulance]]: Corrupt trickster god of cons and thieves.
 - [[Qiúfàn Nǚwáng]] Pure goddess of captives and justice
 - [[Pellervo]] Pure god of the harvest

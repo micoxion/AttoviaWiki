@@ -43,6 +43,13 @@ date: 2024-10-11 14:45
 		- [[#Awakened]]
 - [[#Attovian Culture]]
 - [[#The Pantheon]]
+	- [[#Hormus]]
+	- [[#Graskoroth]]
+	- [[#The Hebdomad]]
+		- [[#Asthéneia]]
+		- [[#Skoteinóti̱ta]]
+	- [[#Hikari]]
+	- [[#Yami]]
 	- [[#Organized Religions]]
 	- [[#Common Religious Practices]]
 - [[#5th Edition DnD Conversions]]
@@ -166,13 +173,20 @@ Keep in mind that there are two very differing methods by which you came to the 
 ## The Rare and Cryptic
 ### [[Krest]]
 No societies tale is as tragic as the Krest. Even the [[Gnomes]] have a powerful respect for the heinous nature of Krest history. Their wings being considered beautiful and rare drove them to near extinction, as they were hunted, killed, and carefully de-winged for sale. Their wings still trade for astronomical amounts in dark circles, but in general no longer suffer for their unique beauty. Though they have more of a place now sociologically, their population dwindles in places of civilization. More of them are found in communes and villages where their hunters' necessitated their current remoteness.
+###### Playing a Krest
+The Krest believe themselves direct descendants of the goddess of the wind and neutrality [[Lielun]]. Whether you are the kind of Krest who desires to remain out of conflict, or believes your goddess mother's stance a bit silly is up to you. Think also of how your peoples past effects your outlook on civilization.
 ### [[Ankan]]
 Few things awaken an unreasonable fear in as many people as spiders. Thankfully for the surface dwellers the Ankan population primarily live in the [[Goweh]]. By this point their threads span to every tunnel and crevice, having built the world beneath into a secluded empire. On rare occasion Ankan individuals break from the hive mind like society and emerge on the surface. Thankfully the general populace is more familiar with large arachnid creatures thanks to [[Spider Ranches]], and the humanoid top half of the Ankan is as unsettling as it is reassuring. Even Ankan workers are formidable warriors, and despite their strange biology are found to be invaluable allies by many.
+###### Playing an Ankan
+The rigidity of the structure you come from should have some bearing on your attitude and character. Even after escape to the surface the concepts of a stable position in a society based on power are difficult to shake, how does this mold you? Do you enjoy the flash of fear most other species display when first meeting you, or does it sting?
 ### [[Attovia/Races/Nephesh|Nephesh]]
 The [[Soul|Souls]] of the mountains, rivers and forests of Attovia are coming under duress during the [[Era’s of Attovia#Time of Rest|Time of Rest's]] rapid progress at a rate never before seen. What were once purely the stuff of oral histories now walk in remarkable numbers on the continent. Remarkable in that they can even *be* observed and counted, but they are still almost one to a nation in their rarity. These strange entities of natural purpose attempt to influence society and culture towards the betterment of their representative biomes. If they must, [[Desolation of Deep Home|cataclysmic measures]] may be taken.
+###### Playing a Nephesh
+A Nephesh's existence *requires* the entity they represent to consider itself endangered and to expend a tremendous amount of energy to create them. What do you represent, why does it feel threatened, and what are you going to do about it?
 ### [[Awakened]]
 Whether its a goblin or a small housecat, the Awakened have one thing in common. Within their chest where a heart of muscle once pumped, a [[God Stone]] rests. They are an esoteric creation of which very little is known. Only the most intelligent, and ethically questionable of [[Those who Work Meyda|Meyda-workers]] create these beings. In some ways an Awakened is more a child of its creator than one beget through biological processes. To give an Awakened their own [[Soul]] requires giving up a small piece of your own.
-
+###### Playing an Awakened
+Any playable monster stat block that your DM okays likely fits into this category, any sentient animals like nekomata will also fit. When you play an Awakened it is up to you whether or not you know your creator. If you do work with your DM to figure out who they are. Whether you know your origins or not should have some bearing on what drives you.
 # Attovian Culture
 # The Pantheon
 Whether in the public [[CoH Temples|Temple]] of the [[Church of Hormus]], or the secluded commune of the [[Cult of the Kraken]], many gods are worshiped on Attovia. Though they do not show themselves commonly to the mortal, their presence is undeniable, and the boons granted to those who worship 
