@@ -48,6 +48,11 @@ date: 2024-10-11 14:45
 	- [[#The Hebdomad]]
 		- [[#Asthéneia]]
 		- [[#Skoteinóti̱ta]]
+		- [[#Fónos]]
+		- [[#Atonía]]
+		- [[#Akinisía]]
+		- [[#Kraipáli]]
+		- [[#Peína]]
 	- [[#Hikari]]
 	- [[#Yami]]
 	- [[#Organized Religions]]
@@ -211,11 +216,31 @@ Graskoroth's seven corrupt Demon Lords, born of his wrath and corruption to sava
 ### Asthéneia
 Corrupt Demon Lord of Disease, Asthéneia is considered the Eye's opposite by the Church of Hormus. It is believed many illnesses and diseases that exist today were conjured by Asthéneia. They are described as appearing rotten and dilapidated except for their head which hosts a pair of twisting horns.
 ###### Aspects
-Asthéneia is the Lord of Rot and Disease.
+Asthéneia is the spreader Rot and Disease.
 ### Skoteinóti̱ta
 Corrupt Demon Lord of Darkness, Skoteinóti̱ta is considered the Head's opposite by the Church of Hormus. He is rarely depicted at all since it is widely considered a way to let him [[The Painter's Blot|reenter the world]].
 ###### Aspects
-Skoteinóti̱ta is the Lord of Darkness.
+Skoteinóti̱ta is the hider of Darkness and Secrets.
+### Fónos
+Corrupt Demon Lord of Murder, Fónos is considered the Hand's opposite by the Church of Hormus. Fónos and Skoteinóti̱ta are believed to be twin brothers who together represent all the evil sentient creatures do in the dark. Said to have been a featureless looking man with a white mask who's bare hands and feet are always stained with blood.
+###### Aspects
+Fónos is the bringer of Murder and Betrayal.
+### Atonía
+Corrupt Demon Lord of Weakness, Atonía is considered the Arm opposite by the Church of Hormus. Atonía's appearance is the most agreed upon, and is one of the few who's historical accounts were *not* solely of oral nature. Atonía is believed to be responsible for large portions of the Tiefling mutations that plague bloodlines, due to an affinity for control over small pockets of civilization. He is described in old writings and even in an ancient stone carving as a massive stag elk that towered over buildings.
+###### Aspects
+Atonía is the master of Weakness and Pride.
+### Akinisía
+Corrupt Demon Lord of Stagnation, Akinisía is considered the Foot opposite by the Church of Hormus. Akinisía's stories to many are the most self-contradicting. Akinisía's very nature is described as an unmoving mass of flesh rooting those who see it to the spot, but tales of Akinisía are found in almost every culture including the remote [[Girav gel]]. Consistently represented in art as a ludicrously overweight genderless being who's features are lost in fat rolls.
+###### Aspects
+Akinisía is the throne keeper of Stagnation and Gluttony.
+### Kraipáli
+Corrupt Demon Lord of Debauchery, Kraipáli is considered the Leg opposite by the Church of Hormus. Kraipáli to much protest of Elves past is often depicted as an alluring Elven woman with kraken like tentacles appearing from under the hem of her gown. Not much is known about her, and oral history seems to dispute amongst itself in regards to her appearance and character.
+###### Aspects
+Kraipáli is the queen of Debauchery and Infidelity
+### Peína
+Corrupt Demon Lord of Hunger, Peína is considered the Torso opposite by the Church of Hormus. It appears to historians that Peína's nature took her all across the continent. Her description is the most twisted of any of her siblings, and remains incredibly consistent. A ceaseless hunger warped her form towards a functionality that left her humanoid origins almost unrecognizable.
+###### Aspects
+Peína is the devourer of Hunger and Pestilance.
 ## [[Hikari]]
 The pure dragon goddess of the [[Dragonborn]] and especially [[Kochavism]]. It is believed she and her brother live on [[Yähti]] and though her light shines on the world, they continue to war for control of the sphere.
 ###### Aspects
