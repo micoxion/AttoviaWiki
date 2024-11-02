@@ -9,7 +9,10 @@ tags:
 date: 2024-11-01 14:20
 ---
 Check out the [[DM Guide#How to use One Shot Guides|How to use One Shot Guides]] section of the DM Guide for structure explanations and guidelines.
-# Until Dawn Begin
+# Player Resources
+Here are player handouts I created using homebrewery. These allow your players to have a list of Fire Actions, special status effects and track luminance.
+https://homebrewery.naturalcrit.com/share/m_338axa5tM_
+# Until Dawn
 > [!info]+ Player Vibe Blurb
 > The tiny hamlet of [[Mutka]] has been abuzz for the entire month of Paenui as the [[Fellowship of Flame and Sacrifice]] celebration quickly approached. Torso Olavi has been rehearsing the children's favorite tales from [[The Book of Nefiqaddis]], and Samuel Parstone's accumulated stack of set aside wood now peaks above his small thatched roof. In just a couple hours six of the townsfolk will be chosen at random to watch and tend the fire till dawn. 
 > The small place is aglow with anticipation and happy chatter. It is Old Marta alone who wears a frown. She smells a cold in the rustled leaves of the forest. The breath of the trees sours of something long forgotten. It hunts beyond their palisade of cheer. May the fire's flame dim not.
