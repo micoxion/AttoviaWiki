@@ -55,6 +55,8 @@ date: 2024-10-11 14:45
 		- [[#Peína]]
 	- [[#Hikari]]
 	- [[#Yami]]
+	- [[#Krag the Quick]]
+	- [[#Lielun]]
 	- [[#Organized Religions]]
 	- [[#Common Religious Practices]]
 - [[#5th Edition DnD Conversions]]
@@ -131,67 +133,96 @@ Of any Human sub-group the Zoherians are the most proud. It is only their name w
 The Tzelians are often considered the wisest of the Humans. Just as any Zoherian may show humility a Tzelian may show themself a fool, but as generalizations go history has played favorites to the idea of the Tzelian wiseman. Many of the greatest Human breakthroughs in [[Meyda-work]], Philosophy, and religion are attributed to great Tzelian men and women. No other species has a complexion that can compare to the deep ebony of the Tzelian and they can be found *everywhere*. They have spread through the continent more so than any other Human and are appreciated wherever they find homes.
 ###### Playing a Human
 Don't let anyone tell you the Human choice is boring. There is a special sauce in the variety of Human flaw. Their character can be steered in almost any direction and it won't feel out of place in the world. If other races feel like a cultural or world building box, this could be your outlet. 
+###### Stats
+Use the 5e stat block for Humans. In the future I plan to have homebrew subraces for each genetic group.
 ### [[Elves]]
 The Elves scoff at the pride of Humans. After all, they are the perfected form spawned by the imperfect, short lived Human creature. They are the closest mortal beings to godhood and believe all others ought to understand this simple fact of nature. This idea of nature defining the order of authority and thus society can be seen permeating every corner of Elven society. Though a shining beacon of beauty from the outside, behind the doors of the upper class a grave campaign of pride and hate presses forward.
 
 Many Elves of lower standing find themselves disgusted with the conduct of their nations aristocracy. It is this diaspora that has lead to the Elven and Half-elven individuals and groups found in all nations, even the most remote or obscure.
 ###### Playing an Elf
 Do not feel pressured to play an Elf as close-minded, arrogant, and self serving. Keep in mind that there are many Elves who attempt to cast off these common traits. Instead I encourage one to think how the current age of your PC in relation to a life that will live naturally for at least a millennia. If its your first century perhaps you still retain the rose tinted glasses of the young. Or instead are you a multi-century lived individual who struggles every day to find novelty or light in the world around them? What [[Elves#Tears of Memory|Tears of Memory]] do you wear and how?
+###### Stats
+Use the 5e stat block for Elves.
 ##### Half-Elves
 Due to a surprising genetic closeness, Humans can have children with Elves. A strange blessing and curse it brings to the child at hand. It is a tragic and terrible thing when one side of your heritage falls into the obscurity of a mind that has experienced many lifetimes. Half-Elves receive the same life expectancy as their elvish parent, and pull most of their appearance from their Human half. In addition Half-Elves are only capable of procreating with other Half-Elves for reasons still yet unknown.
 ###### Playing a Half-Elf
 All the guidance I placed for Elves works similarly here, but you have an additional axis of character development. One of your parents will be *extremely* short lived in comparison to yourself and the other could quite possibly outlive you.
+###### Stats
+Use the 5e stat block for Half-Elves.
 ### [[Rugadh Sliabh]]
 Ashy grey skin, short yet muscular, great black beards that stretch to the center of the torso, and fingers which itch to pull form from rock and stone. The Rugadh are simple and easily read, anyone on the continent who has met a Rugadh would have intuited these aspects rather quickly. But within their honest simplicity a complex and ancient culture exists. For a Rugadhian heart to sing they must be part of a creation process. For the [[Master Cruthman]] it is most obvious, but for the Master [[Daurk Brionnaigh#Leabharchoimeád|Leabharchoimeád]] it is perhaps less so. No naming of Mastery has existed since the time of [[Rugadhian History#The Waking Floods|The Waking Floods]] that was not recognized by [[The Council of Elders]] to be, at its core, subservient to the art of creation granted the Rugadh by [[Aoire Sléibhe]].
 ###### Playing a Rugadhian
 The Rugadhian culture is encompassed neatly in the word "creation". Every aspect of their lives is in pursuit of cultivating creative arts. The more tangible the better. Let this infuse your character as much as possible. There is some room for a very odd Rugadh who has little interest in such pursuits, but it would be an almost world shattering anomaly to most. 
+###### Stats
+I do not have a homebrew for this race yet, feel free to use the 5e dwarf race for now, preferably Mountain subrace but it doesn't really matter.
 ##### [[Tréigtheoir Sliabh]]
 A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago. Though scattered across Attovia, their primary home and source of culture is in [[Strana Gigantov]] alongside the [[Yewdi]] people. The drastic change in environment enforced a steady change in the Tréigtheoirians. Their complexion has become an obsidian black, their body fat ratio has increased to counteract the harsh winters of the north, and every one to the last of them has a beard as white as the snow they call home.
+###### Playing a Theoirian
+Theoirian's and Rugadhian's do not feud, but they live fundamentally different lives. Theoirian's primarily believe in the maintenance of culture and familial units, the practice of a creative craft is often viewed as frivolous. Whether or not you agree with your heritage, or the Rugadhian way of thought, or something else entirely will say a lot about your identity in relation to your race.
+###### Stats
+I do not have a homebrew for this race yet, feel free to use the 5e dwarf race for now, preferably Hill subrace but it doesn't really matter.
 ### [[Yewdi]]
 A very large people who stand well above most other Attovian residents. They are perhaps the most unique genetic grouping on the continent. They carry their newborns in pouches, have extended hair at the ends of their ears, and resonate an unnatural level of body heat compared to any other species. The Yewdi as a group are known primarily by these obvious differences, and their tribal lifestyle is not well known. Even outside of [[Strana Gigantov]] they tend to latch on quickly to family groups drawing their own tribal lines with whatever delineator they can. They are a fiercely loyal people and often end up as body guards or "help" for the nefarious and innocent alike.
 ###### Playing a Yewdi
 You come from a land where some gods of old still walk among your people. This profoundly impacts the way you view the world. Be it superstition, doubt in modern ways, reverence for the divine or the opposite. 
 If instead you are a generation removed from [[Strana Gigantov]] then your homeland is a mystery known only to you through the oral stories of your parentage. Perhaps this guides your motivation?
+###### Stats
+I do not have a homebrew for this race yet, you can use either the Goliath or Bugbear races from 5e.
 ### [[Gnomes]]
 Smaller even than the shorter spectrum of [[Human#Nammalians|Nammalians]], Gnomish society always has an interesting collision with the rest of the world around it. Most bakeries being run by these little people have internals constructed on a different scale than other typical structures in a city outside the [[Shen Dynasty]]. Especially for the larger Yewdi and Girav gel, it may feel like walking into an upscaled doll house. Gnomes are quite proud of their culture however, having risen from their oppressed past, they boast a new history of culture and development. After all, no other group can make the claim to pastries that the Gnomes can.
 ###### Playing a Gnome
 Not every gnome is trained in the art of baking, but all of them encounter it tangentially. Did your parents run a bakery in another nation? Or were you a baking school dropout? Perhaps you take some pride in this comical piece of culture you have, or maybe you scoff at it.
+###### Stats
+Use the 5e stat block for Gnomes.
 ### [[Tieflings]]
 Not truly its own race or ethnic group, this moniker is used for those who's original genetics are not discernable beneath the demonic corruption that instead adorns their flesh. Every horn, tail and discoloration tells a haunting story of a distant relative long dead who suffered the presence of one of [[The Hebdomad]]. Few cultures still shun those with Tiefling mutations, but for any individual who suffers it, a crisis of identity must always be summited.  
 ###### Playing a Tiefling
 If you choose to play as a Tiefling keep in mind that this means your mutations are extreme enough to overpower other notable racial features. What are you underneath the corruption? An elf, human, gnome? Or are you an orphan who has no way of knowing?
 
 You may also choose to have minor Tiefling mutations if you play as another race. These of course have no mechanical impact but are fun for flavor.
-
+###### Stats
+Though their origins are quite different just use the 5e stat block for Tieflings.
 ### [[Girav gel]]
 Even more rarely seen than the Yewdi people Giravians come from out past the [[Western Wastes]] in the [[Giravian Archipelago]]. No other society is capable of existing near the corrupted ocean, but there is something special about the waters around the islands the Girav gel call home. The water teems with life and many large reefs are found off the sandbars that connect the many islets. 
 
 The Girav gel have a strange culture surrounding death, and ritualistic warfare which most have difficulty leaving behind in favor of more modern traditions. They believe they were built for the purpose of battle in the surf, and find it strange that anyone would ask them to do something different with their short time in the material world.
 ###### Playing a Girav gel
 The Giravian's, unless second generation are quite unfamiliar with most of the goings on of the continent. You could be easily impressed by technology or dismissive of it. There is lots of room here to be one who marvels, or one who suspects. Girav gel take premature death very hard, and believe everyone has a purpose, a destiny, in life they must fulfill before their eventual demise.
+###### Stats
+I do not have a homebrew for this race yet, you can use either the Orc or Half-Orc races from 5e.
 ### [[Dragonborn]]
 The Dragonborn are unequivocally more alien than any other species. Born quite late in regards to other races, there was a time when all others had begun to develop simplistic civilizations and the Dragonborn were not yet a thought to be considered. Now, though still a focused population within [[Claskarian Theocracy|Claskaria]], they can be found scattered through their fellow nations. 
 
 Most Dragonborn are [[Kochavism|Kochavists]]. It is difficult for someone with such obviously foreign origins to deny the myths of [[Hikari]] and the [[Dragonfall]]. So in varietous fervor the Dragonborn race praises their Platinum Queen and laud her tenets of freedom to those who will listen.
 ###### Playing a Dragonborn
 Keep in mind that there are two very differing methods by which you came to the planet. Either you have two Dragonborn parents or crashed to this continents soil in a super heated egg sent from an extraterrestrial source. Depending on your decision, your outlook on Kochavism and other Dragonborn and their foreignness will warp. You have a unique claim if you were subject to Dragonfall, perhaps you keep it secret? Or you let everyone know how blessed you were to have been granted this special freedom.
+###### Stats
+For now still modeled largely off 5e Dragonborn just use their stat block.
 ## The Rare and Cryptic
 ### [[Krest]]
 No societies tale is as tragic as the Krest. Even the [[Gnomes]] have a powerful respect for the heinous nature of Krest history. Their wings being considered beautiful and rare drove them to near extinction, as they were hunted, killed, and carefully de-winged for sale. Their wings still trade for astronomical amounts in dark circles, but in general no longer suffer for their unique beauty. Though they have more of a place now sociologically, their population dwindles in places of civilization. More of them are found in communes and villages where their hunters' necessitated their current remoteness.
 ###### Playing a Krest
 The Krest believe themselves direct descendants of the goddess of the wind and neutrality [[Lielun]]. Whether you are the kind of Krest who desires to remain out of conflict, or believes your goddess mother's stance a bit silly is up to you. Think also of how your peoples past effects your outlook on civilization.
+###### Stats
+The Krest homebrew race can be found [here](https://homebrewery.naturalcrit.com/share/GbqHqm0VKNoM). Preferably do not use any other avian oriented race from 5e without discussing it with me or your DM.
 ### [[Ankan]]
 Few things awaken an unreasonable fear in as many people as spiders. Thankfully for the surface dwellers the Ankan population primarily live in the [[Goweh]]. By this point their threads span to every tunnel and crevice, having built the world beneath into a secluded empire. On rare occasion Ankan individuals break from the hive mind like society and emerge on the surface. Thankfully the general populace is more familiar with large arachnid creatures thanks to [[Spider Ranches]], and the humanoid top half of the Ankan is as unsettling as it is reassuring. Even Ankan workers are formidable warriors, and despite their strange biology are found to be invaluable allies by many.
 ###### Playing an Ankan
 The rigidity of the structure you come from should have some bearing on your attitude and character. Even after escape to the surface the concepts of a stable position in a society based on power are difficult to shake, how does this mold you? Do you enjoy the flash of fear most other species display when first meeting you, or does it sting?
+###### Stats
+For now I am using a homebrew found [here](https://www.dandwiki.com/wiki/Spiderfolk_(5e_Race)), but I plan on creating one more tailored to Attovia.
 ### [[Attovia/Races/Nephesh|Nephesh]]
 The [[Soul|Souls]] of the mountains, rivers and forests of Attovia are coming under duress during the [[Era’s of Attovia#Time of Rest|Time of Rest's]] rapid progress at a rate never before seen. What were once purely the stuff of oral histories now walk in remarkable numbers on the continent. Remarkable in that they can even *be* observed and counted, but they are still almost one to a nation in their rarity. These strange entities of natural purpose attempt to influence society and culture towards the betterment of their representative biomes. If they must, [[Desolation of Deep Home|cataclysmic measures]] may be taken.
 ###### Playing a Nephesh
 A Nephesh's existence *requires* the entity they represent to consider itself endangered and to expend a tremendous amount of energy to create them. What do you represent, why does it feel threatened, and what are you going to do about it?
+###### Stats
+The Nephesh homebrew race can be found [here](https://homebrewery.naturalcrit.com/share/GbqHqm0VKNoM).
 ### [[Awakened]]
 Whether its a goblin or a small housecat, the Awakened have one thing in common. Within their chest where a heart of muscle once pumped, a [[God Stone]] rests. They are an esoteric creation of which very little is known. Only the most intelligent, and ethically questionable of [[Those who Work Meyda|Meyda-workers]] create these beings. In some ways an Awakened is more a child of its creator than one beget through biological processes. To give an Awakened their own [[Soul]] requires giving up a small piece of your own.
 ###### Playing an Awakened
 Any playable monster stat block that your DM okays likely fits into this category, any sentient animals like nekomata will also fit. When you play an Awakened it is up to you whether or not you know your creator. If you do work with your DM to figure out who they are. Whether you know your origins or not should have some bearing on what drives you.
+###### Stats
+The Awakened is sometimes a catch all race, allowing for interesting homebrew races to be played and not be out of place within Attovia's world building. This one will probably require some discussion with your DM. You might not originally plan on playing an "awakened" but it might end up being what makes sense with the statblock you choose.
 # Attovian Culture
 # The Pantheon
 Whether in the public [[CoH Temples|Temple]] of the [[Church of Hormus]], or the secluded commune of the [[Cult of the Kraken]], many gods are worshiped on Attovia. Though they do not show themselves commonly to the mortal, their presence is undeniable, and the boons granted to those who worship 
@@ -207,7 +238,7 @@ The Church of Hormus assigns a unique aspect to each of Hormus sundered parts:
 - Foot: The Journey
 - Leg: Balance
 - Torso: Vitality
-### [[Graskoroth]]
+## [[Graskoroth]]
 The corrupt antagonist to Hormus. Graskoroth is believed to live off the southeastern coast, where his rage continues to spill onto Attovian coasts in the form of [[True Monsters]]. Few worship the kraken, for according to legend he is defeated. But cults and individuals still beseech him for power.
 ###### Aspects
 Graskoroth is said to be the champion of wrath and hate, and the lord of the deep.
@@ -249,6 +280,15 @@ Hikari is the queen of light and freedom.
 Hikari's corrupt brother, he vies for control over [[Yähti]] and despises his sister and her Dragonborn.
 ###### Aspects
 Yami is Hikari's opposite and is the lord of darkness and control.
+## Krag the Quick
+[[Attovia/Events/🐉Mythology Lore/Krag the Quick|Krag]] is a popular neutral god for athletes and on more rare occasions warriors. He represents to many a kind of underdog misfit mentality. His [[Attovia/Events/🐉Mythology Lore/Krag the Quick|story]] is often held close by those who do not seek to inherit a passion that isn't theirs. Krag has no organized structure surrounding his worship, but many can be found praying to shoddily constructed shrines all over the continent.
+###### Aspects
+Krag is the king of Athletics and the Day Sky.
+## [[Lielun]]
+Lielun is a divisive goddess for many reasons. Some sailors swear by her protection, other's care not to mention her name believing her title a curse on the winds for seamen. In religious circles she is viewed as either the representative of peace, or a traitor to [[Hormus]], having left him in his fight with Graskoroth after being unable to broker any compromise. 
+Though the [[Church of Hormus]] has proclaimed Lielun's worship to be directly in opposition to them and their god they do not enforce it with a heavy hand. The [[Krest]] who are believed to be Lielun's only creation, are never questioned in their worship, even if it is done in the streets of a [[Zoher]] city.
+###### Aspects
+Lielun is a neutral goddess of the Night Sky and Weather.
 ## Organized Religions
 ## Common Religious Practices
 # 5th Edition DnD Conversions
