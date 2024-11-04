@@ -57,6 +57,8 @@ date: 2024-10-11 14:45
 	- [[#Yami]]
 	- [[#Krag the Quick]]
 	- [[#Lielun]]
+	- [[#Mammon]]
+	- [[#Mordechai]]
 	- [[#Organized Religions]]
 	- [[#Common Religious Practices]]
 - [[#5th Edition DnD Conversions]]
@@ -289,6 +291,14 @@ Lielun is a divisive goddess for many reasons. Some sailors swear by her protect
 Though the [[Church of Hormus]] has proclaimed Lielun's worship to be directly in opposition to them and their god they do not enforce it with a heavy hand. The [[Krest]] who are believed to be Lielun's only creation, are never questioned in their worship, even if it is done in the streets of a [[Zoher]] city.
 ###### Aspects
 Lielun is a neutral goddess of the Night Sky and Weather.
+## [[Mammon]]
+If one finds themselves in search of favorable business, a good deal, or falling on hard times, Mammon is a common receiver of their worship. His sphere of influence is smaller than most gods, being effectively unknown to the far west and south eastern portions of the continent. But in the bustling self proclaimed "civilized" nations, he is offered and prayed too almost unceasingly.
+###### Aspects
+Mammon is the neutral god of Commerce and Progress
+## [[Mordechai]]
+Mordechai is the only deity commonly worshiped who is also believed to have once been human. All manner of [[Those who Work Meyda|Meyda-workers]] offer up scraps of knowledge to him in hopes for a kind of return-with-interest blessing of some powerful epiphany. To those who know the ways of the **Workings** well he is quite polarizing. Whatever [[Contracts|Contract]] he signed his [[Soul]] to is not something to be envied by the legitimate learner.
+###### Aspects
+It is argued over whether Mordechai is a pure or neutral god, but he is agreed to represent Science, and to many he is also the god of Meyda-work itself.
 ## Organized Religions
 ## Common Religious Practices
 # 5th Edition DnD Conversions
