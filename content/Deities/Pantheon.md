@@ -4,7 +4,6 @@ draft: false
 tags:
 date: 2024-07-01
 ---
-
 - [[Hormus]]: Pure god of Sacrifice and Healing
 - [[Graskoroth]]: Corrupt god of the Deep and Hate
 - [[The Hebdomad|Asthéneia]]: Corrupt demon Lord of Disease.
@@ -23,6 +22,7 @@ date: 2024-07-01
 - [[Mordechai]]: Neutral/Pure god of Science and his believers also see him as the god of Meyda-work
 - [[Bara Levatel]]: Neutral god of Death
 - [[Aoire Sléibhe]]: Pure god of stonework, creator of the [[Rugadh Sliabh]]
+- [[Pastukh Pecci]]: Pure god of heat and snow.
 - [[Şivan Rêk]]: Pure god of tides and uncorrupt ocean life.
 - [[Dia na Péisteanna]]: Corrupt worm god of the Goweh.
 - [[Trebulance]]: Corrupt trickster god of cons and thieves.

@@ -6,10 +6,11 @@ tags:
   - SilverSwords
 date: 2024-09-19 11:30
 ---
-Frihet City is quite sizable, full of business and trade ferried across the Frihet lake along the Frihet and Zìyóu rivers towards [[Morus]] in [[Zoher]], [[Twin Lakes]] in [[Zyclester Empire|Zyclest]], and [[Waterhelm]] in [[Kingdom of Helva|Helva]]. Overall an extremely mercantile city, it is one of the wealthiest places in all of the Shen Dynasty. Despite its commerce related success the locals of Frihet City remain surprisingly dour. Not even two decades ago the capital of the [[Shen Dynasty]] was officially changed by the **Shen** family from Frihet City to Vulkud, ripping an important piece of pride from the financially powerful city. This left a hole in the heart of the people of the city that continues to persist to this day. [[Gnomes]] are prone to keeping grudges thanks to their dark history and the people of Frihet City display this behavior to the fullest.
+
+Frihet City is quite sizable, full of business and trade ferried across the Frihet lake along the Frihet and Zìyóu rivers towards [[Morus]] in [[Zoher|Zoher]], [[Twin Lakes]] in [[Zyclester Empire|Zyclest]], and [[Waterhelm]] in [[Kingdom of Helva|Helva]]. Overall an extremely mercantile city, it is one of the wealthiest places in all of the Shen Dynasty. Despite its commerce related success the locals of Frihet City remain surprisingly dour. Not even two decades ago the capital of the [[Shen Dynasty]] was officially changed by the **Shen** family from Frihet City to Vulkud, ripping an important piece of pride from the financially powerful city. This left a hole in the heart of the people of the city that continues to persist to this day. [[Gnomes]] are prone to keeping grudges thanks to their dark history and the people of Frihet City display this behavior to the fullest.
 # Details
 Population: 4300
-Governer/Leader:
+Governer/Leader: 
 City Scale (in miles): 10
 Racial density: Gnomes 85%, [[Tréigtheoir Sliabh]] 5%, [[Human]] 5%, [[Yewdi]] 2%, Elf/Half-Elf 2%, [[Human#Nammalians|Nammalians]] 1%
 # Sub-prefectures
@@ -38,7 +39,7 @@ This sub-prefecture has grown the most over the cities life time and as it spraw
 - [[Frihet City Shrine to Ukko]]
 - [[Frihet City Shrine to Pellervo]]
 ## West Gate
-Rows and rows of tightly packed houses, taverns and [[Xībao]] (bread lounges) that expand out from the western gate. Encompasses this largely residential area up until it collides with the Jianbo River and the Frihet Gate sub-prefecture. The close streets, alleys, and space near water with little docking makes for the perfect habitat of those seeking asylum from the law. Urchin pick pockets, grifters, fortune tellers, the flash of a thief's knife, and below it all: [[The Underground]].
+Rows and rows of tightly packed houses, taverns and [[Xībao]][^1] that expand out from the western gate encompass this largely residential area up until it collides with the Jianbo River and the Frihet Gate sub-prefecture. The close streets, alleys, and space near water with little docking makes for the perfect habitat of those seeking asylum from the law. Urchin pick pockets, grifters, fortune tellers, the flash of a thief's knife, and below it all: [[The Underground]].
 - [[Wǎnshàng Xībao]]
 - [[Mengyin Fu's Goods for the Discerning Eye]]
 - [[Zhǎng kēng]]
@@ -56,8 +57,8 @@ The **Fu** clan palace is a beautiful piece of gnomish architecture, rising abov
 
 ##### Characters
 - Master
-	- Vadim Sidorov (Goliath male)
-		 An extremely large, imposing goliath, he has a surprising sense of humor for a Master of a Silver Sword chapter. He is well beloved by the Students there and runs one of the most successful chapters of the Silver Swords. His long term goal is to increase demand for mercenaries in the area and get a second chapter opened in [[Vulkud]].
+	- Vadim Sidorov (Yewdi male)
+		 An extremely large, imposing Yewdi, he has a surprising sense of humor for a Master of a Silver Sword chapter. He is well beloved by the Students there and runs one of the most successful chapters of the Silver Swords. His long term goal is to increase demand for mercenaries in the area and get a second chapter opened in [[Vulkud]].
 - Assistants
 	- Assistant of Enrollment (Male Dragonborn named Rokuro)
 		 His name means six, he comes from a rare large dragonborn family who live in the Shen Dynasty. He is relatively friendly, but takes no nonsense from applicants and prefers to do his job efficiently as possible.
@@ -65,3 +66,5 @@ The **Fu** clan palace is a beautiful piece of gnomish architecture, rising abov
 ## Shops
 
 ## Inns/Taverns
+
+[^1]: Bread Lounges
