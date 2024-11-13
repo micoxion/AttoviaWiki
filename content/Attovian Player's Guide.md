@@ -157,8 +157,8 @@ Ashy grey skin, short yet muscular, great black beards that stretch to the cente
 The Rugadhian culture is encompassed neatly in the word "creation". Every aspect of their lives is in pursuit of cultivating creative arts. The more tangible the better. Let this infuse your character as much as possible. There is some room for a very odd Rugadh who has little interest in such pursuits, but it would be an almost world shattering anomaly to most. 
 ###### Stats
 I do not have a homebrew for this race yet, feel free to use the 5e dwarf race for now, preferably Mountain subrace but it doesn't really matter.
-##### [[Tréigtheoir Sliabh]]
-A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago. Though scattered across Attovia, their primary home and source of culture is in [[Strana Gigantov]] alongside the [[Yewdi]] people. The drastic change in environment enforced a steady change in the Tréigtheoirians. Their complexion has become an obsidian black, their body fat ratio has increased to counteract the harsh winters of the north, and every one to the last of them has a beard as white as the snow they call home.
+##### [[Theoir Sliabh]]
+A subset of Rugadhian's who split from [[Darkmount]] several thousand turns ago. Though scattered across Attovia, their primary home and source of culture is in [[Strana Gigantov]] alongside the [[Yewdi]] people. The drastic change in environment enforced a steady change in the Theoirians. Their complexion has become a cobalt blue, their body fat ratio has increased to counteract the harsh winters of the north, and every one to the last of them has a beard as white as the snow they call home.
 ###### Playing a Theoirian
 Theoirian's and Rugadhian's do not feud, but they live fundamentally different lives. Theoirian's primarily believe in the maintenance of culture and familial units, the practice of a creative craft is often viewed as frivolous. Whether or not you agree with your heritage, or the Rugadhian way of thought, or something else entirely will say a lot about your identity in relation to your race.
 ###### Stats
@@ -227,7 +227,11 @@ Any playable monster stat block that your DM okays likely fits into this categor
 The Awakened is sometimes a catch all race, allowing for interesting homebrew races to be played and not be out of place within Attovia's world building. This one will probably require some discussion with your DM. You might not originally plan on playing an "awakened" but it might end up being what makes sense with the statblock you choose.
 # Attovian Culture
 # The Pantheon
-Whether in the public [[CoH Temples|Temple]] of the [[Church of Hormus]], or the secluded commune of the [[Cult of the Kraken]], many gods are worshiped on Attovia. Though they do not show themselves commonly to the mortal, their presence is undeniable, and the boons granted to those who worship 
+Whether in the public [[CoH Temples|Temple]] of the [[Church of Hormus]], or the secluded commune of the [[Cult of the Kraken]], many gods are worshiped on Attovia. Though they do not show themselves commonly to the mortal, their presence is undeniable, and the boons granted to those who worship remarkable.
+Deities are generally sorted into three broad spheres. Pure, Corrupt, and Neutral. 
+Pure deities reflect a benevolence of some kind, either towards sentient creatures or the natural world. It is believed such gods and goddesses have the greater good in mind at least when they enact their will upon the world.
+Corrupt deities are antagonistic towards the Attovian populace or the biomes it hosts. Though not always, corrupt gods and goddesses often directly oppose one or more pure deities. When they enact **Workings** in the world, the end sought is that of greed, malice, or wrath.
+Neutral deities come in two verities. Those who abstain from impacting the world and lives of Attovians, and those who's actions do not portray a consistent temperament or goal. 
 ## [[Hormus]]
 A pure deity considered widely to be responsible for all sentient groups of life. He is often considered to be a parental or grandparental figure to races and the creator of the [[Roeh]]. Described most commonly as a colossal stone giant with a sacrificial love for his creations, he now lies in still living pieces across the continent, most notable being his [[Eye of Hormus|eye]].
 ###### Aspects
@@ -299,6 +303,19 @@ Mammon is the neutral god of Commerce and Progress
 Mordechai is the only deity commonly worshiped who is also believed to have once been human. All manner of [[Those who Work Meyda|Meyda-workers]] offer up scraps of knowledge to him in hopes for a kind of return-with-interest blessing of some powerful epiphany. To those who know the ways of the **Workings** well he is quite polarizing. Whatever [[Contracts|Contract]] he signed his [[Soul]] to is not something to be envied by the legitimate learner.
 ###### Aspects
 It is argued over whether Mordechai is a pure or neutral god, but he is agreed to represent Science, and to many he is also the god of Meyda-work itself.
+## [[Bara Levatel]]
+Bara holds a strange position in broad Attovian culture. Across all sociological groups his name and general description are the same. A form of black, but not darkness, a tired and firm gait, a presence evoking a melancholic sonder. In addition, a concurrence of attitude towards Bara is found among most, and it is a general disdain or disregard. The few who do worship him are shunned by even the most radical of cults. They have an obsession with death and the afterlife that is considered uncanny and against nature.
+###### Aspects
+Bara is the god of death, to some decay, and most agree is he who moves one's Soul on to the next world.
+## [[Aoire Sléibhe]]
+The pure [[Roeh]] who is believed to have created the [[Rugadh Sliabh|Rugadhians]]. From Rugadhian texts it appears Aoire was small for a Roeh, made entirely of crisscrossing ore veins and covered in eruptions of gemstone growths. Aoire created the Rugadh to help fight back against the streams of [[True Monsters]] that poured fourth from the [[Goweh]]. If the stories are true this makes the Rugadh the only sentient race on the continent fashioned, effectively from nothing, by a god other than [[Hormus]].
+###### Aspects
+Pure god of stone and metalworking, he is also considered the god of craftsmen by the Rugadh.
+## [[Pastukh Pecci]]
+This pure Roeh is rumored to still walk the tundra of [[Strana Gigantov]]. The [[Yewdi]] and [[Theoir Sliabh]] tribes who tell stories to those of the central continent claim that on rare clear days they have seen Pecci's massive form pass between distant hillocks. He aid's those in the most need, and many [[Strana Gigantov#Snow Palm Readings|Snow Readers]] believe that the divinations they are granted come directly from Pecci. 
+Ask any Yewdi, Pecci glows red with an intense heat and his eyes flash a golden dawn. Though inconsistent they all claim he stands at a colossal height.
+###### Aspects
+Pastukh is the god of heat and snow.
 ## Organized Religions
 ## Common Religious Practices
 # 5th Edition DnD Conversions
