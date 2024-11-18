@@ -1,13 +1,10 @@
 ---
 title: Krag the Quick
 draft: false
-tags:
-  - incomplete
+tags: []
 date: 2024-07-01
 ---
-A cloud giant who rules the sky realm. Krag is said to be able to leap mountains, and travel Attovia’s length in mere days. He is the patron god for those in athletic pursuits.
-
+Krag was said to have leapt mountains with his great speed and athletic prowess. Unrivaled as a runner and wrestler, he is worshiped and given offerings by those who seek some aid in their physical exploits. Escaping the drudgery of his endless carving of the [[Goweh]], Krag is recognized as [[Lielun|Lielun's]] partner in ruling the sky, being granted dominion of the Day Sky after she was impressed by his determination.
 # Other Names
-
-- Wind Giant
 - Krag
+- Rebel's god

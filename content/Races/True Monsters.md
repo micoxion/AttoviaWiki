@@ -12,7 +12,7 @@ When the [[Minor Stone]] hearts of the True Monster's were first discovered gene
 Now it is generally agreed upon that the most certain test for a True Monster is to take it apart. They generally lack any logical set of internal mechanisms, instead a mass of organs that generally resemble those found in a human body surround and feed off of a [[Minor Stone]]. 
 The only school of thought which opposes this hard and fast rule comes from a chapter in the original de facto authority on monsterology [[A Thorough Study in Monstrous Biology and its Linkage to the Kraken]]. The chapter in question is on dragons, the original author claims to have had access to the body of a Wyrmling and writes the following:
 
-> [!quote] A Thorough Study in Monstrous Biology and its Linkage to the Kraken (Author Unknown)
+> [!quote] A Thorough Study in Monstrous Biology and its Linkage to the Kraken - Valo Rehn
 > Upon discovering the proposed heart of the creature I was shocked to find it entirely inorganic. A hard, softly glowing stone as that found within a goblin or troll sat in what I can only assume by the surrounding tissue as a consistent place of rest. The surrounding systems of life and maintenance however were not the expected jumbled mass. Instead I found therein a logic and order consistent with that discovered by the dissection and documentation of mundane farm animals.
 
 This chapter alone is enough for many academics to all but throw out the Stone Heart theory. This sect however is quite small, and it is generally agreed that Dragons and perhaps some other creatures would fit into some other category all together. 
