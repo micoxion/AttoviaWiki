@@ -22,6 +22,8 @@ export async function encryptPages() {
       "-p",
       file.password,
       "--short",
+      "--template",
+      `quartz/static/custom_password_template.html`,
       "-d",
       path.dirname(file.savePath),
     ])
