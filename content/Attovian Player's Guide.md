@@ -6,6 +6,7 @@ tags:
 date: 2024-10-11 14:45
 ---
 > [!example]- Table of Contents
+> - [[#How To Use this Player's Guide]]
 > - [[#5th Edition DnD Conversions]]
 >	- [[#Racial Analogs]]
 >	- [[#Currency Conversion]]
@@ -29,10 +30,17 @@ date: 2024-10-11 14:45
 > 		- [[#Ankan]]
 > 		- [[#Attovia/Races/Nephesh Nephesh|Nephesh]]
 > 		- [[#Awakened]]
+> - [[#The Attovian Paths]]
+> 	- [[#The **Worker** Paths|The Worker Paths]]
+> 		- [[#Divinely Inspired]]
+> 		- [[#Religious Fanatic and the Occult Obsessed]]
+> 		- [[#Eccentric Researcher]]
+> 		- [[#The Studious Apprentice]]
+> 	- [[#The Martial Paths]]
+> 	- [[#The Guides]]
 > - [[#History of Attovia]]
 > 	- [[#The Magic War]]
 > 	- [[#Time of Rest]]
-> - [[#Meyda-work]]
 > - [[#Sovereign Lands]]
 > 	- [[#Zoher]]
 > 	- [[#Shen Dynasty]]
@@ -243,6 +251,47 @@ Any playable monster stat block that your DM okays likely fits into this categor
 The Awakened is sometimes a catch all race, allowing for interesting homebrew races to be played and not be out of place within Attovia's world building. This one will probably require some discussion with your DM. You might not originally plan on playing an "awakened" but it might end up being what makes sense with the statblock you choose.
 ###### Naming Convention
 Awakened are usually named by their creator, you or your DM can decide what this might be depending on how much knowledge your PC has about their maker.
+# The Attovian Paths
+Each Attovian lives a life and walks a path unique to themselves, but like the woodland trails carved by [[Vachthir]], each step overlaps with another's print. No journey occurs alone historically, for billions of feet have trod the ground you travel into its walkable nature centuries before you. So go forward and tread the continent's ground, beat its road with resolute footsteps as you discover you place in an ever changing world.
+
+Whether you are playing 5th Edition, or my maybe someday PbtA system, your character should fit somewhere into one of the broad groups below. Under each section are several sub-groups and beneath those specific examples. If an example has a homebrew I will link to it.
+## The **Worker** Paths
+A wizard's grand display of destructive force differs from the simple herbalists water purification in little but its complexity. Both are Meyda-workers instructing the strange [[Meyda|substance]] to work changes in the world around them. 
+
+Whether it is via the precision of a [[Meyda-circle]] or through [[Meyda Intercession]] Attovian magic cannot function without a source of power. For commonplace Meyda-circles this is facilitated through the consumption of [[Chips]], Attovia's primary currency. In other instances it is the [[Tethers]] formed via [[Contracts]] with entities much more powerful than one's self that provide a flow of Meyda.
+
+For more than eight thousand years Meyda-work was a tool of the gods, those they inspired, and the intellectual savant. However, the past several millennia have seen many jumps in understanding, leading to the generalization of what was once mere legend. Now during the tense Time of Rest Meyda-work can be seen in diverse forms in even the most remote hamlets.
+### Divinely Inspired
+Divine inspiration as a source of power is almost always involuntary. Though sought after by thousands, the chosen are often simply the humble devout. This kind of **Tether** to a deity is more flexible than those made through ritualistic **Contracts**, but since the terms are unknown by one side are untenable and impermanent. This does provide the **Worker** with [[Meyda Intercession]], the act of a [[Olam Beyn|Higher Being]] interacting with the raw Meyda in their stead, requiring less accuracy during physical casting. On rare occasion an individual is chosen maliciously, and when attempting to cast may be intentionally interpreted incorrectly causing spells to backfire, alter, or have completely unrelated effects.
+###### [[Moon-touched]] Dragonborn
+For unknown reasons individual Dragonborn are chosen by [[Hikari]] to be more than just emissaries but warriors, and **Workers** of wonders. Somewhere on their bodies appears a solid white circle that emits a light who's brightness increases in proportion to its surrounding darkness. This is generally the only sign one receives of their having been chosen, and once discovered the search for a mentor begins.
+###### Nephesh
+The existence of a Nephesh begets a **Tethered** connection intrinsically between the Nephesh and the entities well of **Meyda**. Nephesh don't require Meyda Intercession with their entity, instead being "born" with the requisite knowledge and precision to **Meyda-work** with only the power source. Their very nature appears to solve the precision problem in a way still unexplained.
+### Religious Fanatic and the Occult Obsessed
+These **Workers** have all garnered power through very structured **Contracts** with deities. Either through the use of a common religious work like [[The Book of Nefiqaddis]], or other more esoteric writings. Though their reasons differ, or even exist wholly polarized the shape of their source is functionally identical. 
+
+The Meyda Intercession in such binding relations is at its best. Most rituals have relatively strong terms in regards to obstruction of **Meyda-work** and interpretation in the lesser being's favor.
+###### [[Sundered Priests]]
+A pact made by zealots and the devout of the [[Church of Hormus]] called the Tear in which part of their body is sacrificed in return for power in the form of the sacrificed portion's aspect as ascribed by the tenets of the Church of Hormus.
+### Eccentric Researcher
+Progress is moved forward by such individuals as these. The obsession with power replaced by one for knowledge. Though not always altercation inclined the well of knowledge such a **Worker** has at their disposal is invaluable. Strange trinkets and inventions made by the like of [[Fractalworking|Fractalmages]] turn the tides of battle through unexpected **Workings**, or set a parties foot back on the path forward via ingenious solutions. Driven by specific or broad goals, these researchers consume vast amounts of literature new and old, constantly taking fervent notes, and writing journals.
+
+Few organized examples exist of Eccentric Researches. It requires a special kind of Soul to truly become such an individual. Instead below you will find several individuals who are believed to most exhibit these qualities. Careful, some of these may come with some minor or major spoilers.
+###### [[Mordechai]]
+###### [[Master Conn Oibhachta]]
+###### [[Terridor Throumehdown]]
+###### [[Gorb]]
+### The Studious Apprentice
+Most commonly if one seeks power there are organizations and groups both widely known and esoteric where they might stumble. Such individuals vary widely from one another depending entirely on who they fall in step with. Where one goes once mastery is found is an entirely different discussion.
+###### [[Quill Master|Quill Masters]]
+Quill's are coveted by all in power, their knowledge and practice of law and **Contracts** an invaluable aid to any household or country. With this wealth of knowledge comes the power to enact one's will through the edicts and agreements made by the leaders of the continent. For this reason the Quill's carry with them the Soul of some other entity who their fellow Quill Master's have deemed an appropriate devil's advocate and mentor.
+###### [[The Carven]]
+Generally agreed to be more myth than truth, the Carven's strange markings evoke a resolve unmatched. They serve no governing body, and most seek to carry on the ideology behind their scars by taking on a curious ward.
+## The Martial Paths
+The millennia's plague of war seemingly cured, have embedded into Attovian culture, the sense of Martial prowess as an enviable and even holy pursuit. Monstrous shores, and tides of danger continue to encourage the development of these arts. Mercenary groups, bored militaries, and the individually passed on skillsets contribute to the scattered fighting forces that draw a line between civilization and the chaos of old.
+
+## The Guides
+Occasionally, the path one walks is beside others so as to aid them in their goals. This does not mean they lack a motivation or profound calling. Often such guides seek to aid the world in some way by picking individuals they believe can help or harm it. It is their job to lead and support such figures to ends which they believe are a good. This good is of course subjective to the beholder of its values, guides are not strictly benevolent wise men that heroes inevitably find on their journey. They may be, by proxy, the downfall of evil nations, eradicator's of species and defeater of gods.
 # History of Attovia
 A continent that until recently knew nothing but strife and darkness for many millennia. [[The Great Conflict]] left a populace forever at war with the sea. Floods of horrific [[True Monsters|Monsters]] clambered out of the sea foam, through the halls of the [[Goweh]], and spread calamity to every people. The rise and dominance of [[The Hebdomad]] still leaves its vestigial corruption in many who walk the continent.
 
@@ -253,12 +302,6 @@ With the eventual development of proper politics came the advent of proper war. 
 As the seesaw of progress tilts back towards Meyda-work, the Age of Nations culminates in the aptly named Magic War. The casualties accrued by almost every country exceeded the total recorded casualties of all other wars during the Age of Nations combined. Lasting a full decade the Magic War left the Attovian Continent forever changed. Entire peoples were all but wiped out, and the previously diverse borders consolidated heavily as winner and loser alike held allies close to lick their wounds.
 ### Time of Rest
 The modern Era of Attovia where a four century long implicit peace rests gently over the land. A new, tense feeling of the inevitable has crept under the blanket however, it whispers in the ears of the [[Houses]] of Helva. Its forked tongue tickles the Ornsiire Emperor's cheek, and [[Zyclester Empire#The Table|The Table]] of the Zyclester Empire requires little encouragement. The spoils of war have never looked so tempting.
-# [[Meyda-work]]
-A wizard's grand display of destructive force differs from the simple herbalists water purification in little but its complexity. Both are Meyda-workers instructing the strange [[Meyda|substance]] to work changes in the world around them. 
-
-Whether it is via the precision of a [[Meyda-circle]] or through [[Meyda Intercession]] Attovian magic cannot function without a source of power. For commonplace Meyda-circles this is facilitated through the consumption of [[Chips]], Attovia's primary currency. In other instances it is the [[Tethers]] formed via [[Contracts]] with entities much more powerful than one's self that provide a flow of Meyda.
-
-For more than eight thousand years Meyda-work was a tool of the gods, those they inspired, and the intellectual savant. However, the past several millennia have seen many jumps in understanding, leading to the generalization of what was once mere legend. Now during the tense Time of Rest Meyda-work can be seen in diverse forms in even the most remote hamlets.
 # Sovereign Lands and Distant Homes
 Across the Attovian Continent an eclectic people make their habitats in many varying cultures and environments. Here you will find a quick synopsis of each of the many nations that call Attovia home. 
 ### [[Zoher]]
