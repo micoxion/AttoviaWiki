@@ -1,0 +1,20 @@
+---
+title: Goblin
+draft: false
+tags: 
+date: 2024-12-02 17:44
+---
+> [!quote]+ An excerpt from [[A Thorough Study in Monstrous Biology and its Linkage to the Kraken]]
+> If a ranking could be ascribed to the corrupt creatures that invade our coasts, the Goblin as we have come to call it would by far be the lowest individual. It is a relatively weak creature, capable of dispatching the unsuspecting loner, but easily overpowered by two fit adults. Their danger comes in their propensity to come in groups, and if not arriving as such, to discover one another. When alone they appear to have some kind of genetic compass that drives their hunger towards nearby groups. This internal navigation method doesn't appear to work if no groups larger than two are within a roughly fifty mile radius, but is remarkably accurate when the variables align.
+
+There is nowhere on the continent one could travel where the mythology and truth of Goblins does not mix and clash with the history and culture of the residents there. Though a relatively large taxonomy underpins the moniker Goblin, anything smaller than a [[Troll]] winds up falling into the category so long as its appearance is generally consistent. Described often as [[Graskoroth|Graskoroth's]] foot soldiers the Goblin is one of the primary sources of [[Chips]] having been killed in the hundreds of thousands over millennia. 
+# Appearance
+Each Goblin who clambers up from the ocean floor carries with it an external biology of alien origins. Where bone comes into contact with bone at the elbows, knees, vertebrae, heels, and wrists, coral like protrusions sprout. They do not pierce the approximation of flesh that wraps the creatures however, instead merging quite seamlessly with the rest of the body. The growths are sharper and more gnarled the lower the joints are, ranging from large, smooth gill like formations on the spine to bumpy spurs that branch like saplings to many sharp points. The rest of the body is a rough almost pebbly texture and covered in sparse patches of seaweed and algae adjacent growths.
+## Variations
+Though the majority of Goblins have very similar appearances several notable outliers are commonly known.
+### Spider Goblins
+The external appearance of Spider Goblins matches their upright siblings, but they have altered joints in the shoulders, hips, knees and elbows. These changes allow them to crawl rapidly on all fours, and altered hands that function more like clawed feet with which they can scale most unsmoothed surfaces with ease.
+### Pit Goblins
+Similar to typical Goblins in every respect except deep orifices in the palms, cheeks and shoulder blades. Simple **Workings** of flame or acid can be ejected by the creatures at regular intervals when threatened or threatening. Depending on the size of the Pit Goblin the damage done can vary from light singing to extreme burns or the immolation of extremities and limbs. The acidic variety is capable of eating through most metals besides [[Rugadhian Steel]], but generally takes significant time to do so unless highly concentrated.
+### Cave Goblins
+Found exclusively in caves if not caught when first coming ashore Cave Goblins have alabaster skin, and far less protrusions and growths. They appear to be able to see without the aid of a source of light, and use this to their advantage when hunting and fighting. On rare occasions their hunger drives them out of their subterranean homes into the night air, those who walk the paths of the [[Grask Forest]] are warned to guard their campfire close so it might not fall stray to the stones of Cave Goblins. Included with the change in appearance Cave Goblins appear to be much stronger than their traditional counterparts. Fortunately they are incessantly burned by the light of the sun which heavily limits their activity, and mobility towards civilization.
