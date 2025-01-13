@@ -6,7 +6,7 @@ date: 2024-11-22 14:33
 ---
 
 > [!quote]+ From the Thorough Notes of [[Master Conn Oibhachta]] in Box T11
-> Dropped at my door on the [[Frihet City#Great Docks|Great Docks]] with a request for my findings was the body of what appears to be a Biaban woman. Her [[Geal Essence]] tattoos do not currently glow, but I will attempt to keep the [[Meyda-circle|Meyda-circles]] they form intact for reproduction and study at a later date.
+> Dropped at my door on the [[Frihet City#Great Docks|Great Docks]] with a request for my findings was the body of what appears to be a Biaban woman. Her [[Geal Essence]] tattoos do not currently glow, but I will attempt to keep the **[[Meyda-circle|Meyda-circles]]** they form intact for reproduction and study at a later date.
 > **Notable features:** 
 > Tiny, apparently vestigial organs attached to the lungs, one to each lung, roughly the size of human eyes. 
 > A common organic structure towards the rear of the brain is substantially larger than typical species I am familiar with.

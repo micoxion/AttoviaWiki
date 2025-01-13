@@ -22,10 +22,10 @@ Then the couple are strapped to one another and a large milling stone by the for
 ##### Protecting Palms
 The couple takes turns standing in front of one another blocking a dull ceremonial knife with their palms.
 ##### The Couples Journey
-Decided by the couple beforehand one of them lifts and carries the other seven times around the center of the room following a circle in the floor which mimics the Meyda-circle in its foundations.
+Decided by the couple beforehand one of them lifts and carries the other seven times around the center of the room following a circle in the floor which mimics the **Meyda-circle** in its foundations.
 ##### A Balanced Relationship
 Each partner creates a “heart” for the other. A simple decorative object made with one or more items that symbolize the relationship. The hearts are exchanged and placed on either side of a scale. The difference in weight is then offset with small carved marble ribs, a typical symbol of love among the Zoher. 
 ##### The Final Bond
-The Contract of Bonds is formed explicitly in a “proper” Zoher wedding. A Church of Hormus Priest tattoos a Meyda-circle on the chosen body part, traditionally the torso, but anywhere is acceptable. Once the tattoos are completed the couple recite from [[The Book of Nefiqaddis]] completing the Meyda-work. The tattoos vanish slowly over the next 12 hours but show themselves in times of emotional highs. They can also be summoned by reciting a smaller more compact form of the original text.
+The Contract of Bonds is formed explicitly in a “proper” Zoher wedding. A Church of Hormus Priest tattoos a **Meyda-circle** on the chosen body part, traditionally the torso, but anywhere is acceptable. Once the tattoos are completed the couple recite from [[The Book of Nefiqaddis]] completing the **Meyda-work**. The tattoos vanish slowly over the next 12 hours but show themselves in times of emotional highs. They can also be summoned by reciting a smaller more compact form of the original text.
 ##### Wedding Complete
 When the Final Bond is over the Priest who has facilitated the wedding opens the front door of the temple and invites the couple out stating: "A so begins the true couples journey. Hormus go with you as you live a life of sacrifice."

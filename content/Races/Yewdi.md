@@ -18,7 +18,7 @@ Yewdi's stiff ear hairs which they call Usik allow them to detect changes in bar
 ### Cold adaption
 In conjunction with eyes that allow them to see in the dim light of winter, and their Serdtse Ochag[^1] an organ that produces a remarkable amount of heat which maintains homeostasis at very low temperatures, they are highly specialized for the turbulent frozen lands of Strana Gigantov.
 ### Meyda-work
-They often struggle to work [[Meyda]] in the same way most other creatures do, but have generationally passed down [[Meyda-Circle|Meyda-circles]] that hold either utilitarian or religious purposes.
+They often struggle to work **[[Meyda]]** in the same way most other creatures do, but have generationally passed down **[[Meyda-Circle|Meyda-circles]]** that hold either utilitarian or religious purposes.
 ### Birth
 Yewdi have a very atypical lifecycle. Similar to marsupials a pregnant mother will give birth to their child very early, and the child is then nurtured in a pouch around the female Yewdi's upper torso until they are ready to meet the cold and snow on their own. Generally this timing is marked well by the child's Serdtse Ochag which does not begin its fervent heat output until around 7 months post birth.
 # Idioms and Expressions

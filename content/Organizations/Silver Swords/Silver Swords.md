@@ -17,9 +17,9 @@ Each Chapter is given a relative level of freedom in its procedure but the follo
 ###### Enrollment Hall
 The building dedicated to evaluating any potential recruits. General combat ability is tested here, interviews are often conducted, and in almost every chapter a final test of some sort is conducted in the Enrollment Hall or provided there. The format of this test is entirely subject to what the Master of the Chapter has deemed fitting, often taking into account cultural and geographically relevant elements of the Chapter's location. 
 ###### Administration
-The only included housing for Silver Sword members is for Master's and Assistants. They live and work from the Administration building, a strange building usually including a number of apartment like living quarters opening into a common work area. Work is generally sought out and turned in here. Their is a communication [[Meyda-Circle]] in an adjoining room to the common work area which receives updates from relevant outposts.
+The only included housing for Silver Sword members is for Master's and Assistants. They live and work from the Administration building, a strange building usually including a number of apartment like living quarters opening into a common work area. Work is generally sought out and turned in here. Their is a communication **[[Meyda-circle]]** in an adjoining room to the common work area which receives updates from relevant outposts.
 ### Outposts
-Generally manned by 3-5 Silver Swords who work an Outpost for a consistent salary, taking jobs brought to the outpost that they are capable of, and relaying all others to their assigned Chapter. Every Outpost has a communication Meyda-Circle they use for sending out requests and updates.
+Generally manned by 3-5 Silver Swords who work an Outpost for a consistent salary, taking jobs brought to the outpost that they are capable of, and relaying all others to their assigned Chapter. Every Outpost has a communication **Meyda-circle** they use for sending out requests and updates.
 # Rules
 - Jobs of an illegal nature must be charged at least a 2x of the current rate.
 - Extermination Jobs must first be confirmed by a fellow Silver Sword's first hand account. No wild goose chases.

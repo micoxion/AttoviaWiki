@@ -19,7 +19,7 @@ date: 2024-07-01
 - [[Yami]]: Corrupt god of Darkness and Control
 - [[Hikari]]: Pure goddess of Light and Freedom
 - [[Mammon]]: Neutral god of Commerce and Progress
-- [[Mordechai]]: Neutral/Pure god of Science and his believers also see him as the god of Meyda-work
+- [[Mordechai]]: Neutral/Pure god of Science and his believers also see him as the god of **Meyda-work**
 - [[Bara Levatel]]: Neutral god of Death
 - [[Aoire Sléibhe]]: Pure god of stonework, creator of the [[Rugadh Sliabh]]
 - [[Pastukh Pecci]]: Pure god of heat and snow.

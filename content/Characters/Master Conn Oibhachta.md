@@ -10,7 +10,7 @@ Master Conn Oibhachta uses a alphanumeric system to designate and sort the IDs o
 
 | Box Number | Description                                                       |
 | ---------- | ----------------------------------------------------------------- |
-| A13        | Communications Meyda-circle (Utility)                             |
+| A13        | Communications **Meyda-circle** (Utility)                         |
 | B12        | Brewing Station for Mixtures that alter Perception (Research)     |
 | B13        | Teleporting Taro Tubers ~~(Research)~~(Utility)                   |
 | C2         | Proving and Baking simple bread ~~(Research)~~(Utility)           |

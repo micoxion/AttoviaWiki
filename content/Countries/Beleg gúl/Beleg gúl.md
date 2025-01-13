@@ -40,5 +40,5 @@ Beleg gúl knows little about the Claskarian's, but they find their accepting cu
 # Cultural Quirks/Notes
 ### Slavery
 Slavery though technically forbidden by law, is a rampant social issue in Beleg gúl. Due to racist policies, and the lack of non-elf representation, large amounts of slave labor and indentured servitude can be found across the nation.
-### [[Those who Work Meyda|Meyda-work]]
+### **[[Those who Work Meyda|Meyda-work]]**
 Some of the most powerful singular mages in all of Attovia reside in Beleg gúl. The long lifespans of the elves provide an unparalleled mastery of magic. It is difficult to defeat a mage who has studied for 5 of your own lifetimes.

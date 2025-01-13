@@ -13,7 +13,7 @@ Functioning primarily as a swath of semi-connected tribal groups that maintain m
 Most other nations see the people of Strana Gigantov as a bit behind the times. They aren't entirely wrong, and the small disjointed nation really only owes its longevity to the undesirability of the land it sits on. 
 # Cultural Quirks/Notes
 ### Palms
-The palm is considered the most sacred part of any Yewdi's body. Its lack of fur means that its heat output is higher, and this has created an obsession with the use of palms in Meyda-work and general Strana society.
+The palm is considered the most sacred part of any Yewdi's body. Its lack of fur means that its heat output is higher, and this has created an obsession with the use of palms in **Meyda-work** and general Strana society.
 #### Snow Palm Readings
 The Yewdi people of Strana Gigantov often have shamans who make predictions of varying scales based on the pattern of melted snow when their too-warm hand is placed against it. To some this is but superstition, but others swear by its uncanny accuracy.
 ### Pouch Wraps

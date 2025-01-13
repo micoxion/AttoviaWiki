@@ -12,7 +12,7 @@ There are several texts written by some of the first [[Sundered Priests]] which 
 # Arm & Hand
 Strong pillars shaped like extended arms lifting the roof into place represent both the strength of the arms and the protection of the hands which cap the pillars palms pressed flat into the beams.
 # Foot
-A large [[Meyda-Circle]] is carved into the stone foundation the temple is built on, a special rite before the construction of the temple begins sets this circle to be active for the foreseeable future. All who enter the temple with no ill-intentions will leave it feeling a subtle sense of invigoration. Travelers, and those who feel run down may receive a much needed pick-me-up just by spending 30 minutes to an hour in a temple's walls.
+A large **[[Meyda-circle]]** is carved into the stone foundation the temple is built on, a special rite before the construction of the temple begins sets this circle to be active for the foreseeable future. All who enter the temple with no ill-intentions will leave it feeling a subtle sense of invigoration. Travelers, and those who feel run down may receive a much needed pick-me-up just by spending 30 minutes to an hour in a temple's walls.
 # Leg
 The large load bearing beams and corner posts of the temple are considered the representation of the Leg.
 # Torso
