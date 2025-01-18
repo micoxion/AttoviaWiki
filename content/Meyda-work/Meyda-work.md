@@ -1,6 +1,6 @@
 ---
 title: Magic
-draft: true
+draft: false
 tags:
   - Spoiler
   - 🌶🌶
