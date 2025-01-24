@@ -1,0 +1,7 @@
+---
+title: Cecilia Wickes
+draft: false
+tags: 
+date: 2025-01-23 17:33
+---
+Beneath a towering stack of blonde hair that takes over an hour to prepare each morning a prim and proper [[Human#Zoherians|Zoherian]] woman exudes the privilege of upper class life with every subtle gesture, and glance. The Wickes are by far the oldest family represented on [[The Table]] having been among the very first to have a seat when the [[Zyclester Empire]] first formed. Cecilia's spot remains safe thanks to the mythology surrounding the connection between her family's long held position and the Empire's success. Her family like most had gained influence during [[The Meyda War]] with a strong military consisting of a number of powerful **[[Those who Work Meyda|Meyda-workers]]**. However, after joining the infant nation they pivoted swiftly to the political landscape of conquest. To imply her current place as The Table's figurehead is solely due to her blood would be a dishonest representation. Cecilia has worked tirelessly to cultivate her and The Table's image along with conflating the two as much as possible. The Table stands in good graces with the people of Zyclest only as long as Cecilia wishes it.

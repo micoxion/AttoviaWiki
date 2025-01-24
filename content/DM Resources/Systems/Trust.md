@@ -1,7 +1,8 @@
 ---
 title: Trust
 draft: false
-tags: 
+tags:
+  - 5e
 date: 2025-01-20 14:08
 ---
 Trust is a way of assigning the trust relationships between entities and the party and the ways it can be pushed and pulled during encounters. The Trust scale ranges from -3 to +3. -3 means the entity distrusts anything they are told by the party including information they had thought was legitimate prior. +3 means they trust the party implicitly with almost any information including almost bold faced lies. There is no 0, as it is difficult to simultaneously have no trust and no distrust of an individual at the same time. 

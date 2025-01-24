@@ -12,3 +12,9 @@ Skin colors include, but are not limited to: Red, green, pink, blue, and all nor
 Body shape does not vary outside of racial norms except for occasional dramatic increases/decreases in height.
 
 Often boasting one or more horns at varying stages of development. The horns can manifest almost anywhere but most commonly are found on the head. In more extreme cases horns may cover large portions or even *all* of the body. It is also possible to exhibit bundles of much larger horns in a single spot commonly referred to as the demons bouquet.
+### Notable Exceptions
+###### [[Rugadh Sliabh]]
+There have been no recorded or even mythological references to Rugadh with Tiefling mutations. Their strange method of reproduction is still largely unknown to most but it's likely some aspect of this unique process of birth which somehow negates the corruption.
+###### [[Krest]]
+Krest Tieflings are not unheard of, but exponentially more scarce than others. They do not have a personal history which touches upon [[Demons]] or proximity to them, and few lived with non-Krest groups in ancient times. 
+Krest Tieflings are easily spotted thanks to their feathers almost unanimously undergoing strong mutations. Everything from complete body coverage to remarkable changes in individual feather size and texture. The telltale horns also appear but more commonly on the limbs and no tail's ever manifest.
