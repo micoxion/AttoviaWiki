@@ -10,4 +10,4 @@ The [[Semari]] people of the [[Western Wastes]] tell an ancient tale of the firs
 > [!quote]+ Ayan and [[Aysu]]
 > Some time after leaving [[Lielun|Ayana's]] side Aysu was wondered the world in search of a new home. He began his search in the frigid north and found naught but ice and snow. He traversed the western coasts and ran from untold ocean horrors. He explored the southern desert of dark inferno and no homes did he find. Then Ayan approached Aysu who was confused by her strange appearance. 
 > Follow me flighty friend, I know a place to rest your wings. 
-> So Aysu followed Ayan and when they arrived at a beautiful babbling brook beside a calm plain he called Ayan's folk Sudostu for they were a friend of water, and the land Gur Bulaqlar for its verdant springs.
+> So Aysu followed Ayan and when they arrived at a beautiful babbling brook beside a calm plain he called Ayan's folk Sudostu for they were a friend of water, and the land [[Gur Bulaqlar]] for its verdant springs.
