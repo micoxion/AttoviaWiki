@@ -5,6 +5,7 @@ tags:
   - 5e
 date: 2025-01-20 14:08
 ---
+
 Trust is a way of assigning the trust relationships between entities and the party and the ways it can be pushed and pulled during encounters. The Trust scale ranges from -3 to +3. -3 means the entity distrusts anything they are told by the party including information they had thought was legitimate prior. +3 means they trust the party implicitly with almost any information including almost bold faced lies. There is no 0, as it is difficult to simultaneously have no trust and no distrust of an individual at the same time. 
 ###### Trust Table
 Trust starts at -1 by default unless other factors make a different starting value make more sense.
@@ -47,3 +48,5 @@ There are explicit and implicit ways a party can lose or gain trust. Explicit wa
 If a player rolls 10 over a DC then trust moves down the table by one. If a player rolls 5 under a DC or half a DC whichever is less then trust moves up the table by one.
 ###### Implicit
 If the outcome of something said to an NPC or of Roleplay + a roll deems it then you may increase or decrease Trust as you wish. Just make it believable, its not realistic or interesting to drop trust to -2 from +3 because of one mistake made by the party, just as its not very engaging to go from -3 to +1 thanks to a single piece of corroborated truth.
+### Individuals vs. Groups
+In some cases you may want to give a group of important individuals an average trust score based on the individuals' own scores. Then if an important statement and/or roll is targeted at the group as a whole you may use the average score to make a single very important roll.
