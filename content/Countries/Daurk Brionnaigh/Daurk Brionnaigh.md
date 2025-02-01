@@ -40,15 +40,15 @@ Little to no interaction. The gnomes of the Shen Dynasty have little time to spe
 
 ---
 # Festivals and Rituals
-### Weddings
-Rugadhian weddings are relatively down played compared to many other cultures. Due to Rugadh culture's suppression of emotive response weddings are often private or immediate family affairs in which several key traditions are conducted. 
+### Bannadhó
+The closest thing the Rugadh have to weddings. Bannadhó is relatively down played compared to many other cultures. Due to Rugadh culture's individualistic nature Bannadhó are often private or immediate family affairs in which several key traditions are conducted. 
 - Carving the family Totem
 	 The couple each take a chisel and hammer to a 2x3 foot cuboid block of stone. They each carve one half of the small totem often incorporating runes and imagery important to their family history and heritage. This often takes roughly 2 hours of non-stop work.
 - Exchanging of rings
-	 Before the ceremony the two lovers create a set of three rings each. Then during this portion they take turns braiding the custom rings into each other's beards. Each ring's material represents a different aspect of Rugadhian marriage:
-	 **Gold:** The rarity of true love
+	 Before the ceremony the two Cruthmates create a set of three rings each. Then during this portion they take turns braiding the custom rings into each other's beards. Each ring's material represents a different aspect of Rugadhian marriage:
+	 **Gold:** The rarity of the Cruthmate bond
 	 **Silver:** Purity between partners
-	 **Tungsten:** The strength of the marriage bond
+	 **Tungsten:** The strength of the Cruthmate bond
 - Request [[Aoire Sléibhe|Aoire Sléibhe's]] blessing on the couple.
 ### Christening a Masterwork
 When [[The Council of Elders]] has deemed a Rugadh cruthman's work a masterwork for the first time a ceremony is held the following month once the cruthman's statue is complete. During the ceremony his statue is erected and the masterwork displayed in the statues hands overseen by the council to the fanfare of a Rugadhian choir and cheering crowd. 
