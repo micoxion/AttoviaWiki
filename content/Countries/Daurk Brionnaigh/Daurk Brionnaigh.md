@@ -5,9 +5,6 @@ tags:
 date: 2024-06-27
 ---
 Daurk Brionnaigh is home of the [[Rugadh Sliabh]]. Its borders consist primarily of [[Darkmount]] Mountain, and some small stretch of farmlands near its base. Though the great mountain has not erupted for several hundred years the land is still black from Darkmount's active century. The soil at its base is still rich in nutrients allowing for a consistent, self contained food supply.
-
-<hr>
-
 # Government
 A council of elders presides at the head of all major decisions made for the people of Brion. The Rugadhian system of government has not changed in over a millenia, but their people's nature leads them to require little governing so long as craft and forge can be used and improved. 
 
@@ -19,9 +16,6 @@ There are 4 capital crimes in Brion. Each warrant's a decision of permanent exil
 4. Murder
 
 All other crimes are to be evaluated by [[The Council of Elders]] and the culprit punished accordingly.
-
-<hr>
-
 # Political Status
 
 ### [[Claskarian Theocracy]]
@@ -37,8 +31,6 @@ Weapon trade
 
 ### [[Shen Dynasty]]
 Little to no interaction. The gnomes of the Shen Dynasty have little time to spend training for war.
-
----
 # Festivals and Rituals
 ### Bannadhó
 The closest thing the Rugadh have to weddings. Bannadhó is relatively down played compared to many other cultures. Due to Rugadh culture's individualistic nature Bannadhó are often private or immediate family affairs in which several key traditions are conducted. 
@@ -71,6 +63,8 @@ A craftsman, specifically of the forge
 A writer of cruthmen instructions specifically for the parsing of the Craft Mind.
 ##### Contasóir
 An accountant, or bookkeeper who specifically works with money.
+##### Grúdaire
+A brewer of alcohol but also less commonly for those who create tinctures, potions, and balms.
 ###### Examples
 Master Fiadh Cruthman Liam Connor
 Fiadh: A master cruthman with a son Liam, married to Connor

@@ -4,6 +4,11 @@ draft: false
 tags: 
 date: 2025-01-02 11:57
 ---
+> [!quote]+ An unknown master to an unknown pupil
+> You seek power in a Trifling? Perhaps the name escapes you, as does my patience when instructing a [[Universal Curses#Phash|Phashing]] boy. The very essence of Triflings is their beautiful simplicity in which one may learn the careful exactness of **Working**. 
+> ...
+> No I will not teach you the *Fire One* first.
+
 There are several very minor **Workings** who's instructions require so little **Meyda**, that it can be pulled from the external ambient quantities. Triflings though simple relative to many **Workings** still require hours of teaching and many more of practice to execute. Generally considered frivolous and materially wasteful when **Worked** through a **[[Meyda-circle]]** most Trifling's are taught as a series of accurate [[Abbaki (Language)|Abaki]] speech and precise somatic gestures. Without the aid of [[Meyda Intercession]] the lines drawn in the air, and words spoken must be exceedingly accurate to get the desired effect, they are thankfully, extremely short. Examples of common Triflings seen by **Meyda-workers** can be seen below.
 # Air Buckler
 Very short somatic gesture sequences mean this Trifling is **Worked** either with both hands at once thanks to its symmetry, or just the dominant hand. Two words are spoken: *midchas aviyr* as the hands are brought to form a hand-circle. Once complete the hands may be removed and the air demarked by the circle is now a thin solidified mass, difficult to move, and resistant enough to stop a small rock thrown by a child. Considered the easiest of the well known Triflings Air Buckler is often one of the least popular among young **Workers** who dislike its subtle and short-lived nature (The air holds its form in place for only a couple seconds). It is, however, taught first by those **Workers** considered wise, for it is the basis for most of Attovian defensive **Workings** and several violent spells as well.
