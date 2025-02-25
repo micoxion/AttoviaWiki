@@ -1,7 +1,7 @@
 ---
 title: Wizards
-draft: true
-tags:
+draft: false
+tags: 
 date: 2024-06-28
 ---
 The word Wizard is often used in error by laypeople to refer to anyone who can conduct **[[Meyda-work|Workings]]**. However, the term Wizard gets its proper definition in [[Mordechai|Mordechai's]] *[[A Taxonomy of Workers, Workings and Tethers]]*.
