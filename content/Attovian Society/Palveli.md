@@ -1,0 +1,8 @@
+---
+title: Palveli
+draft: false
+tags: 
+date: 2025-03-25 13:35
+---
+There was a time during the beginning of the [[Era’s of Attovia#Age of Nations|Age of Nations]] when a musician of talent was required to receive a certification from the [[Church of Hormus]] in [[Zoher]] to call them self a Palveli and charge for the usage of their skill at events and banquets. Today the title of Palveli holds much less weight, musical busking and services long since having been deregulated by all states except for some [[Ornsiire Fiefdoms|Fiefdoms]] of the [[Ornsiire Empire]]. Now any dancer, singer, juggler or tumbler on a street corner or in a pub is often called a Palveli as a cover all for "one who performs for money." Many musicians trained by other masters are often slightly offended by this thanks to the rich history of the term and the heritage it begs, but unfortunately for them, anyone can call them self a Palveli and be just as correct thanks to the term no longer carrying any legal precedent. 
+While it is now possible for anyone to play or sing for [[Chips]] each individual must broker their own jobs and positions competing with any other local Palveli in the area in the process. Several groups have risen in the new age in the [[Zyclester Empire]] and [[Jalar Confederation]] who sought to represent Palveli for a small fee, but they struggled to improve profits for their clients and have since dissolved. 

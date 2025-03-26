@@ -1,0 +1,7 @@
+---
+title: Common Languages
+draft: false
+tags: 
+date: 2025-03-25 20:47
+---
+The most commonly spoken language is [[Zoherian]] thanks to the cultural dominance of the early nation. Roughly fifty percent of the Attovian populace in civilized regions speak Zoherian in addition to or in replace of the language of their own heritage. Second to this is [[Elvish]] thanks in part to the high population of [[Beleg gúl]] but also similarly to [[Zoher]] the age of their nation has naturally caused this. In smaller settlements these numbers skew to one side of the bell curve often homogenizing based on the dominant culture with one or two individuals who might speak Zoherian or Elvish who aid in communication with foreigners and other outliers. It is rare for anyone to speak more than two languages with the exception of [[Wizards]] and other similar **[[Those who Work Meyda|Meyda-workers]]** who learn reconstructed [[Abbaki (Language)|Abbaki]] to aid in their understanding and pronunciation of common **[[Meyda-work]]** as well as the [[Forms]]. Additionally these individuals pick and learn a host of other common languages for the purpose of expanding the range of their literary consumption. It is not uncommon to find an old Wizard capable of at *least* reading and writing eight or more languages.

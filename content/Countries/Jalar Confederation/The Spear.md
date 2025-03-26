@@ -1,0 +1,10 @@
+---
+title: The Spear
+draft: false
+tags: 
+date: 2025-03-25 13:36
+---
+Near the southernmost reach of the [[Jalar Confederation|Jalar Confederation's]] stands an onyx black monument to the devastation of [[The Meyda War]]. The [[War-worker|War-workers]] of the not yet [[Zyclester Empire]] formulated a **Working** which according to theory could level a city through the summoning of a large mass of dense material. The [[Meyda-circle]] in question was devised and tested by more than 15 of the brightest minds of the War-worker unit known as [[Vicheltash]]. Before it could be powered and utilized a single spy [[Hitrivi]] was required to place a [[Meyda-mark]] in the target city of [[Hukule]]. 
+The Circle in question was so complex it required a [[God Stone]] for activation. This **Working** was also notable thanks to its apparent consumption of the God Stone in its entirety, a feat before thought impossible.
+The resulting effect was the near instantaneous summoning of a pillar of obsidian roughly 400 feet high and 60 feet across at the designated position within Hukule. The kinetic energy released by this phenomenon leveled the city a fraction of a second after and the resulting shockwave could be heard many miles away. Portions of the pillar were ripped from itself thanks to the blast and a cloud of black shrapnel, each piece varying in size dramatically, was flung thousands of feet injuring and killing many who might have otherwise survived the prelude of concussive force.
+Several decades after its initial manifestation the massive monolith was dubbed "The Spear" thanks to the tangible wound it left on the nations land and in the minds of its populace. The Spear was immediately responsible for the Jalar Confederation's secession from the Meyda War and they acquiesced heavily to the territorial demands of the [[Zyclester Coalition]].
