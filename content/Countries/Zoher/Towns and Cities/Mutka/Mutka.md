@@ -31,5 +31,3 @@ The resident with the closest home to the nearby forest, Zente is a middle aged 
 A remarkably old Nammalian man who takes his job very seriously. Every night he ensures two bright oil lamps are burning on the edge of the river. It provides a fixed reference point for the apex of the bend in the river, and aids sailors in navigating Mutka's small portion of the river. Raimond also spends much of his time fishing when not tending to the lamps, and uses his catches to fund his constant need for oil.
 ### The Ahti Family
 Mauno is an old Zoherian man, his wife Liluth is an Elven woman who remains unchanging since the day they married. They have a young son Aatami who is not handling his father's relatively rapid aging well. They tend to a miniature [[Tumin]] orchard just up the river from Raimond.
-# World Builder Notes
-Mutka is crook, like a bend or turn in finnish

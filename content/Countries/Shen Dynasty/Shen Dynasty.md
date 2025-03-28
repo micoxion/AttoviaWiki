@@ -4,9 +4,6 @@ draft: false
 tags: []
 date: 2024-09-19 11:27
 ---
-
-# Description
-
 The Shen Dynasty, or Shen as many are found to call it is a country in a constant state of private turmoil. Five great houses vie for control at all times; **Wei**, **Kai**, **Fu**, **Chao** and **Shen.** Outwardly Shen presents as whole, united against the [Gnomes](Gnomes.md) history of oppression. Boasting 7 trade schools dedicated to baking and cooking, Shen has monopolized the trade, allowing only citizens of the territory to attend. 
 
 # Political Status
@@ -27,8 +24,17 @@ The Fu family still fumes against he **Shen** clan after being toppled due to th
 Having all but died out after being chased from power by the **Fu** clan, the small remaining family members of **Wei** were driven north, granted as an insult, a few hamlets of land often beset and ruined by occasional monster incursion from the nearby coastline. 
 ### Kai
 Steeped in strange gnomish mythology, the **Kai** family has no known residence. [[Goweh Gnome|Goweh Gnomes]], a guild of assassins, disjointed groups of vigilantes, many claims are made of the mysterious **Kai** clan, but it is naught but speculation by a curious populace regarding what many consider an urban myth.
-> [!warning]- SPICY SPOILER
-> The **Kai** do exist though, away from the public eye they actively sell their service to each of the other four clans. Yes even the **Chao** utilize the unique skillset of the **Kai**. They have co-opted a set of [[Goweh]] tunnels which run underneath the majority of the tundra that makes up the [[Shen Dynasty]]. This allows them to traverse vast distances in complete secret, making them a capable recourse of espionage, assassination, and general information.
-> The **Kai** families plans and roots run much deeper than this however. Even their mystical existence within the Shen Dynasty is a front to a much deeper organization.
+The **Kai** do exist though, away from the public eye they actively sell their service to each of the other four clans. Yes even the **Chao** utilize the unique skillset of the **Kai**. They have co-opted a set of [[Goweh]] tunnels which run underneath the majority of the tundra that makes up the [[Shen Dynasty]]. This allows them to traverse vast distances in complete secret, making them a capable recourse of espionage, assassination, and general information.
+The **Kai** families plans and roots run much deeper than this however. Even their mystical existence within the Shen Dynasty is a front to a much deeper organization.
+# Festivals and Rituals
+### Weddings (Xuanlian)
+Of all current marital rituals the Gnomish tradition has had the most recent development. Previously in Attovian history having little space to construct a culture Wedding ceremonies were either non-existent, or hush-hush affairs few were invited to. Perhaps this is why Gnomish weddings, or the Xuanlian, are one of the most extravagant bonding traditions across the continent. They are making up for lost time and lost joy.
+The Xuanlian lasts three days beginning with a large feast. Despite an already full spread each family unit or individual invited to the event brings a small dish to add in remembrance of such times as when the only way such abundance was possible was through the mustering of each households meager resources.
+The second day is dedicated to the actual bonding ceremony. Faux chains connecting the spouses to be to their families are broken, the "Chosen Chain" is forged while the couple watches before they connect themselves at the ankle for the remainder of the day.
+The final day is a day of celebration for the new union. The newly married Gnomes leave roughly half way through the day, and the remaining guests and family continue their revelry until [[Lev'el]] touches the horizon.
+#### Officiants
+It is tradition that a Gnomish wedding be officiated by members of one of the five Great Houses, including the forger of the Chosen Chain. This has grown slightly less taboo to break in recent years, but it is still quite shameful to allow any other Race to have a role as important as this in the ceremony.
+#### Mixed Weddings
+Thanks to their continent wide oppression in the past, it is still quite poorly viewed for a Gnome in the Shen Dynasty to marry outside the nation. This does not only encompass non-Gnomish individuals, but those who are not proper citizens of the nation whether or not their blood is the same.
 # Historical Events
 - [[Shen Dynasty Rise to Power]]

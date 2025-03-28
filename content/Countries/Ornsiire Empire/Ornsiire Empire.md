@@ -21,9 +21,3 @@ The Krigsherre are the highest noble class beneath the Visare, to become a Krigs
 ### Scrivhertig
 # Founding History
 From humble [[Attovia/Timelines/Civilizations Timeline/Ornsiire founded|origins]] Ornsiire's governor [[Gnaeus Metellus]] lifted the city state through rigorous militarization. Those who aided the machine of military progress were rewarded and those who might harm it were snuffed out. In less than a century Ornsiire had already brought several other surrounding villages into the fold under Gnaeus' rule. He quickly found a worthy successor who would carry on his vision of a nation protected by the invincible shield of pre-war time innovation. Roughly a century later despite [[Zoher|Zoher's]] hesitancy Ornsiire became officially recognized as a minor empire, and continued steady growth since.
-# World Builder Notes
-Visare taken from vägvisare, swedish for Guide/signpost/guidepost
-Krigsherre, the word krigisk martial and Herre lord.
-Krigshertig, martial duke
-Skrivherre, uses skrivare for scribe for "scribe lord"
-Brukare from småbrukare for peasant/smallholder/small farmer

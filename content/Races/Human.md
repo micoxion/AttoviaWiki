@@ -14,7 +14,3 @@ A group of humans who grow two to three feet shorter on average than their breth
 Zoherians are recognizable by their pale complexions and for being the founders of [[Zoher]], one of the earliest nations in Attovian history.
 # Tzelians
 The Tzel have ebony skin, and stand at a height between the Zoher and Amodians.
-# World Builder’s Notes
-Amod is a modification of the Hebrew Adom for red
-Nammal is the adjective namukh’ and the noun chash’mal in Hebrew for short.
-Zoher is the adjective for bright in hebrew.

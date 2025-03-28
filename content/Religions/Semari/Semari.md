@@ -49,12 +49,25 @@ If and only if the [[#Gücmuri]] permits it or finds it necessary a chosen Semar
 > Take this realness of our world
 > Grant us your explination
 > We come with minds open to the Fikcan
-# World Builder Notes
-səma insanları Means sky people in Azerbaijani 
-Balacan is a conjunction of Balaca can (little soul) in Azerbaijani
-Fikir translates to mind in Azerbaijani, Fikcan is a conjunction of mind and soul
-güc kəməri translates to power sash in Azerbaijani gücmuri is a conjunction of the two
-Müjdəçi means proclaimer
-Yalançı means liar
-Susiqab comes from xüsusi qab meaning special bowl in Azerbaijani
-Izah edin means Explain so Izaden means explain in Semari
+### Family Groups
+Semari tribes do not have familial units the way that most other sentient groups on the continent do. Instead a village/tribe is as a whole more family than just community. The delineation between parents and "other" members of the tribe is effectively non-existent thanks to communal [[Semari Egg Clutches]]. Care for hatchlings and eggs is shared by anyone in the community who isn't actively responsible for something else.
+#### Naming
+Hatchlings are given first names based on initial physical traits. The natural color of their feathers, their feather patterning, facial structure, talon shape etc. below is a list of Semari words used for first names and their meaning.
+> [!info]- Semari First Names and Meanings
+>
+> | Name  | Meaning                                         | Gender |
+> | ----- | ----------------------------------------------- | ------ |
+> | Mizi  | Red                                             | m/f    |
+> | Mavi  | Blue                                            | m/f    |
+> | Sil   | Green                                           | m/f    |
+> | Sari  | Yellow                                          | m/f    |
+> | Qara  | Black                                           | m/f    |
+> | Ag    | White                                           | m/f    |
+> | Layin | Close (description of feathers patterning)      | m      |
+> | Maq   | Spread out (description of feathers patterning) | m      |
+> | Kes   | Sharp (description of upper lip)                | f      |
+> | Kin   | Sharp (description of talon spur)               | f      |
+> | Ince  | Thin (description of talons)                    | m      |
+> |       |                                                 |        |
+#### Haqq Name
+Translating roughly to: "the name one is justified by" a Haqq name is given to a Semari member when they have been recognized by the tribe to have truly followed the will of the Fikcan. The source of the name varies depending on what action or actions led to the justification of a Haqq name. Most commonly one is named after a Balacan who's image they create, but many other scenarios may warrant a unique name such as leading the village away from dangerous or catastrophic change brought by the Fikcan or saving a clutch of eggs or hatchling. It is possible to have come of age and yet have only one's hatchling name, but this is not seen as problematic or disappointing to a tribe, for the day that they receive the [[#Gücmuri]] rightfully will most certainly be the day they receive their Haqq name.
