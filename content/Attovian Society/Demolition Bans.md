@@ -1,0 +1,9 @@
+---
+title: Demolition Bans
+draft: false
+tags: 
+date: 2025-04-06 16:27
+---
+Around 35 [[Era’s of Attovia#Age of Nations|Age of Nations]] it was discovered that old buildings, especially those with societal significance, when demolished held [[Minor Stone|Minor Stones]] in their foundations or corner stones. A Minor Stone being almost as useful as a [[God Stone]] with the caveat of drastically reduced output sent both criminal and government organizations into a demolition frenzy. What was a missing church or theatre in the face of a semi-permanent [[Meyda-well]]? It turns out proper answers would be had a few years later when local rioting began to occur regularly any time these buildings were brought down. The promise of wealth and an improved life for all meant that most in a city's population would let the unseemly act slide, but years later and they still lived in the same hut ate the same food and made the same wage. Additionally in some areas east of [[Zoher]] the information had propagated and many raids were being conducted by larger City States on smaller towns and hamlets in the hopes of extracting the precious supply of **Meyda**. 
+
+While [[Uhrata Kaikki]] would go on to raze and annex countless towns and settlements some fifty years later during [[The Zoher Incursion]], he realized during his early years that this behavior would have catastrophic implications for the budding civilizations still yearning to grow. Many believe the first use of [[Lahettaa]] was when Uhrata broadcasted the new ban on demolitions with intention to harvest Minor Stones. This legislation was pushed in surrounding territories and settlements and punishment of those who transgressed against this ban was heavily encouraged. The common folk who's lives had only been made harder after the [[Minor Stone Rush]] were quite happy to oblige and countless criminals and politicians were [[Public Immolation|Publicly Immolated]] the following years in retribution.
