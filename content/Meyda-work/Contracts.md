@@ -21,3 +21,11 @@ A sub-type to the Contract of Bonds, this contract is formed by shared belief in
 A sub-type to the Contract of Bonds, this contract is formed by an intense focus on a [[Soul]]/[[False Soul]] by a sentient entity. The speed at which the contract completes is nebulously defined by the capacity to focus.
 ##### Contract of Agreement
 The most typical contract seen among the general populace. Signed deeds to land, the Oaths taken by Paladins, the vow of a bride and husband. All of these are contracts of agreement, fundamentally the same in that the psychological impact of the agreement is strong enough to form the **Tether**.
+##### Bond of Life
+> [!warning]- SPOILER WARNING
+> Altering Contracts is not unheard of, but altering the Contract between the [[Ogen]] and the **Soul** is all but impossible. The bond between these two is so simple yet so concrete it is its own kind of Contract known as the Bond of Life. The stipulations of the contract are as such.
+> If I die, you die. So says the Ogen to its **Soul** and the **Soul** to its Ogen, and so does their **Tether** remain unbreakable even by the very gods until they part through mutual demise. 
+
+> [!warning]- THIS ONE IS REAL BEHIND THE CURTAIN STUFF SO READ AT YOUR OWN RISK
+> # World Builder Notes
+> It should be noted that the bond of life does not cause a body to die when it becomes a Tzedef because it is not the physical heart which makes the contract but the bundle of **Meyda** which it holds. When an individual destroys their **Soul** the **Meyda** in their heart dissipates and loses all form. When the heart is destroyed the physical tie the Ogen once had is destroyed but it does not die and does not kill the Soul, it instead merges closely to but not with the Soul. If one accidentally destroys their Ogen via Auto-necromancy or some other unfortunate mishap their Soul will likewise self destruct and they will become a Tzedef all the same.
