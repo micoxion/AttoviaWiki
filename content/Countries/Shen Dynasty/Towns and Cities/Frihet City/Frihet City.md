@@ -35,7 +35,7 @@ A mixture of businesses both mercantile and residential. Almost any traditional 
 - 
 This sub-prefecture has grown the most over the cities life time and as it sprawls westerly it also hosts the [[Frihet City Silver Sword Chapter|Frihet City Silver Sword Chapter's]] buildings, residences, and several alters to different deities. 
 - [[Frihet City CoH Alter|Alter]] to Hormus
-- [[Frihet City Qiúfàn Nǚwáng Shrine|Small Shrine of Qiúfàn Nǚwáng]]
+- [[Frihet City Qiufan Nuwang Shrine|Small Shrine of Qiúfàn Nǚwáng]]
 - [[Frihet City Shrine to Ukko]]
 - [[Frihet City Shrine to Pellervo]]
 ## West Gate
