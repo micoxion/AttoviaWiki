@@ -8,6 +8,19 @@ date: 2024-07-16 15:45
 ---
 > [!warning]- EXTREME SPOILER
 > A form of matter that is one part physical, one part information. A result of the [[The Collapse]], after the burning of the [[Tree of Time]], **Meyda** is formed as a byproduct of sentient beings making decisions. The information and energy that would normally branch out into another timeline is forced to stay in [[L'vad]] as **Meyda**. Though it can be found throughout L'vad, it is most concentrated wherever sentient minds reside. Of the few [[World Stone|World Stones]] that exist, it is likely they contain close to half of the **Meyda** in the Universe. 
+
+> [!warning]- THIS SECTION DEMYSTIFIES MEYDA READ AT YOUR OWN RISK
+> # The Functions of **Meyda**
+Attovians categorize **[[Meyda-work]]** according to [[Fields]], abstracting large subsections of **Workings** into several digestible categories. **Meyda** however, has only a few true Functions by which it can be instructed and every **Working** is a combination of one or more of these.
+> ### Coalescence
+> This is the process of informing **Meyda** to *become* something new. Often this appears like the manifestation of new matter or energy, however nothing new is being created. Instead through instruction the information half of **Meyda** translates the matter half into the material world where it is now subject to the laws of physics so defined by the [[Tree of Time]].
+> ### Conduction
+> Conduction separates the two halves of **Meyda** utilizing the information to instruct matter that already exists in the material world and ejecting the matter half as bosons. Most commonly this is used to force or elicit chemical reactions where they would not normally occur, change the density of fluids and is by far the most commonly used function of **Meyda** on Attovia. **Meyda-work** scales that span multiple orbits conduction must be used carefully as it may eject enough bosons in a confined enough space as to form black holes.
+> ### Connection
+> **Meyda** as a source of information can be used to tie tow or more things together. Connection can span an almost unlimited distance in the material world without any corelating energy draw. This is **Meyda's** most complex function and has many ramifications depending on what is being connected. **[[Tethers|Tethered]] [[Soul|Souls]]** are the most significant, obvious example, but things as simple as [[Astrostone|Astrostones]] and **[[Meyda-mark|Meyda-marks]]** are examples of this function and its dynamic nature. 
+> 
+> To connect two things they must be identifiable to one another, what this means is flexible according most of all to the understanding of the one informing the **Meyda**. When two entities are connected, by default, they reflect elements of one another in equal part. The Astrostone reflects the orbit of the planet when properly connected, and more advanced Astrostone's reflect [[The Lev'el System]] at large.
+
 # Magic and other Worlds
 **Meyda** can be used by a [[Soul]] to affect the world around it. On most worlds this is called **[[Meyda-work]]**, where it is used and conducted in a variety of ways. Astonishing as it is to see an eruption of fire, or entire mansions conjured seemingly from thin air, this is not **Meyda's** most baffling capability. Due to its information/matter composite, it allows for lossless transitions of both. One's Soul and body can be transferred via "lines" called **[[Tethers]]** to other places in the physical realm of L'vad, or more confusingly, to places made up entirely of and within **Meyda**, known as [[Luumara]]. For a Luumara to even be possible requires a condensed, solid form of **Meyda** which appears like a glowing [[God Stone|crystal]] or gem stone. Such a state of this special matter is extremely powerful, yet strangely involatile. That is, involatile to the material world, **Meyda** impacts bodies and minds in two unseen ways.
 # Bombardment

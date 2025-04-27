@@ -14,7 +14,7 @@ The law of the land is based off of the tenets of the Church of Hormus as outlin
 ### Weddings
 Zoher weddings have a litany of ancient traditions mirroring aspects of Hormus and the Church. 
 ##### Healing Bath
-First thing in the morning in different portions of a [[CoH Temples]] the fiancés bathe in ceremonial healing baths that are synced via a special ritual.
+First thing in the morning in different portions of a [[Church of Hormus Temples|Church of Hormus Temple]] the fiancés bathe in ceremonial healing baths that are synced via a special ritual.
 ##### Blindfolds
 The two halves of the couple are blindfolded and take turns describing their partner while standing back to back. 
 ##### The Strength of Two
