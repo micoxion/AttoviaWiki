@@ -1,0 +1,11 @@
+---
+title: The Southeast Deluge
+draft: false
+tags: 
+date: 2025-04-30 16:40
+---
+> [!quote]+ A notebook of [[Master Conn Oibhachta|Master Conn Oibhachta's]] found in box H9
+> From extensive reading of those anecdotal accounts most well corroborated, and some not so, it appears that The Southeast Deluge's most intriguing facet is the flooding's capacity to travel inland more than it travels along the coast. In [[My Journey to and about the Kraken's Lair|My Journey to and about the Kraken's Lair: An autobiographical recording of one woman's journey to the southeastern coast]] its writer [[Sylva Trailheart]] notes that the distance along the coast if measured linearly between its farthest intersections was some 37 miles or so less than if measured at its farthest inland point to the center point of its contact with the coast. Having no familiarity with the geography of the region I cannot point to said observation with any measure of certainty, but it does bolster claims that this ancient and consistent disaster area may be of an origin more distant to our understanding than the mysterious tides and winds.
+
+The uneducated might first assume that the land at the Attovian continent's most southeastern corner is uninhabited thanks to a monstrous abundancy. One has only to look to the nearby [[Grask Forest]] to see that civilization is not so put off by violent disruption as is initially obvious. Something far more dangerous is responsible for the unnamed, sparse swathe of tawny earth that stretches from the Grask Forest's borders to the waters of the southeastern coast: The ocean.
+At semi-regular intervals the Grask Sea around this wasteland surges from its typical high tides to cover tens of thousands of square miles of normally dry land many miles inland. A building could be constructed one hundred miles out of the coast and it would still require two foot stilts to ensure a safe interior. After the initial flooding the water recedes slowly but steadily and can take over a year to fully release the land from its clutches.

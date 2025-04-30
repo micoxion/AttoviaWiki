@@ -5,7 +5,7 @@ tags:
 date: 2024-07-03
 ---
 The Divine Star is the vessel through which [[Hikari]] communicates to her people on the planet of Attovia. More specifically it is [[Kochavism|Kochavism's]] leader and believed direct line to her majesty the Great Platinum Dragon. To become a divine star one must meet all 4 of the following requirements within seven days:
-- Sent directly from [[Yähti]] to Attovia's soil. No one born a natural birth could hope to have such a **[[Tethers|Tether]]** to Hikari
+- Sent directly from [[Yahti]] to Attovia's soil. No one born a natural birth could hope to have such a **[[Tethers|Tether]]** to Hikari
 - Deemed by a collected council of 17 peers to accurately represent the tenets of Kochavist freedom
 - Accurately predict the time and location of the arrival of a new [[Dragonborn]]. Hikari will send her chosen leader a companion, a Kochrêa who will assist them for the duration of their reign.
 - Bear the mark of freedom. A bright star like birthmark (almost always) previously unknown will glow brightly during the selection cycle.

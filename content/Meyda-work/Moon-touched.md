@@ -5,7 +5,7 @@ tags:
 date: 2025-04-02 17:23
 ---
 > [!quote] [[Kochavism|Kochavist]] Wisewoman [[Katsuko]] to an unknown [[Dragonborn]]
-> A binding line, that only kind of which we gladly fetter to strikes into the clouds and off towards [[Yähti]]. I could not be more certain young one, you are undoubtedly Moon-touched. Now pray your **Working** is of [[Yami]] and not of her brother bound to darkness.
+> A binding line, that only kind of which we gladly fetter to strikes into the clouds and off towards [[Yahti]]. I could not be more certain young one, you are undoubtedly Moon-touched. Now pray your **Working** is of [[Yami]] and not of her brother bound to darkness.
 
 Occasionally a Dragonborn is presented with the gift of a **[[Tethers|Tether]]** that binds them to some entity on Attovia's moon Yähti. The origin of said **Tether** is usually unknown to the individual and could be either Yami or [[Hikari]]. Due to the obscure nature of **Tethers** there is no way by which to tell what entity your connection is to until you conduct **[[Meyda-work]]**. This has, in the past resulted in destructive and heinous disasters in which Hikari abuses **[[Meyda Intercession]]** to wreak all kinds of havoc and mischief. Thanks to several historically devastating events such as the [[Fukai Massacre]] a specialized **[[Meyda-circle]]** was devised that could derive the true form behind your **Tether**. 
 

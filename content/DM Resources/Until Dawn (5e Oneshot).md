@@ -413,4 +413,4 @@ Cast a ritual spell. Similarly to [[#Dynamic Meyda-work]] this can have a variet
 
 ### Zitón Fails
 > [!info]+ Zitón Fails
-> As the first rays of dawn kiss the treetops a soft low groan can be heard, and the veil of shadow that has surrounded the Fire Tenders falls away revealing a world that in only six hours had grown as distant as [[Yähti]] herself. No remnant of the many phenomenon you experienced remain, Mutka is as it should be, undisturbed in its beautiful simplicity. You must rest now, the cleanup of the ashes can be done by the townsfolk. You have done your duty above and beyond expectations, but you may always fear the night.
+> As the first rays of dawn kiss the treetops a soft low groan can be heard, and the veil of shadow that has surrounded the Fire Tenders falls away revealing a world that in only six hours had grown as distant as [[Yahti]] herself. No remnant of the many phenomenon you experienced remain, Mutka is as it should be, undisturbed in its beautiful simplicity. You must rest now, the cleanup of the ashes can be done by the townsfolk. You have done your duty above and beyond expectations, but you may always fear the night.

@@ -1,5 +1,5 @@
 ---
-title: Yähti
+title: Yahti
 draft: false
 tags:
   - incomplete
