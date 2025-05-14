@@ -1,0 +1,11 @@
+---
+title: Minstrel Worker
+draft: false
+tags: 
+date: 2025-05-14 16:20
+---
+Originally the term Minstrel **Worker** was saved for traveling musicians who in addition to the playing of songs would entertain each new hosting party by conducting [[Triflings]]. Over generations of the Minstrel **Worker's** evolution it is now much closer to a kind of traveling doctor or teacher who wanders a long circuit of cities and settlements offering their service to teach simple **[[Meyda-work|Workings]]** or to aid each stop in some way through **Meyda-work**. 
+
+Minstrel **Workers** are quite common in the [[Ornsiire Empire]] and [[Claskarian Theocracy]] but have been entirely outlawed in the [[Zyclester Empire]] under penalty of death having been replaced by the [[Educator|Educators]]. This law is so strictly enforced that simply charging for the knowledge or utility of **Workings** requires special permits known as a [[Rit of Working Sales]]. Some Minstrel **Workers** find their way into the [[Jalar Confederation]] and [[Beleg gúl]] but the old routes of their predecessors encourage a continuation of their density in the western portion of the continent.
+# Sovereign and Frosh
+Though not all decide to do so it is traditional for a Minstrel **Worker** to take on a pupil who they call Frosh and who is to call them Sovereign. The two terms are quite old and their original connection and perhaps deeper meaning has been lost to time, but the tradition holds. It varies based on the relationship and goals of the Sovereign and Frosh in each mentorship but a Frosh is considered to have completed their training after loyally following their Sovereign on at least two circuits if not more. Once the mentorship is considered complete the Minstrel **Workers** may continue to work the circuit together or the Sovereign retires, yielding the circuit to their graduated student. In rare cases a newly minted Minstrel **Worker** may find their own circuit to work and propagate a new path that might or might not intersect with their old teacher's own circuit.
