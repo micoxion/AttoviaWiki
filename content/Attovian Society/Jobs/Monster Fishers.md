@@ -6,19 +6,25 @@ tags:
   - 🌶
 date: 2025-04-19 13:50
 ---
-> [!quote]+ Letters exchanged between [[Aear Gwing]] aristocrat [[Dominique Saar]] and the Aear Gwing Portmaster [[Chiyo Igarashi]]
+> [!quote] Letters exchanged between [[Aear Gwing]] aristocrat [[Dominique Saar]] and the Aear Gwing Portmaster [[Chiyo Igarashi]]
 > To Ms. Igarashi at the [[Aear Gwing Harbor]],
 > It was brought to my attention by one of my dockhands that you have begun to slow the construction of the *Sprouting Saar*. The construction of this ship has cost me considerable funds and is seen as a valuable investment and I will not stand for my business ventures to be disrupted through superfluous methods.
 > Unmistakably Dominique Saar
+> 
 > ---
+> 
 > To Dominique Saar at the [[Saar Manor]]
 > It has come to my own attention, an attention I may add is one of professional discernment in our beautiful harbor, that the *Sprouting Saar* is to be a Monster Fisher. Traditionally if such rumors *superfluously* found their way to my desk I would dismiss them, but in their arrival I discovered significant evidence to suggest their evolution into truth an imminent threat. This of course can be remedied most readily with a letter written in your own hand professing nothing but the simple fact that you do not currently intend and never intend for the *Sprouting Saar* to conduct Monster Fishing in [[Beleg gúl]] waters.
 > Remarkably Chiyo Igarashi, Portmaster
+> 
 > ---
+> 
 > To Ms. Igarashi at the Aear Gwing Harbor,
 > I'm afraid such accusations will not be tolerated by a family as important as mine, I shall see to discussing this further in person with the city [[Ambar Representative]].
 > Forever Dominique Saar
+> 
 > ---
+> 
 > To Dominique Saar at the Saar Manor
 > Please do.
 > Shortly Chiyo Igarashi, Portmaster
