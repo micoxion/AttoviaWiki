@@ -14,3 +14,5 @@ When a Trawler has been called by a lake or river it will spend several weeks in
 If forced into an unplanned altercation a Trawler will revert to its more solid form. Above the waters surface this form is much more compacted into a blob-like mass. If it believes itself to be losing or near death it will revert back to a fluid and attempt to escape any way possible.
 # Underwater Handymen
 Trawler's have a limited capacity for **[[Meyda-work]]**, primarily several kinds of repairing spells capable of fixing up and healing both flora and fauna. There are rare cases in which the tell tale sign of Trawler's has been reported and no deaths occur. This most likely means the problem that summoned the Trawler was not one caused by civilization.
+# [[Taxonomy]]
+Trawler of [[Graskoroth]] of the [[Material World|Material]]

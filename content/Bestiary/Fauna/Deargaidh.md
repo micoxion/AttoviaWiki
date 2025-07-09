@@ -15,3 +15,5 @@ The minimal research and observation done on Deargaidh in large agrees that Shna
 The Deargaidh are omnivores, but are highly selective of the plant material they eat being described by some researchers as the "pickiest primates second to [[Human|Humans]]". Most often the adults of a Shnam will hunt in the denser portions of forest near their current home. They will hunt almost anything besides fellow Deargaidh but seem to be most fond of hunting wild [[Nopine]] outmatching the creatures uncanny speed with their Shnam's teamwork. 
 
 Facial pigmentation appears to pay a surprisingly pivotal role during hunts as well. Usually hunting in groups of three to six each member of the hunting party takes one of two roles: Ambusher and Driver. Ambusher's change the color of their faces so as to better blend in to their natural environments while Driver's will use bright harsh colors such as purples, teals and reds to get the prey's attention at set distances so as to control the path of escape taken.
+# [[Taxonomy]]
+[[Deargaidh]] of [[Aoire Sléibhe]] of the [[Material World|Material]]

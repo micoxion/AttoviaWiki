@@ -24,7 +24,7 @@ date: 2024-10-11 14:45
 > 	- [[#Gnomes]]
 > 	- [[#Tieflings]]
 > 	- [[#Girav gel]]
-> 	- [[#Dragonborn]]
+> 	- [[#Drakonos]]
 > 	- [[#The Rare and Cryptic]]
 > 		- [[#Krest]]
 > 		- [[#Ankan]]
@@ -210,16 +210,16 @@ The Giravian's, unless second generation are quite unfamiliar with most of the g
 I do not have a homebrew for this race yet, you can use either the Orc or Half-Orc races from 5e.
 ###### Naming Convention
 The language Girav is based on Kurdish
-### [[Dragonborn]]
-The Dragonborn are unequivocally more alien than any other species. Born quite late in regards to other races, there was a time when all others had begun to develop simplistic civilizations and the Dragonborn were not yet a thought to be considered. Now, though still a focused population within [[Claskarian Theocracy|Claskaria]], they can be found scattered through their fellow nations. 
+### [[Drakonos]]
+The Drakonos are unequivocally more alien than any other species. Born quite late in regards to other races, there was a time when all others had begun to develop simplistic civilizations and the Drakonos were not yet a thought to be considered. Now, though still a focused population within [[Claskarian Theocracy|Claskaria]], they can be found scattered through their fellow nations. 
 
-Most Dragonborn are [[Kochavism|Kochavists]]. It is difficult for someone with such obviously foreign origins to deny the myths of [[Hikari]] and the [[Dragonfall]]. So in varietous fervor the Dragonborn race praises their Platinum Queen and laud her tenets of freedom to those who will listen.
-##### Playing a Dragonborn
-Keep in mind that there are two very differing methods by which you came to the planet. Either you have two Dragonborn parents or crashed to this continents soil in a super heated egg sent from an extraterrestrial source. Depending on your decision, your outlook on Kochavism and other Dragonborn and their foreignness will warp. You have a unique claim if you were subject to Dragonfall, perhaps you keep it secret? Or you let everyone know how blessed you were to have been granted this special freedom.
+Most Drakonos are [[Kochavism|Kochavists]]. It is difficult for someone with such obviously foreign origins to deny the myths of [[Hikari]] and the [[Dragonfall]]. So in varietous fervor the Drakonos race praises their Platinum Queen and laud her tenets of freedom to those who will listen.
+##### Playing a Drakonos
+Keep in mind that there are two very differing methods by which you came to the planet. Either you have two Drakonos parents or crashed to this continents soil in a super heated egg sent from an extraterrestrial source. Depending on your decision, your outlook on Kochavism and other Drakonos and their foreignness will warp. You have a unique claim if you were subject to Dragonfall, perhaps you keep it secret? Or you let everyone know how blessed you were to have been granted this special freedom.
 ###### Stats
-For now still modeled largely off 5e Dragonborn just use their stat block.
+For now still modeled largely off 5e Drakonos just use their stat block.
 ###### Naming Convention
-The Dragonborn language is based on Japanese.
+The Drakonos language is based on Japanese.
 ## The Rare and Cryptic
 ### [[Krest]]
 No societies tale is as tragic as the Krest. Even the [[Gnomes]] have a powerful respect for the heinous nature of Krest history. Their wings being considered beautiful and rare drove them to near extinction, as they were hunted, killed, and carefully de-winged for sale. Their wings still trade for astronomical amounts in dark circles, but in general no longer suffer for their unique beauty. Though they have more of a place now sociologically, their population dwindles in places of civilization. More of them are found in communes and villages where their hunters' necessitated their current remoteness.
@@ -263,8 +263,8 @@ Whether it is via the precision of a **[[Meyda-circle]]** or through [[Meyda Int
 For more than eight thousand years **Meyda-work** was a tool of the gods, those they inspired, and the intellectual savant. However, the past several millennia have seen many jumps in understanding, leading to the generalization of what was once mere legend. Now during the tense Time of Rest **Meyda-work** can be seen in diverse forms in even the most remote hamlets.
 ### Divinely Inspired
 Divine inspiration as a source of power is almost always involuntary. Though sought after by thousands, the chosen are often simply the humble devout. This kind of **Tether** to a deity is more flexible than those made through ritualistic **Contracts**, but since the terms are unknown by one side are untenable and impermanent. This does provide the **Worker** with [[Meyda Intercession]], the act of a [[Olam Beyn|Higher Being]] interacting with the raw **Meyda** in their stead, requiring less accuracy during physical casting. On rare occasion an individual is chosen maliciously, and when attempting to cast may be intentionally interpreted incorrectly causing spells to backfire, alter, or have completely unrelated effects.
-###### [[Moon-touched]] Dragonborn
-For unknown reasons individual Dragonborn are chosen by [[Hikari]] to be more than just emissaries but warriors, and **Workers** of wonders. Somewhere on their bodies appears a solid white circle that emits a light who's brightness increases in proportion to its surrounding darkness. This is generally the only sign one receives of their having been chosen, and once discovered the search for a mentor begins.
+###### [[Moon-touched]] Drakonos
+For unknown reasons individual Drakonos are chosen by [[Hikari]] to be more than just emissaries but warriors, and **Workers** of wonders. Somewhere on their bodies appears a solid white circle that emits a light who's brightness increases in proportion to its surrounding darkness. This is generally the only sign one receives of their having been chosen, and once discovered the search for a mentor begins.
 ###### Nephesh
 The existence of a Nephesh begets a **Tethered** connection intrinsically between the Nephesh and the entities well of **Meyda**. Nephesh don't require Meyda Intercession with their entity, instead being "born" with the requisite knowledge and precision to **Meyda-work** with only the power source. Their very nature appears to solve the precision problem in a way still unexplained.
 ### Religious Fanatic and the Occult Obsessed
@@ -321,7 +321,7 @@ Zyclestian streets are kept safe by the notoriously effective [[Chain Keepers]].
 ### [[Kingdom of Helva]]
 An elected monarchy built by taking advantage of the confusion in the year following the [[The Magic War Ends|end of the Magic War]]. Diplomatic espionage and social engineering turned many city states and disgruntled cities into a single united nation. Their capital [[Waterhelm]], built after the countries inception reflects their focus on order and efficiency.
 ### [[Claskarian Theocracy|Claskaria]]
-Claskaria takes up the primary area where the [[Dragonborn]] make landfall. Those who are not born naturally on the continent are sent by [[Hikari]] via an egg cast from [[Yahti]] at unimaginable speeds. A strange jungle of a freemarket exists under the pillowy thumb of the [[Kochavism|Kochavist]] religion; a strange belief system that prioritizes freedom above all else. 
+Claskaria takes up the primary area where the [[Drakonos]] make landfall. Those who are not born naturally on the continent are sent by [[Hikari]] via an egg cast from [[Yahti]] at unimaginable speeds. A strange jungle of a freemarket exists under the pillowy thumb of the [[Kochavism|Kochavist]] religion; a strange belief system that prioritizes freedom above all else. 
 
 Run by the [[Divine Star]], their Kochrêa and a rag tag group of assistants the government is extremely lax. As much of a dream this can be for the average citizen, it is a pot of unguarded gold to the cults and spurned aristocrats of Attovia. Peoples unwelcome or unhappy with societal law elsewhere can go relatively unpoliced and unpunished.
 ### [[Daurk Brionnaigh]]
@@ -393,11 +393,11 @@ Corrupt Demon Lord of Hunger, Peína is considered the Torso opposite by the Chu
 ###### Aspects
 Peína is the devourer of Hunger and Pestilance.
 ## [[Hikari]]
-The pure dragon goddess of the [[Dragonborn]] and especially [[Kochavism]]. It is believed she and her brother live on [[Yahti]] and though her light shines on the world, they continue to war for control of the sphere.
+The pure dragon goddess of the [[Drakonos]] and especially [[Kochavism]]. It is believed she and her brother live on [[Yahti]] and though her light shines on the world, they continue to war for control of the sphere.
 ###### Aspects
 Hikari is the queen of light and freedom.
 ## [[Yami]]
-Hikari's corrupt brother, he vies for control over [[Yahti]] and despises his sister and her Dragonborn.
+Hikari's corrupt brother, he vies for control over [[Yahti]] and despises his sister and her Drakonos.
 ###### Aspects
 Yami is Hikari's opposite and is the lord of darkness and control.
 ## Krag the Quick

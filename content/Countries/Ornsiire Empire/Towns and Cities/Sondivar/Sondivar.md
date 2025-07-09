@@ -9,7 +9,7 @@ Sondivar is dubbed by many Onsiirians as the final bastion of civilization in th
 Population: ~300
 Governer/Leader:
 City Scale (in miles): 3
-Racial Densities: [[Human#Amodians|Amodian]] 25%, [[Human#Tzelians|Tzelian]] 25%, [[Human#Nammalians|Nammalian]] 10%, [[Gnomes|Gnome]] 10%, [[Dragonborn]] 10%, [[Rugadh Sliabh]] 10%, [[Girav gel]] 5%, [[Yewdi]] 3%, [[Krest]] 2%, 
+Racial Densities: [[Human#Amodians|Amodian]] 25%, [[Human#Tzelians|Tzelian]] 25%, [[Human#Nammalians|Nammalian]] 10%, [[Gnomes|Gnome]] 10%, [[Drakonos]] 10%, [[Rugadh Sliabh]] 10%, [[Girav gel]] 5%, [[Yewdi]] 3%, [[Krest]] 2%, 
 # Buildings/Layout
 Sondivar looks as though it were one town made of many small villages as several tight building clumps dot an area some three miles in diameter. In the relative center lies the town's heart where its singular Tavern and couple of hole in the wall pubs reside, and spiraling out at varying distances are little satellite mining groups. Each clustered set of structures surrounds the entrance and refuse pile for a Coal Mine and usually gives itself a name.
 ## Shops

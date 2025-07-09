@@ -9,7 +9,7 @@ Ornsiire is a city of aggressive and fierce architecture, winding twisting stree
 Population: 8,000
 Governer/Leader:
 City Scale (in miles):
-Racial Density: [[Human]] 40%,, [[Elves]] 30%, [[Dragonborn]] 10%, [[Gnomes]] 10%, Mix of all Others 10%
+Racial Density: [[Human]] 40%,, [[Elves]] 30%, [[Drakonos]] 10%, [[Gnomes]] 10%, Mix of all Others 10%
 # Land Marks
 ### [[Great Dal Bridge]]
 ![[Great Dal Bridge]]

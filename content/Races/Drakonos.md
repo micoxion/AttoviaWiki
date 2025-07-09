@@ -1,0 +1,12 @@
+---
+title: Drakonos
+draft: false
+tags: 
+date: 2024-06-27
+---
+Cast to Attovia's planes from its own brilliant moon, Drakonos arrive on the planet as falling stars, smoldering in an atmosphere warmed egg they stumble into the world bewildered, sent as a missionary force by their Dragon Queen [[Hikari]]. The majority of these falling eggs land in the current [[Claskarian Theocracy]] but on rare occasion upper atmosphere storms and fronts knock the eggs off course, landing them all across the continent.
+
+# Details
+If you were to look outside of Claskaria you would find few Drakonos. They arrive into the world only one of two ways. Sent to the planet from their home world [[Yahti]] by the great brightmother [[Hikari]]. Or born of two Drakonos already sent to Attovia. Drakonos of pure color are extremely rare, requiring two parents of the same tone, or to have been sent as an egg from their celestial home world.
+
+Silver Drakonos are some of the most rare, and often make their way into the upper echelon of [[Kochavism]] as they are sought after representatives of Hikari.

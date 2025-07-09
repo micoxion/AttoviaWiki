@@ -1,0 +1,15 @@
+---
+title: Ornsiirian Fashion
+draft: false
+tags: 
+date: 2025-07-09 15:02
+---
+Before [[The Meyda War]] Ornsiire was known well for its strict dress, regimented way of life, and drab style. It was not uncommon to call someone an Ornsiirian or make a similar comparison if they are in particularly boring or colorless clothing. However, post Meyda War the wealthy upper class had substantial funds in excess with little to spend them on. In the past couple of centuries their latest obsession through which they display monetary status has become fashion. Where uniform once delineated the Brukare from the Herre now the lavish or prohibitively expensive takes its place.
+# Gyi
+Named after a recent fashion designer of the Ornsiire Empire, [[Gyongyi Sass]], the Gyi is an old Ornsiire military uniform inspired piece of clothing that hosts anywhere from ten to thirty built in tassels with metal clasps to display jewelry on. The Gyi is effectively one large wrap that makes one and a half full rotations around the body before being clasped in the back at the top, bottom and middle. It stretches down just past the knees only outstretched by optional jewelry tassels that hang to the middle of the shins. The placement of the main jewelry tassels takes up the abdomen and chest primarily but is always subject to customization for the right price. The jewelry in question ranges from small diamonds to [[Minor Stone|Minor Stones]] and are painstakingly selected to display the wearers wealth as accurately as possible.
+
+Most Brukare find the Gyi to be laughably impractical and laud its creator for such a creative way in which to encourage and challenge pick pockets, con men and thieves. The Herre and Hertig have found themselves content to interpret this as jealousy and the Gyi's popularity continues to flourish.
+# Platvud
+No one is quite sure of the Platvud's origins. It has been around only a decade and has become quite popular with lower class individuals. It is a wide trapezoidal hat that lays flat and flush to the top of the wearers skull. It stretches roughly two inches behind the back of the head and around four beyond the front. It tapers from the front at a width of one foot to about four inches at its thinnest at the back. A simple internal wire frame keeps the top rigid and a cap around the underside pulls down over the heads perimeter to keep it in place. 
+
+Platvuds took off especially in [[Ornsiire]] the capital as a way to distinguish oneself from other low class peers and was functional for keeping the sun out of the eyes during peak Ornsiire ours as the [[Lev'el|Day Star]] peaks above the valley it calls home. A number of different makers of the hat claim to be its original inventor but few have substantially more evidence than any of their competitors and so each has begun to look towards innovation of the Platvud. Adding a small knob on the top for aesthetic and to increase the ease of removing it. Cut corners give the hat a less rigid appearance and are called Runvud's though their reception has been polarizing.

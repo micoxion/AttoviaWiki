@@ -1,0 +1,7 @@
+---
+title: Glados Yuleheart
+draft: false
+tags: 
+date: 2025-07-09 15:02
+---
+Glados is a spritely middle aged [[Theoir Sliabh|Theoirian]] woman, a widow and most notoriously the General of the [[Zyclester Military]] Research Division. Glados is arguably unrivaled when it comes to practical application and rapid iteration of science and **[[Meyda-work|Workings]]**. She has grown restless tied to research in the [[Eras of Attovia#Time of Rest|Time of Rest]] that is almost entirely theoretical, and yearns for practical experimentation and usage in the field. Though she has put forward countless briefs on possible future devices should a new war break out, behind closed doors she conducts experiments on prisoners charged with execution or in some cases exile. Often these prisoners are simply the operators of the items in questions (commonly test weaponry with embedded **Workings**) but for the unlucky, they are the target. The judicial system, the [[Chain Keepers]], of the [[Zyclester Empire]] do not actually dole out death sentences commonly and the ravenous pace at which they are disappearing has made many within the Zyclester Military lower ranks wary of overstepping. After all, a general might come up with all kinds of useful ways to punish transgressive soldiers or researchers. This worry is further exacerbated by Glados' strong connections to [[The Table]], specifically her close friend [[Tabitha Brentwood]].

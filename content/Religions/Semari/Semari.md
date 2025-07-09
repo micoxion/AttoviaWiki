@@ -51,6 +51,8 @@ If and only if the [[#Gücmuri]] permits it or finds it necessary a chosen Semar
 > We come with minds open to the Fikcan
 ### Family Groups
 Semari tribes do not have familial units the way that most other sentient groups on the continent do. Instead a village/tribe is as a whole more family than just community. The delineation between parents and "other" members of the tribe is effectively non-existent thanks to communal [[Semari Egg Clutches]]. Care for hatchlings and eggs is shared by anyone in the community who isn't actively responsible for something else.
+
+The only real exception to this conceptually are the [[Yatcun]].
 #### Naming
 Hatchlings are given first names based on initial physical traits. The natural color of their feathers, their feather patterning, facial structure, talon shape etc. below is a list of Semari words used for first names and their meaning.
 > [!info]- Semari First Names and Meanings
