@@ -1,0 +1,9 @@
+---
+title: The Ocean Way
+draft: false
+tags: 
+date: 2025-07-18 20:51
+---
+A term which in other worlds and times might be confusing thanks to the prevalence of oceans and the travel over them. Attovian coasts however, are hazardous with few exceptions to say the least. The Ocean Way is no such exception and though uncounted it likely takes the most lives of any travel route each year due to sunken ships, [[True Monsters|True Monster]] boarding and the [[Manir#Manir Factions|Manir Factions]]. Unfortunately there is far too many [[Chips]] to be made ferrying cargo to and from the northern ports of the [[Ornsiire Empire]], [[Shen Dynasty]], [[Beleg gúl]], the [[Jalar Confederation]], the [[Kingdom of Helva]] which means the loss of life is overshadowed by the potential and tangible wealth. Even [[Zoher]] receives a fair share of non-Shen Dynasty imports that come down the [[Kynel River]], a [[Suru River]] tributary, almost all of which are sourced from [[Lenghan]] ports. 
+
+The consistently frigid temperatures this far south allows for high quantities of perishable trade to pass between nations that otherwise would be net loss on [[Ice Brick]] costs. Beleg gúl especially has recently undone centuries of isolationist policy and begun to export thousands of barrels of [[Elvish Mead]] across the continent. [[Helvan Farms|Helvan Farmers]] in conjunction with the new [[Helvan Guild of Porters]] sell bulk shipments of crop and animal goods up to the [[Port of Helva]] along the [[Hhai Nahar]]. Even the Ornsiire Empire has begun to use the higher maximum load that water based craft offer to export more coal than was possible before with traditional cart systems. Though The Ocean Way has existed for nearly 800 years in all its lucrative danger, it has never seen the traffic it does [[Attovia/Timelines/Master Timeline/Modern Day|Today]].

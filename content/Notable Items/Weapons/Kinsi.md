@@ -1,0 +1,9 @@
+---
+title: Kinsi
+draft: false
+tags: 
+date: 2025-07-18 20:49
+---
+The Kinsi is one of the few weapons to *gain* popularity during the [[Eras of Attovia#Time of Rest|Time of Rest]] thanks to its design being particularly useful against [[True Monsters]], the primary drivers of continued conflict on the continent. At first glance, from a distance, the Kinsi appears like a heavy spear but if one inspects the haft and head of the implement its unique features become quite pronounced. The head of the Kinsi is a sharp cone with a ring of flared claws at its wider base often called the net. The haft of the Kinsi tappers from a typical spear width where it is to be held, to roughly 2/3rds the widest diameter as it meets the head. In combination this allows the weapon to be whipped into and *through* a true monster's chest with the aim of punching large holes into their flesh through which their [[Monster Stones|Monster Stone]] might fall or be violently removed. Thanks to their otherwise uncanny resilience when it comes to receiving damage the immediate death brought about by removing the stone makes the Kinsi invaluable to anyone who regularly finds themselves face to face with [[Goblin|Goblins]], [[Troll|Trolls]], or [[Reachers]].
+
+The Kinsi is actually quite an ancient weapon that died out during the first several centuries of the [[Eras of Attovia#Age of Nations|Age of Nations]]. It was originally devised by the [[Crystal Guard]] and used extensively by them and later [[Zoher]] during their time holding the land that would eventually make up the [[Shen Dynasty]]. The [[Zyclester Empire]] has a large back stock of these weapons originally ordered from the [[Rugadh Sliabh|Rugadh]] which they sell to the [[Silver Swords]] and [[Mun Blades]] primarily thanks to them often finding jobs related to True Monster extermination within the [[Grask Forest]].
