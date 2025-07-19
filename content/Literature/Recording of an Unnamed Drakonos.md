@@ -1,7 +1,9 @@
 ---
 title: Recording of an Unnamed Drakonos
 draft: false
-tags: 
+tags:
+  - Spoiler
+  - 🌶🌶🌶
 date: 2025-07-18 20:53
 ---
 > [!quote] Recording of an Unnamed Drakonos
