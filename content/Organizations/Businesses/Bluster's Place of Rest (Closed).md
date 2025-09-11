@@ -1,0 +1,7 @@
+---
+title: Bluster's Place of Rest (Closed)
+draft: false
+tags: 
+date: 2025-09-10 17:27
+---
+Bluster's current whereabouts are unknown and the two story wooden structure once known as Bluster's Place of Rest still sits abandoned in [[Twin Lakes]] after its owner's reputation took a dive practically off a cliff. Bluster's Place of Rest, or just Bluster's was the kind of establishment that offered everything a Tavern might but with some additions that those inclined to lose money are highly attracted to. Bluster employed several "Courtesans" as he liked to call them who could attend guests for a high price, and ran a small gambling room in the back for very special clientele. Until the catastrophic fall of Bluster his house of pleasure and debauchery was particularly well loved for the richer tastes that could be enjoyed there in what to many of the wealthy citizens of Twin Lakes was quite a small town. Unfortunately for Bluster the Port Master [[Reza Alinejad]], a gruff and abrasive [[Biaban]] man, pinned an outbreak of [[Mop]] at the docks that started with Reza on one of Bluster's most successful Courtesan's who Reza was known to frequent. The fear of the disgusting and image destroying disease and its connection to Bluster's made quick work of the business and within the month Bluster found himself leaving town with his most valuable possessions, and his remaining two Courtesan employees, in the back of an uncomfortable wagon. 

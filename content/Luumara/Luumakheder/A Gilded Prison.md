@@ -1,0 +1,13 @@
+---
+title: A Gilded Prison
+draft: false
+tags:
+  - Spoiler
+  - 🌶🌶
+date: 2025-09-10 17:26
+---
+[[Meridas Malkom]] has no respect of his fellow sapient species. In his search for godhood there is nothing about life he will not sacrifice, and nothing more he has sacrificed than his own morality. Perhaps somewhere in his mind he believes he has done his prisoners a favor. They have been given a perfect, endless life within his experiments. They cannot leave, but they do not know such a desire in the first place.
+
+The Gilded Prison is a term Meridas enjoys using for his largest [[Luumakheder]] experiment to date. A [[God Stone]] with a massive set of instructions which allows **[[Soul|Souls]]** to be stored within and experience life in a beautiful, colossal mansion. They experience all things except for age, illness, injury or death. Incredible food, comfortable beds, lavish clothing, endless rest and an army of mindless servants capable of a variety of actions. Games are played, massages are received, intimate time is had, all within the epitome of comfort. But each and every denizen of this "heavenly place" is here against their wishes. Meridas took no surveys, requested no applicants. Instead each member was hand picked by Meridas as a particular variable and had their [[Material World|Material]] body shunted to this [[Extramaterial World|Extramaterial]] place via a [[Contracts#Contract of Focus|Forced Contract of Focus]]. While there is a kind of memory suppression which occurs on a **Soul** within the Gilded Prison spending enough time there reveals as symptom of this place Meridas has not accounted for: [[Soul Bleed]]. 
+
+After years of time pass within the God Stone those **Souls** placed inside begin to see echoes of their loved ones most often and consistently their mothers. It is common for them to be driven mad by this existence. What was once endless bliss turns quickly into excruciating monotony once a reminder of the old life breaks the thin veil of false reality. Long enough this way and the **Soul** becomes permanently damaged. What this looks like once the transfer is reversed back to the Material World is unknown. Meridas does not risk removing **Souls**, he simply checks in on them from time to time and takes notes through interviews. For some strange reason he has never once visited the Gilded Prison since its first six members were introduced. They are left in endless utopia, slowly becoming aware of their eternal torment.
