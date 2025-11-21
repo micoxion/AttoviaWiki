@@ -1,0 +1,9 @@
+---
+title: Treloss Changers
+draft: false
+tags: 
+date: 2025-11-20 19:06
+---
+By far the most complex of the Treloss in both [[Material World|Material]] and [[Extramaterial World|Extramaterial]] makeup. Treloss Changers are almost entirely unlike the rest of their fellows, likely related only by their creator and source of vitality. A Changer begins its life cycle inside a large glass canister (usually strapped to the side of a [[Treloss Pygmos]]) nothing but a mass of dark brown sludge with a [[Minor Stone]] at its center. When the carrier of the Changer kills a [[Drakonos]] they smash the canister over its body and the Changer can begin its true work. The body is consumed and digested in whole, each portion analyzed and copied cell-to-cell. The Changer stands before its carrier now identical in appearance to the Drakonos it consumed with a small dataset of its memories. It now moves on to its final stage of life: To infiltrate Drakonos trenches as deep as it may before it detonates itself attempting to disrupt as much infrastructure or chain of command as possible. 
+
+While easily screened, for they lack the complex thinking of a **[[Soul]]** bearing entity, by the time one can be interrogated it is often too late and its mission accomplished. For this reason alone Drakonos returning from the field of battle are screened from a distance or killed if compliance is not made with haste. The Treloss Changers are therefore strongest and most threatening when a group of [[Hoplite|Hoplites]] can be used all at once and these doppelgangers may find there way behind enemy lines with much more ease, fanning out and destroying entire trench lines or defensive positions in a single fell swoop.

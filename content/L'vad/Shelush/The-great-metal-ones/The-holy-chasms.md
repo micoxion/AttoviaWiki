@@ -1,0 +1,7 @@
+---
+title: The-holy-chasms
+draft: false
+tags: 
+date: 2025-11-20 19:14
+---
+A great fissure lies in [[The-continent-of-highs-and-lows]] which leads to many winding narrow paths. [[The-great-metal-ones]] say that it is the home of the [[God-three]] and where [[God-the-first]] pieced them together at their inception. Among its tunnels are many rewards of rare metals, valuable minerals and most important of all [[The-fruit-of-life]]. These treasures are rare and the search required has left many bodies of The-great-metal-ones littering the crevices and crannies of The-holy-chasms. For this reason around 40 [[Tri-hundred-turns]] ago a law was passed by [[The-government-of-steel]] prohibiting free passage into The-holy-chasms on punishment of exile. Paperwork was now required and upon completion entrance and adventure *might* be permitted. Such a privilege is earnestly sought after, especially by those looking to heal themselves or a loved one with the blessing of The-fruit-of-life. However, it is granted sparingly, only a handful of The-great-metal-ones are permitted to journey into the depths every Tri-hundred-turns and the search for its hidden goods has become longer and more arduous with time. Less than half return.

@@ -1,0 +1,14 @@
+---
+title: Mind-destroying-power-maker
+draft: false
+tags: 
+date: 2025-11-20 19:10
+---
+Perhaps the greatest achievement of **[[Meyda]]** oriented technology in the entirety history of [[Shelush]]. The Mind-destroying-power-maker utilizes a parallel network of **[[Meyda-leho]]** which pull ambient **[[Meyda]]** from the surrounding environment and coalesce it in a large central chamber. The result is a [[God Stone]] nearly 200 feet in diameter and capable of powering several small planets worth of the [[Folk-of-brilliant-mind]] people. Everything in their cities runs off of the Mind-destroying-power-maker yet it continues to grow and must be occasionally purged of large portions of **Meyda** to mitigate the risk of [[Hyper Meyda Density]]. 
+
+The Folk-of-brilliant-mind have no qualms sharing the fruit of their knowledge and skilled labor but are unable to do so in regards to the Mind-destroying-power-maker thanks to the infrastructure required to utilize it. A rather invasive amount of changes over an extensive amount of time sees [[The-great-metal-ones]] and the [[Nimble-of-the-sky]] politely decline the offer numerous times. They are not in any real need after all, though they could not fuel the kinds of devices or systems the like of which are seen behind the Folk-of-brilliant-mind borders.
+# Usage
+%%Migrate a lot of this to the Extensive-historical-record-machine document at some point lol%%
+The largest single use of the Mind-destroying-power-maker is to run and operate the [[Extensive-historical-record-machine]]. A computational mind or [[False Soul]] that operates on the totality of all knowledge and history known to the Folk-of-brilliant-mind. It is accessible by any citizen of the [[Fair-and-just-rule-of-minds]] after a competency and compatibility test have both been passed. The competency test attempts to rule out whether or not the potential user of the system has the intellectual acumen and instinct to not misuse, misconstrue or sow misinformation with the data they request or add to the Extensive-historical-record-machine. The compatibility test is for the users own safety as the **[[Tethers|Tether]]** formed by connecting to the Extensive-historical-record-machine has substantial draw and can cause [[Sprouting]] when it might otherwise not be likely.
+### Extraction
+When a Folk-of-brilliant-mind is nearing death they may choose to have their **[[Soul]]** extracted by the Extensive-historical-record-machine and have its total sum of experience added to the collection of data and history. Though once a distinguished honor this has become the defacto way to see oneself out of the [[Material World]] for Folk-of-brilliant-mind and nearly 90% of them will add their **Soul's** information to their culture's vast record before they die.

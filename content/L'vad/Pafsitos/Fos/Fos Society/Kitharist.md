@@ -1,0 +1,9 @@
+---
+title: Kitharist
+draft: false
+tags: 
+date: 2025-11-20 19:03
+---
+An ancient title among the [[Drakonos]] which along with the reality of the [[Platinum Palace]] has fallen into obscurity and legend. Kitharists when summoned were those who played the [[Kithara]] for [[Hikari]]. Such a position was envied by all even the [[Orchid Sculpting|Orchid Sculptors]] for there was no other pursuit not of the [[Louvi Polemos]] that could net one the gift of [[Dorean]]. Hikari appears to have a fondness for sheer effort, and the difficulty presented by the Kithara and the endurance required to play it well apparently led to a near 90% Dorean conversion rate for all successful Kitharists. The most notable of these was [[Ermioni Stephanidi]] who after her training, practice and preparation produced a composition said to have been so beautiful, novel and impressive that Hikari granted her the right to Dorean after only her first ever performance. Many of her fellow Kitharists are reported to have been vividly jealous, attempting to make her remaining time in the Platinum Palace as uncomfortable and unwelcoming as possible. This expedited Hikari's rage at their simple and base behavior leading to a kind of unceremonious "cleaning of house" within the Platinum Palace's entertainment folk. 
+
+Many believe that after Ermioni left for the [[Axiom]] was when the Platinum Palace began the swift progress to closing its doors for good to the common Drakonos of the [[Fos]]. Whether this was thanks to the jealousy the sprouted in her presence or Hikari's disappointment with all other artists thereafter something *must* have changed at that point. The Platinum Palace has had [[Platinum Palace#Closed Doors|Closed Doors]] for the majority of [[The Pafsitos Lagi#Olotimos|Olotimos]] and after so many centuries speculation is all that remains. 

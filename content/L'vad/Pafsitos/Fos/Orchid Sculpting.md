@@ -1,0 +1,9 @@
+---
+title: Orchid Sculpting
+draft: false
+tags: 
+date: 2025-11-20 19:01
+---
+An ancient artform that is rarely practiced in the [[The Pafsitos Lagi#Olotimos|Olotimos]] Lagi^[ages of Yahti] that uses *only* the petals of the [[Platinum Orchid]] flower. To become skilled at Orchid Sculpting takes decades thanks to the intricate techniques utilized when constructing even the simplest structures from the soft and fragile material. While some Orchid Sculpting includes the stems and/or leaves of the Platinum Orchid as well, these pieces are commonly frowned upon as being illegitimate or a gross misrepresentation of the artform. The calling card of Orchid Sculpting is its extremely short lifespan: Each sculpture can only stand as it was originally constructed for at most 48 hours. After which the wilting of the petals causes the integrity of the structure to degrade rapidly until there is naught but browning petals in a heap where a beautiful [[Drakonos]] once stood.
+
+Though they do not exist in reality anymore, many famous Orchid Sculptures remain saved and displayed in the [[Platinum Palace]] via the use of [[Provonas Machina]] which capture a three dimensional representation of the sculpture before projecting it via Light **[[Exouse|Exousi]]**. There are 32 in total displayed within the palace and they are the only permitted preservations of any Orchid Sculptures. Each was made by a different Orchid Sculptor who's name is engraved on a pillar underneath the large projection. The most famous is the Vasidymi or [[Queenly Power]] which depicts [[Hikari]] herself in a flattering pose, neck arched in a perfect S curve before terminating at an intricate reconstruction of the [[Dragons|Dragon's]] head, containing a level of detail yet to be matched by any Sculptor to date.

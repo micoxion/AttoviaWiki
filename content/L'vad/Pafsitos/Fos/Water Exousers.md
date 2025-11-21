@@ -1,0 +1,7 @@
+---
+title: Water Exousers
+draft: false
+tags: 
+date: 2025-11-20 19:03
+---
+There are not bodies of water on [[Yahti]] to speak of. The moon displays no signs of having ever supported or contained water in any amount, and thus all water must be manifested using the [[Meyda Functions#Conduction|Conduction]] function of **[[Meyda]]**. Water Exousers are a class of specialized **[[Exousers]]** who have the sole job description of creating water. They inform ambient H2O in Yahti's [[Benevolent Atmosphere|unnatural atmosphere]] to coalesce in pools and gain a strange sense of where denser pockets of water molecules can be found. Often referred to as the Water Exousers Second Scent no one quite knows how or why it develops, but at a nearly 80% success rate Water Exousers who have been at their work for more than a decade can sus out the most liquid lucrative portions of the local atmospheric environment within roughly a mile radius. Water Exousers for this reason are left to roam free having a large hose attached to a large basin around their waist. Water is coalesced in the basin and runs back through the hose down into a reservoir deep underground where it can be pushed via [[Exous Pumps]] to anywhere it needs to go. Some of this water may traverse nearly half the planet's circumference before it is used thanks to the highly interconnected nature of the water reservoirs of the [[Drakonos]].

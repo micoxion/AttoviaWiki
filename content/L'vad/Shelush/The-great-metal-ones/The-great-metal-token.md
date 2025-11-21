@@ -1,0 +1,12 @@
+---
+title: The-great-metal-token
+draft: false
+tags: 
+date: 2025-11-20 19:13
+---
+[[The-great-metal-ones]] trade in a strict fiat currency known as The-great-metal-token. It comes in 5 denominations each denoted simply with its numerical position the first being The-great-metal-token-the-first and the final being The-great-metal-token-the-fifth. The-great-metal-token is the most valuable of the three fiat currencies present on [[Shelush]] thanks to the process involved in its minting. Whenever additional currency is required by [[The-government-of-steel]] a request is sent to [[The-makers-of-the-token]]. This is a group of The-great-metal-ones responsible for minting the little cubes known as The-great-metal-token which are formed in the following way:
+A large tray with cube shaped depressions (each deeper in dimension than the square opening) is taken by one of The-makers-of-the-token and each space is seeded with a tiny piece of their biomechanical form. It is then incubated in a **[[Meyda-condenser]]** and allowed to expand inside of the tray until each square is filled roughly half way. The tray is then taken to a Token-press which stamps a **[[Meyda-leho]]** into each new token which can be used to verify that token's authenticity by any one of The-great-metal-ones.
+# Sovereignty
+The process of creating one of The-great-metal-tokens is considered partially sacred as the money used by The-great-metal-ones is effectively imbued with the **[[Soul]]** of one of their own kind. Though originally just seen as powerful in meaning this has become a piece of religious dogma which pushes against the idea of any transaction in which one part does not include The-great-metal-token. Barter and commodity currencies are all but considered a vice or corruption among The-great-metal-ones and are not tolerated well. This makes it difficult for [[Sojourners]] coming from either [[Nimble-of-the-sky]] or the [[Folk-of-brilliant-mind]] as their currency is not accepted at any exchange rate. 
+
+To a more extreme legal degree The-great-metal-token is also not permitted to leave The-great-metal-ones' nation. If found in possession of anyone attempting to leave their borders it is confiscated and the perpetrator's fate will be up to The-government-of-steel's judiciary branch [[The-deciders-of-fate-and-order]].

@@ -1,0 +1,9 @@
+---
+title: Home-of-safety-high
+draft: false
+tags: 
+date: 2025-11-20 19:12
+---
+The [[Nimble-of-the-sky]] live in what can only be called a floating continent. This is no minor landmass raised into the sky, their entire nation which once lay at a relatively equal elevation to [[The-great-metal-ones]] and the [[Folk-of-brilliant-mind]]. Upon Home-of-safety-high is a world preserved by the power of **[[Meyda]]** to be unchanged within its borders. Held fast forever as it once existed before its new home in the sky was found. Pressurized, warmed and maintained by [[The-oldest-nimble-one's-last-wish]], Home-of-safety-high is the most wonderous continent on [[Shelush]] by at least its most basic properties of existence.
+# Geography
+Resting at roughly 25,000 ft. altitude at its base, from the bottom most point of the landmass to its tallest mountain [[She-who-sees-us-all]] it claims a full height of roughly 10,000 feet putting the peak of She-who-sees-us-all at a total elevation of ~35,000 feet. The land in general is cut into two uneven slices by the mountain range which is terminated by She-who-sees-us-all. On one side many dry hillocks and plains stretch to the literal edge of Home-of-safety-high, and the other is a veritable jungle. Technically the divide counts as a secondary border, the Nimble-of-the-sky people having divided themselves into two quasi-states which live on either side amicable to one another's passage to-and-fro. On the windswept plains reside the forward thinking [[Wings-of-blinding-glint]] and in the jungles, spread out among the vibrant red growth are the traditionalists: the [[Whole-and-sacred-ones]].

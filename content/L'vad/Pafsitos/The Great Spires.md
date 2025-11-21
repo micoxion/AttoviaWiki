@@ -1,0 +1,9 @@
+---
+title: The Great Spires
+draft: false
+tags: 
+date: 2025-11-20 19:07
+---
+Interspersed randomly across the surface of [[Pafsitos]] stand colossal pillars of the dark gray rock that makes up roughly 70% of the moon's surface. Each pillar is almost exactly the same height (somewhere in the region of 10,000 feet) with a base that fluctuates between 5-6 miles in diameter. According to myth these monolithic protrusions were here when [[Yami]] and [[Hikari]] arrived and no one has deduced their origins or possible purpose to this day. They do however serve a consistent utilitarian purpose for the [[Treloss]] and [[Drakonos]] when it comes to infrastructure. The Great Spires are made of a brittle stone, but drill into the side far enough and you can anchor just about anything to their sides'. Drakonos cities especially are often found climbing a Great Spire like winding vines, tens of thousands of pale gray structures bolted into the rock forming almost beautiful organic patterns that split the skyline. The majority of cities on the [[Fos]] side have been migrated to the Great Spires, placing water reservoirs at their tops and building precarious aqueducts that span miles from spire to spire to efficiently deliver water long after [[Exous Pumps]] do the initial heavy lifting. 
+
+Only a century ago it was discovered that each Great Spire holds a strong core roughly 500 feet in diameter and terminating 8,000 feet from the ground. The core is much hardier than the external rock and appears to be made of a strange composite material yet undefined by either side. Whatever it is appears to have been the product of intelligence, a thing refined and designed, not a naturally occurring part of this phenomenon. What god first touched Pafsitos and when? For this is not the work of that due which fights over its ownership.

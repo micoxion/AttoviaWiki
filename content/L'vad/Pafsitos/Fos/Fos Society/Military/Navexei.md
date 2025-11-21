@@ -1,0 +1,9 @@
+---
+title: Navexei
+draft: false
+tags: 
+date: 2025-11-20 19:04
+---
+Once every [[Time on Pafsitos#Perasma|Perasma]] the Navexei is called. Every [[Drakonos]] yet recruited to the [[Louvi Polemos]] is summoned to the outer courtyard of the [[Platinum Palace]] no matter their distance. Some have to begin their journeys many [[Time on Pafsitos#Seira|Seiras]] in advance to arrive at the designated time, all other preferred methods of travel required by those actively fighting and contributing. Gathered together there is often more than 100,000 Drakonos who fill the courtyard in frightening abundance. The sound of their breath is a low rumble, and the shuffling of feet announces itself above the silence. Those summoned to Navexei do not speak and may only do so upon rejoicing for their new found purpose in life. Each stands in a small square box a part of a greater box, the outer box is numbered and lettered, the inner boxes are organized similarly. Great [[Proicho Machina]] announce the [[Hikari|Platinum Queen's]] decisions by calling out the number-letter combination of the outer box, and if any exemptions or special cases exist these will be defined after by their interior boxes identifiers. Generally around 90% of those at Navexei become [[Hoplite|Hoplites]] with the occasional impressive individual moving directly to [[Enomotarch]] instead often given a portion of those in their outer box as part of their new command.
+
+To the remainder who are not conscripted into the military there remains a number of opportunities from the pursuit of ordained artistry, janitorial work of all kinds, scientific endeavors such as mechanical engineering and the breeding pods. While each of these positions contributes greatly to the war effort they are largely looked down upon thanks to their limited or non-existent offer of [[Dorean]]. No janitor of a phalanx latrine has been granted access to the [[Axiom]] after many, many years.

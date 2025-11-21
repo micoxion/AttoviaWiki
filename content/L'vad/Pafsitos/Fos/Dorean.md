@@ -1,0 +1,9 @@
+---
+title: Dorean
+draft: false
+tags: 
+date: 2025-11-20 19:01
+---
+Built directly into the [Drakonos](app://obsidian.md/Drakonos) genome is the ability for Dorean: That is freedom from the [Louvi Polemos](app://obsidian.md/Louvi%20Polemos). Endless war, carnage and sorrow surround the Drakonos, and while they bask in the glory of incredible proximity to their benevolent goddess [Hikari](app://obsidian.md/Hikari) they do live lives of constant suffering in at least a mental capacity. Dorean is the final hope, to be unlocked only by their goddess and to be sent to the [Axiom](app://obsidian.md/Axiom) to live a life free of the oppressive weight of a war in need of winning. But programmed deeply into the Dorean is a strange **[Working](app://obsidian.md/Meyda-work)** of erasure. Memories in their totality are washed away when the Drakonos enters their [Kyrsalis](app://obsidian.md/Kyrsalis) and descends to the Axiom's golden opportunities.
+
+Do the Drakonos who leave the planet even arrive at the Axiom the same creature in any respect? Is the erasure of memory an erasure of the **[Soul](app://obsidian.md/Soul)** itself, and instead Dorean is a repurposing of organic matter more than it is granting freedom to a weary mind. These questions and more support the rising trend of [Apodechtite Thanatos](app://obsidian.md/Apodechtite%20Thanatos) after the word spread of what the Drakonos body looks like once it has undergone the Dorean change. It is a different creature altogether, with elements reminiscent of its old form, but new biology all the same. Its wings are gone, its face flattened, and the scaley hardy skin turns to a strange interlocking carapace with a duller color. What is to be made of this change few can say, but to defy it comes easy once a case is made to doubt the primary goal all Drakonos believe they have striven for all these millennia.

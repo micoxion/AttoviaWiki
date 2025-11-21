@@ -1,0 +1,9 @@
+---
+title: Kreas Farms
+draft: false
+tags: 
+date: 2025-11-20 19:06
+---
+Specialized [[Treloss]] are held in large cylindrical pens where they devour large amounts of [[Pafsitos]] soil which is broken down by their [[False Soul]] and converted into high protein content nutrition. Their bodies have no encoded physical limit and they will grow, amassing muscle and fat, until the square-cube law causes their muscles to give out entirely and they can no longer devour dirt, stone and grime. At this point the disgusting mound of flesh is carved into 5x5 foot chunks then ground down and packaged. This process takes nearly a full [[Time on Pafsitos#Seira|Seira]] to complete and leaves a large puddle of viscera infused soil that the next Kreas Treloss will eat eagerly to fulfill its instructions. The simple rations that are stripped off one of these Treloss are packed with the necessary components to keep Treloss functioning for quite some time. The endless Kreas Farms hold thousands at any given time regularly shipping off absurd quantities of ground meat sealed in silicone to be consumed as-is upon receipt.
+
+A Treloss' construction requires regular rations once every three Seira and when not received a hibernation mode is entered to retain the False Soul's integrity until food can be found. Some instruction variants permit the random assignment of "Food Source" to an individual Treloss which prepares itself to be consumed by its brethren. This function alone allows the Treloss to hold out in positions cut off entirely from supply lines or backup severely hindering the [[Drakonos]] from an easy or swift victory.

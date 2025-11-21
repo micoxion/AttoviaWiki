@@ -1,0 +1,26 @@
+---
+title: The Power of Names
+draft: false
+tags: 
+date: 2025-11-20 19:10
+---
+
+Thanks to the ease of the formulation of [[Contracts]] on [[Shelush]] the power of names has become a very key sticking point in each of its three societies. Nearly all people, places and owned creatures are given three names. The first is their [[#Front Name]], based entirely on obvious or well known characteristics. The second is one's [[#Strong Name]], given to them by their parents or guardian. Finally the [[#Soul Name]], often unknown to even sentient individuals until later in life if ever. Each is used in different ways in society and serves its own important purpose. Caveats and quirks exist for each and those additional details can be found below.
+# Front Name
+Front Names are highly flexible, often given to a child by their parents at the same time as their Strong Name and will change upwards of 5 times just during the process of growing up as their body and personality grows and develops. Front Names must *always* be shallow in their construction, yet unique enough to not see dozens of things in a single area have matching identifiers. This often means that Front Names require a surprising amount of effort to create properly to avoid [[Sprouting]]. A Front Name can be changed by its owner as well, and is a carefully taught skill deemed necessary for normal, functional life.
+
+The Front Name is how everyone new to a person or creatures life will first know them. If created properly this name will *not* form a **[[Tethers|Tether]]** upon it being learned and if so its purpose has been fulfilled.
+# Strong Name
+Strong Names in a strange way are less restrictive than a Front Name. The only rule of thumb is that the giver of the Strong Name should have some connection to the name. It should have some importance or meaning to them. In the case that it is a child being named that child should one day be told of this meaning to further cement the Strong Name's potency. The Strong Name is known only to those very close to the one who owns it. Upon learning someone's Strong Name a **Tether** will instantly form. To avoid Sprouting the owner of a Strong Name and their giver must avoid divulging the name too easily and it should only be given to trusted family and the closest of friends for fear that they too could give it out of their own volition.
+
+In Shelush the exchanging of Strong Names is often a much more powerful statement than the words "I Love You" even when those words are packed by a depth of meaning.
+# Soul Name
+Soul Names are mysterious things. A name that the very shape of your **[[Soul]]** defines. Different groups have different beliefs as to the giver of such names, but each knows that the discovery of this name is a rare and powerful thing. To find your Soul Name grants you power over the **Tethers** which connect it to others. However, finding a Soul Name is such a rare occurrence that each and every individual recorded as having done so is a historical or mythological legend. It is a strange inevitability that once the Soul Name surfaces in your mind you *will* become an important, powerful and influential person. What you do with that power is up to you. 
+
+A Soul Name should never be exchanged, given out, or learned by any but its owner. To know such a Name is to have complete and utter control over a person's life. The effects while perhaps liberating to some, are most often devastating in reality.
+# Important Objects and Places
+Any inanimate thing that by its own nature receives value from **Soul** bearing entities should also be given a Front Name and Strong Name. Cities are the best example of this as all three nations have similar methods to handle these two names and who should be allowed to know which. Visitors and those who know of the city from afar are fine to use and learn the Front Name. Citizenship however, is almost always finally marked and checked by the knowledge of a city's Strong Name. 
+### Trickle Down Patterns
+What has ended up occurring in the societies that live out their histories here is that whether something requires it or not it will receive at minimum two names, its Front and Strong. This has spread out to concepts which cannot generally form **Tethers** as well as the general names for some common "kinds of things" that also do not receive the kind of large scale important assignment that would beg the need for proper naming convention. However, habits have been formed from thousands of years of tradition that do not change easily.
+# Titles vs. Names
+The concept of a "title" is fuzzy on Shelush, instead a position itself has a Front Name and a Strong Name. Upon taking on that position the Front Name of the positions taker is changed to the title itself. Their Strong Name remains the same, but they do learn the Strong Name of their position. This practice was at one point discarded as it seemed pointless to have one individual effectively owning two Strong Names. However, something about the position owning a Front and Strong Name kept its Front Name functional. Without the Strong Name the Position's singular name would begin to form **Tethers** when learned by nearly anyone who knew anything about the organization it was associated with. The tradition was shortly reinstated and the issues were resolved after a few years.
