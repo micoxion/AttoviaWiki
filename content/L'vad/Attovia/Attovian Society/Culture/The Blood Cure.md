@@ -1,0 +1,13 @@
+---
+title: The Blood Cure
+draft: false
+tags: 
+date: 2026-01-09 16:06
+---
+It was only a few centuries ago that The Blood Cure truly went out of fashion, and disappeared from the cultural memory of Attovia. As the [[Katara]] curse has become more substantially understood, a method of curing it that resides in simple concoctions, tinctures or even the skills of true [[The Apothecary's Gift|Apothecaries]] is only for the simple minded and foolish. However, for most of the [[Eras of Attovia#Age of Nations|Age of Nations]] The Blood Cure ebbed and flowed in its popularity as a possible cure or at least holding reductive properties.
+
+To make The Blood Cure one must prick the finger of a Katara at least 40 turns of age and no older than 60. Preferably the finger should be in proximity to obvious visual signs of the Katara corruption, general one or two hand lengths at most. After receiving the blood, it is mixed with a much larger quantity of water and allowed to rest in direct sunlight for seven days. This is to allow [[Lev'el]], which was thought to once be [[Hormus|Hormus']] own heart, to purify the corrupting influences in the blood. A quantity of that combined fluid is then remixed with the same quantity of fresh water and left out for the Day Star to purify for seven more days. Finally, a single drop of a tear from the [[Eye of Hormus]] is added, homogenized via vigorous mixing and then poured over clean slate. The Katara is then to drink the final drops that fall from the piece of slate as it is placed above their mouth. 
+
+The rather involved creation process leaves enough room for error that many believed its failure due to some mistake by the mixer or one partaking. So called Purifying Soldiers had many reasons (some now view them as more sinister excuses) for the possible lack of the medicines taking. "A proper 70 Praks was not allowed for in both curing cycles beneath the Day Star", "The slate was not as pure as previously believed" or even "Must have pricked the wrong finger". With enough time however, the truly bunk nature of these self proclaimed do gooders was revealed at a broad level and they receded to more typical cons, grifts and scams.
+
+Typical of anything old enough built on fragile hopes and corrupting fear The Blood Cure still finds its way to the mouth of Katara by the hands of their loved ones desperate enough to try anything. It never works, and is more likely to make the imbibing individual sickly for a day or two than to cause horns to recede or flesh to regain its natural color. 

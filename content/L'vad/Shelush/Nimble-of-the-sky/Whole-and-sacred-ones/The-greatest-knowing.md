@@ -1,0 +1,7 @@
+---
+title: The-greatest-knowing
+draft: false
+tags: 
+date: 2026-01-09 15:48
+---
+While a [[Nimble-of-the-sky|Nimble-of-the-sky's]] [[Nimble-of-the-sky#Final Molting|Final Molting]] is a slow and arduous affair, it is also considered a powerful and positive one by the [[Whole-and-sacred-ones]]. The afterlife or whatever lies beyond is the one [[The-powers-of-knowing|Knowing]] undiscoverable until this moment. When a Whole-and-sacred-one finally does pass on their closest of kin or preselected loved one will share the now deceased Nimble-of-the-sky's [[The Power of Names#Strong Name|Strong Name]] with the tribe. In that moment upon Knowing a small **[[Tethers|Tether]]** is formed from each in attendance to a point in space often otherwise unoccupied. It is believed this is the **[[Soul]]** of the recently departed, and it will linger for an inconsistent amount of time, minutes to hours, before the many **Tethers** wink out of existence as it is whisked away to The-greatest-knowing. Before its moving on to the next portion of existence, or the absence of it, members of the tribe share "Personal Knowings" about their fallen member making sure to use their Front Name in recollections and affirmations. This lasts until the last **Tether** vanishes and the gathering dissipates, each going back to continue their way of life which can only pause for so long.

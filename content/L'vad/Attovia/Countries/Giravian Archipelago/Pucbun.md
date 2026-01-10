@@ -1,0 +1,9 @@
+---
+title: Pucbun
+draft: false
+tags: 
+date: 2026-01-09 15:46
+---
+On rare occasions [[The Black Storm]] can bring with its tumultuous presence, a quiet, and small seedling. If it takes root on the island it will grow into a flower with bright purple leaves and an alluring scent. The flower is so rare it has no name, and often sees its memory forgotten in the minds of the tribe thanks to its occurrence being rare enough to be centuries removed from each sighting. The flower blooms once, then fades, releasing pollen into the air that has no mate to procreate with. This pollen sits in the sand and soil of the island until it is inhaled, ingested or imbibed by a [[Girav gel]]. The pollen breaks down into such small particles that it often hitches a ride on the individual's DNA which has no initial effect. Not until the pollen is passed on to offspring does it begin its sinister work. The newborn comes into the world with a twisted, malfunctioning form. Though they often live, victims of Pucbun are in pain their entire existence and have no way of being healed. [[Tiken]] **[[Meyda-work|Workings]]** appear to have no effect on the afflicted and modern medical sciences still lack the knowhow to even begin a proper study of the strange disease. It does not ravage populations, and it does not invade ecosystems. It bides its time, and strikes at random. Bringing sorrow and misery to the unlucky. The flower is perhaps [[Graskoroth|Graskoroth's]] most devious and evil creation, for its fleeting existence sees it escape notice time and time again, yet each afflicted individual is like some kind of horrid art piece painted by the Kraken's own corrupt **[[Soul]]**.
+
+The flower cannot take root on Attovian soil where [[Hormus|Hormus']] pact with the land prohibits its presence. But here where the [[Refike Zerin]] cannot reach, on the unowned lands of the [[Giravian Archipelago]], it can take a short root, and reek havoc for many generations.

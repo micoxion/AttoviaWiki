@@ -1,0 +1,7 @@
+---
+title: Louvi Polemos
+draft: false
+tags: 
+date: 2026-01-09 15:59
+---
+So called is the ever waging war that spans [[Yahti|Yahti's]] circumference where [[Yami]] and [[Hikari]] unleash devastation upon one another's spawn. The [[Drakonos]] clash against the [[Treloss]] each backed by the awesome power of their creators' proxy weapons the [[Drakantos]]. Technically the war *started* during the age of [[The Pafsitos Lagi#Echthra|Echthra]] though it was not dubbed a proper war until the [[The Pafsitos Lagi|Polemos Pafsitos Lagi]]. Though it began with Yami's betrayal of his sister Hikari thousands of years ago, the true intensity it exists in now claims "only" an age of centuries. This many century long conflict has pushed the progression of science and technology on Yahti at an exponentially faster rate than the [[Attovia (Planet)|Axiom]] and many fundamental concepts such as the theory of microbes and cellular organisms, the chemistry of combustion, ballistics and high level math have all been more or less conquered for nearly a century now and continue to be refined, studied and improved upon for the sake of eradicating opposition. Couple such scientific fields with the [[Fields]] of **[[Meyda-work]]**, known to [[Pafsitos]] residents as **[[Exouse]]**, and the resulting landscape is pockmarked with the physical destruction left by the wicked combination of the [[Extramaterial World|Extramaterial]] and the [[Material World|Material]]. 

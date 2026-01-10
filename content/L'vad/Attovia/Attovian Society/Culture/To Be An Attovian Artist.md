@@ -1,0 +1,11 @@
+---
+title: To Be An Attovian Artist
+draft: false
+tags: 
+date: 2026-01-09 16:04
+---
+None have put it better than [[Vasthand Slowink]] of [[The House of Poets]] in [[That Folly]]:
+![[That Folly#^thatfolly]]
+Only an extremely privileged few will ever see fame and fortune at the behest of their artwork. No [[Palveli]], poet, painter and [[Chip Mosaics|Chip Layer]] will find an easy outlet for their gifts and aspirations. They will have to scrounge until luck finds them or their body finds death. Out of a thousand artists a single individual will be blessed with the former option, the rest are relegated to forgotten pyres. Even the most famous of the blessed such as [[Balasar Myastan]] remain in squalor when compared to those of the upper class. When times will truly change none can say, but more opportunities slowly bubble to the surface as time disturbs and disrupts the stones at the bottom of culture's pond. The House of Poets previously mentioned in passing is the first larger organization that seeks to provide opportunities to network and join in a artist community and to at some point provide patronage contracts free from the clauses full of propaganda and government oversight. 
+
+Some small artist guilds do exist in the [[Ornsiire Empire]] and [[Zyclester Empire]] but both are highly regulated by their respective governing bodies to mitigate the spread of information or ideals deemed harmful to leadership. [[Claskarian Theocracy|Claskaria]] struggles to support an economy stable enough or with enough velocity to have any kind of cultural backing to any would be [[Palveli]] or art sellers. [[Zoher]] retains much of the law regarding ordained [[Palveli]] though now it simply restricts any self made of their kind, doling out punishment instead of writs of approval. The [[Shen Dynasty]] culturally oppresses most artforms or similar trades that one might be interested in in favor of the [[Baking Shulbets|Baking Trade]] and other more societally accepted pursuits. The [[Jalar Confederation]] seeks to further this line of culture, seeing some value in it, however the [[Founding States of Jalar|Founding States]] tussle at the moment for the simplest ground on any motion or new law and as such no [[Clips]] or legislation have yet to find their way to the waiting palms of artists who call Jalar home.

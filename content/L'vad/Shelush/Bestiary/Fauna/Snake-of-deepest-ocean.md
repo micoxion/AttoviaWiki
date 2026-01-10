@@ -1,0 +1,12 @@
+---
+title: Snake-of-deepest-ocean
+draft: false
+tags: 
+date: 2026-01-09 15:51
+---
+Not even the [[Extensive-historical-record-machine]] can trace a line of knowledge far enough back to ensure the reality of the many tales that make up this creatures descriptions. All anyone can refer to so long as deep delves below the waves remain in question is myth.
+> [!quote]+ The lonely Snake-of-deepest-ocean
+> When [[God-the-first]] of the [[God-three]] created the [[Little-snake-of-many-limb]], [[God-the-middle]] and [[God-the-final]] each set to their own creations, as it had been agreed, as it had been since all of time. God-the-middle decided the [[Pellet-suckers]] required an enemy, for they bothered the [[Nimble-of-the-sky]] and so God-them-middle made the [[Lizard-of-webbed-mouth]] to feast upon them and so bring relief to them. God-the-final grew excited. God-the-final had not created something large in scale before, and saw an opportunity. God-the-final built a colossal creature to take home in the depths of the ocean, for such places were lonely and required filling. Snake-of-deepest-ocean was many miles long, and fearsome in appearance. A face not unlike the Nimble-of-the-sky, depth of thought like Folk-of-brilliant-mind, and a hard exterior like [[The-great-metal-ones]]. Through the ocean it swam then, and it swims now, far below the keels of our humble vessels. Far below the greatest diver's deepest dive. Far, far below. It must be lonely in the dark, under the waves. It must have angered God-the-final, for no friends for it were ever made.
+
+> [!quote]+ [[Adom]] | Examination of Shelush | 24,347 P.C.
+> This world continues to surprise me. Even here among the [[Folk-of-brilliant-mind|Geon'arni]] in all of their principled, logical thought processes the truth of their deep oceans eludes them. In that comical nature of the [[Tree of Time|Tree of Time's]] it is the simple fact, that their ocean is much like all the others. Thriving from its surface to its farthest floor. Admittedly currents here have caused few strange creatures to wash ashore, even [[Attovia (Planet)|Attovians]] see the rare deep sea dwellers as their ocean strikes their ever dwindling home. The "Snake-of-deepest-ocean" is much like a colossal eel. That which the myth gets most correct is its scale. The rest I am not so sure. The [[Abbaki]] here are guarded, and would not hold extended discourse with me. Someday the truth will reveal itself, and that is not a burden I will saddle myself with.

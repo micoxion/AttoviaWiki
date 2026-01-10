@@ -1,0 +1,11 @@
+---
+title: Kemupe
+draft: false
+tags: 
+date: 2026-01-09 15:52
+---
+Twice a year on the 1st of [[Zoher Calendar#Levnui|Levnui]] and the 1st of [[Zoher Calendar#Nedrui|Nedrui]] a competition is held by the [[Nammalian]] population of the [[Jalar Confederation]]. Nammalians gather from all across the continent even some as far as [[Claskarian Theocracy|Claskaria]] to witness the acrobatic competition, take part in side games and challenges, eat traditional [[Tugekoos]] food and crown the year's Kemupe on the 5th of Nedrui. Kemupe consists of five distinct games in which up to 100 Nammalian participants may compete in. Those 100 are first qualified on the 1st of Levnui and are the first 100 to surpass the Lord's Measure or the Issmoot in a long jump or high jump.
+
+The games in question are the long jump, high jump, free foot, nimble cross and turnaround. The competition goes in five rounds (each taking an entire day providing more time for frivolities and celebrations in the later days) of the five games first eliminating 50 participants, then 25, then 10, then 3 until the final match on the 5th of Nedrui between the remaining 2. Each participant is scored via their position in relation to all other participants, if you rank 1st in a game that is 99 points. The current number to be eliminated in a round are done so based on the lowest points. The long jump and high jump are exactly as they sound with free foot being the only subjective game in which a panel of five judges scores each participants [[Armupe]] like freeform jumping technique. Nimble cross involves the speed at which a Nammalian can traverse a large set of posts roughly 10 feet off the ground and less than a foot in diameter, and turnaround is how many jumps a Nammalian can make between two sawhorse like beams without any "stoppage" which is determined by a judge. 
+
+The Kemupe who is crowned is given a silver pendant with the emblem of a foot and ankle poised to spring carved on its surface. The same pendant is brought back each year and will change hands when the next is chosen. There has only ever been a single Nammalian to win the pendant two years in a row, her name was [[Eva Ammas]] and she remains a legend to this day though her time of fame was many centuries ago when Tugekoos was not yet a distant memory.

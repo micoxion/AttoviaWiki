@@ -1,0 +1,13 @@
+---
+title: Hekil
+draft: false
+tags: 
+date: 2026-01-09 15:57
+---
+For an Elf to be dubbed Hekil by [[The Court in Ambar]] is a sentence worse than death. The individual in question has their **[[Tethers|Tether]]** to the [[Ambar Tree]] severed permanently. The afterlife promised to all of Elven descent is no longer yours and without another source of hope their **[[Soul]]** might float aimlessly in an empty void or perhaps disappear altogether. While they yet remain in the material world they are prohibited from calling themselves an Elf, and lose their rights, being treated as any non-Elf while they live in [[Beleg gúl]]. 
+
+It was at one time the common practice for the Court in Ambar to investigate and usually mark half-bloods as Hekil. Cited as the Ambar Tree's disgust with their dirty and mixed heritage thousands of half-blood Elves live spurned by their country throughout the continent. It is less so in the last several centuries as Beleg gúl isolationist policies have begun to melt and so ease the informational divide that previously kept such reprehensible actions under wraps. When Hekil are made they are done so with much intention and careful consideration. Modern Hekil are most often for the sake of maintaining power and exiling those who might disrupt the status quo. It was of course done for similar reasons before, but now it is with targeted intent.
+# Hekil Process
+Perhaps the worst part of the Hekil ritual is that one must be physically present for it to work. The first time many Elves ever step foot within the Ambar Tree it is to be separated from it forever. Even those who are forewarned now spend their lives however long or short on the run from [[Beleg gúl#Thurin Cim|Thurin Cim]] operatives whose very existence is one devised for exactly this purpose. Few escape, and those who do, do so by "reconvening" with the Ambar Tree before they can be cutoff.
+
+An Elf to be made Hekil is taken to the only other room within the roots of the Ambar Tree that does not belong to the Thurin Cim. Here in the bowels of the tree meant to be their beacon of hope and light they are shackled to the floor above a massive **[[Meyda-circle]]** which many believed transfuses directly from the heart of the Ambar Tree itself. And so it is with silent motions that the Council in Ambar starts the **[[Meyda-work|Working]]** which separates the new Hekil from the Ambar Tree by its very own power.

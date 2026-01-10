@@ -1,0 +1,9 @@
+---
+title: Siltling
+draft: false
+tags: 
+date: 2026-01-09 16:01
+---
+Siltlings are a yet unobserved but partially understood organism by the academic sphere of [[Attovia (Planet)|Attovia]]. Nevertheless they know that *something* exists they call a Siltling that appears to live in some portions of soil that host a composition close to or categorizable as silt. This discovery came through the observation of Siltling bubbles, which appear to have a strong connection with healthy top soil. It was additionally realized that portions of the silt-like soil that did *not* exhibit the signs of Siltlings could have Siltling soil introduced in small part and a culture would propagate until that portion of the soil was full of the same strange mucky froth that plants seemed to crave. 
+
+The scientific community was baffled at whatever strange organism the Siltling was. It was not of the [[Material World]] for how could it be so incorporeal and divisible if so? But it could not be of the [[Extramaterial World]] in totality either for the only beings that exist in that realm have very limited impact on anything in the Material World and the Siltling clearly exhibits signs of significant effect both on and by the Material World it appears to exist in at least in part. Theories most commonly attribute the Siltling's creation and odd behavior to be the result of [[Trebulance]]. The [[Gnomes]] of the [[Shen Dynasty]] however, believe it must be [[Pellervo]] himself enacting **[[Meyda-work|Workings]]** on the soil where he is pleased to do so. This is scoffed at by academics but tends to win over most commonfolk who would rather not contemplate the reason their soil bubbles more than the fact that it bolsters their crop yield.
