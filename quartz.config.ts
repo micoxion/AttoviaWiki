@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { Staticrypt } from "./quartz/plugins/transformers/password"
+import { defaultImage } from "./quartz/util/og"
 
 /**
  * Quartz 4 Configuration
@@ -37,6 +38,7 @@ const config: QuartzConfig = {
           secondary: "#A12EFF",
           tertiary: "#7E1CD9",
           highlight: "#2C0266",
+          textHighlight: "##85a5ff88"
         },
         darkMode: {
           light: "#1F132C",
@@ -47,6 +49,7 @@ const config: QuartzConfig = {
           secondary: "#C57BF3",
           tertiary: "#DBA4F8",
           highlight: "#ECCDFA",
+          textHighlight: "#85a5ff88"
         },
       },
     },
@@ -90,7 +93,13 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      Plugin.CustomOgImages({
+        colorScheme: "darkMode",
+        width: 1200,
+        height: 600,
+        excludeRoot: false,
+        imageStructure: defaultImage
+      }),
     ],
   },
 }
