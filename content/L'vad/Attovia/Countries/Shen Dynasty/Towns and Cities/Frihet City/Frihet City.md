@@ -14,7 +14,7 @@ City Scale (in miles): 10
 Racial density: Gnomes 85%, [[Tréigtheoir Sliabh]] 5%, [[Human]] 5%, [[Yewdi]] 2%, Elf/Half-Elf 2%, [[Human#Nammalians|Nammalians]] 1%
 
 # Factions
-Though not at war or particularly hostile to one another there are a number of factions in Frihet City who vie for control over its Sub-prefectures and major flows of [[Chips]] and trade. 
+Though not at war or particularly hostile to one another there are a number of factions in Frihet City who vie for control over its Sub-prefectures and major flows of [[Clips]] and trade. 
 ## [[The Underground]]
 ## [[Fu Clan]]
 ## [[The Trade Guild]]

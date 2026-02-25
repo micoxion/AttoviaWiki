@@ -15,10 +15,12 @@ The contract of birth is one unavoidable. The process of Begetting a being forms
 The contract of blood is formed through sacrifice of life essence which in turn forms a **tether** between the sacrifice and the rituals target. The ritual must contain life essence of or something else already **tether** to the desired [[Soul]]/[[False Soul]].
 ##### Contract of Bonds
 A more nebulous contract formed through extreme psychological connection. When the **Tether** is formed no one can say, but it does occur and most often with those in love. Contracts such as these have proven to form **Tethers** with a surprising strength, on occasion capable of even acting as a kind of [[Ogen]], keeping the soul of a deceased member of the Contract from leaving the material world.
-##### Contract of Belief
+###### Contract of Belief
 A sub-type to the Contract of Bonds, this contract is formed by shared belief in the truth of something. Be it as potent as the existence of a deity, or that lightning never strikes the same spot twice. Contracts of Belief are how many [[Luumara]] come into being.
-##### Contract of Focus
-A sub-type to the Contract of Bonds, this contract is formed by an intense focus on a [[Soul]]/[[False Soul]] by a sentient entity. The speed at which the contract completes is nebulously defined by the capacity to focus.
+###### Contract of Focus
+A sub-type to the Contract of Bonds, this contract is formed by an intense focus on a **[[Soul]]**/[[False Soul]] by a sentient entity. The speed at which the contract completes is nebulously defined by the capacity to focus.
+
+Often times whether this Contract is used on a sentient **Soul** or a False Soul is delineated by the term Forced Contract of Focus in reference to what is effectively enforcing one's will over another's. The idea of will is perhaps incorrect however, since for a Forced Contract of Focus to function requires not a stronger will, but a true and strong belief that one's **Soul** *needs* to be **Tethered** to another's. Some ancient traditions suggest that [[Mordechai]] may have successfully done this to a [[Blood Dragons|Blood Dragon]] which if true suggests that with enough belief one can override the wishes of even those creatures infinitely more potent than oneself. 
 ##### Contract of Agreement
 The most typical contract seen among the general populace. Signed deeds to land, the Oaths taken by Paladins, the vow of a bride and husband. All of these are contracts of agreement, fundamentally the same in that the psychological impact of the agreement is strong enough to form the **Tether**.
 ##### Bond of Life

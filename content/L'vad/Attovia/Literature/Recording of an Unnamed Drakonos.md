@@ -9,8 +9,8 @@ date: 2025-07-18 20:53
 > [!quote] Recording of an Unnamed Drakonos
 > Two Drakonos stand in a cold gray room, a third lies slumped in a metal chair, her arms and legs strapped to the chair's. Between her and the two currently in discussion is a thin table with several unknown, sterile looking instruments.
 > "A dissenter? That one?" The Blood Drakonos, as crimson as his kind come, questions the smaller and thinner Savra.
-> In a high reedy voice the pale green Drakonos responds "Just listen to this **[[Meyda-work||Worked]]** Ledger."
-> He places a dull purple [[Minor Stone]] onto a white disc atop the nearby table. The tell tale buzz of a **Worked** Ledger starting its output can be heard before the quality becomes perfectly clear and the apparent voice of the slumped prisoner begins to speak.
+> In a high reedy voice the pale green Drakonos responds "Just listen to this [[Exouse Ledger]]."
+> He places a dull purple [[Minor Stone]] onto a white disc atop the nearby table. The tell tale buzz of a **Exouse** Ledger starting its output can be heard before the quality becomes perfectly clear and the apparent voice of the slumped prisoner begins to speak.
 > 
 > ---
 > *A fellow unnamed told me once, that the light we shed was once as natural as [[Attovia (Planet)|Protos]] believed. A gentle but far reaching luminance that was soft but potent. It is hard to imagine such ceaseless light could have once been a pleasant comfort...*
@@ -33,7 +33,7 @@ date: 2025-07-18 20:53
 > *When not in the Fields everything is lifeless. I was never convinced as a New-Spawn that Dragonfall was something worth striving for. To lose yourself, your Name in exchange for freedom on a foreign world. It was not for me in my naivety. Now I understand why it is all any Named-One seeks for their Name-Gift. How can it be that I, and many unnamed like me will never be graced with a starry sky or vibrant world. I will do all I can so that we do not die here cold and alone, before we have even had a chance to live.*
 > 
 > ---
-> The low thrum of the finished **Worked** Ledger pronounces the unnamed's finality. The Blood Drakonos selects a long, sharp implement from the table and approaches the prisoner.
+> The low thrum of the finished **Exouse** Ledger pronounces the unnamed's finality. The Blood Drakonos selects a long, sharp implement from the table and approaches the prisoner.
 
 
 

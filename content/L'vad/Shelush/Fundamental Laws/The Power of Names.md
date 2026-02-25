@@ -4,7 +4,6 @@ draft: false
 tags: 
 date: 2025-11-20 19:10
 ---
-
 Thanks to the ease of the formulation of [[Contracts]] on [[Shelush]] the power of names has become a very key sticking point in each of its three societies. Nearly all people, places and owned creatures are given three names. The first is their [[#Front Name]], based entirely on obvious or well known characteristics. The second is one's [[#Strong Name]], given to them by their parents or guardian. Finally the [[#Soul Name]], often unknown to even sentient individuals until later in life if ever. Each is used in different ways in society and serves its own important purpose. Caveats and quirks exist for each and those additional details can be found below.
 # Front Name
 Front Names are highly flexible, often given to a child by their parents at the same time as their Strong Name and will change upwards of 5 times just during the process of growing up as their body and personality grows and develops. Front Names must *always* be shallow in their construction, yet unique enough to not see dozens of things in a single area have matching identifiers. This often means that Front Names require a surprising amount of effort to create properly to avoid [[Sprouting]]. A Front Name can be changed by its owner as well, and is a carefully taught skill deemed necessary for normal, functional life.
@@ -14,6 +13,8 @@ The Front Name is how everyone new to a person or creatures life will first know
 Strong Names in a strange way are less restrictive than a Front Name. The only rule of thumb is that the giver of the Strong Name should have some connection to the name. It should have some importance or meaning to them. In the case that it is a child being named that child should one day be told of this meaning to further cement the Strong Name's potency. The Strong Name is known only to those very close to the one who owns it. Upon learning someone's Strong Name a **Tether** will instantly form. To avoid Sprouting the owner of a Strong Name and their giver must avoid divulging the name too easily and it should only be given to trusted family and the closest of friends for fear that they too could give it out of their own volition.
 
 In Shelush the exchanging of Strong Names is often a much more powerful statement than the words "I Love You" even when those words are packed by a depth of meaning.
+
+To learn the [[The Power of Names#Strong Name|Strong Name]] of an individual is to form a [[Contracts|Contract]] which favors the learner. This is not inherently a negative thing, for the one whose name was learned may know the Strong Names of others who do not know theirs and thus balances the pull on their **[[Soul]]**. 
 # Soul Name
 Soul Names are mysterious things. A name that the very shape of your **[[Soul]]** defines. Different groups have different beliefs as to the giver of such names, but each knows that the discovery of this name is a rare and powerful thing. To find your Soul Name grants you power over the **Tethers** which connect it to others. However, finding a Soul Name is such a rare occurrence that each and every individual recorded as having done so is a historical or mythological legend. It is a strange inevitability that once the Soul Name surfaces in your mind you *will* become an important, powerful and influential person. What you do with that power is up to you. 
 

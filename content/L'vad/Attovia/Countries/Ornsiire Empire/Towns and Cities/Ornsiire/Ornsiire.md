@@ -4,7 +4,7 @@ draft: false
 tags: 
 date: 2025-04-07 17:00
 ---
-Ornsiire is a city of aggressive and fierce architecture, winding twisting streets get many who are unfamiliar with them lost quite quickly. At the top of the [[Great Dal Bridge]] where most travelers enter, many "tour guides" happy to take some [[Chips]] to show a group to the closest tavern congregate.
+Ornsiire is a city of aggressive and fierce architecture, winding twisting streets get many who are unfamiliar with them lost quite quickly. At the top of the [[Great Dal Bridge]] where most travelers enter, many "tour guides" happy to take some [[Clips]] to show a group to the closest tavern congregate.
 # Details
 Population: 8,000
 Governer/Leader:

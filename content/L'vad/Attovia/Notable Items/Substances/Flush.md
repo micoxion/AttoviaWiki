@@ -16,4 +16,4 @@ Flush is an incredibly powerful drug. It brings on a rush of extreme energy leve
     
     Cracked flush does not have the same withdrawal removal and the withdrawal symptoms are twice as bad, both removing twice as much of your con, hp, and lasting twice as long.
     
-    Price: ~5 [[Chips|Slivers]] per dose
+    Price: ~5 [[Clips|Slivers]] per dose

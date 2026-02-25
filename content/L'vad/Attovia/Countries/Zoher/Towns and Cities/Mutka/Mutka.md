@@ -18,7 +18,7 @@ A [[Human#Amodians|Amodian]] carpenter who does simple repair work on the shrine
 ### Old Marta
 The local [[Taivääntää]] or cloud reader as most call her. She communes with the firmament and often predicts weather and other natural occurrences with surprising accuracy.
 ### The Eskola Family
-A [[Human#Zoherians|Zoherian]] father Felnor, mother Tähti and two adult daughters who tend the largest garden in the village. The eldest daughter Eliina's complexion is mixed with subtle elements of sickly green [[Tieflings|Tiefling]] corruption. The younger by three years is Essi who's small stature accentuates her rotundity. 
+A [[Human#Zoherians|Zoherian]] father Felnor, mother Tähti and two adult daughters who tend the largest garden in the village. The eldest daughter Eliina's complexion is mixed with subtle elements of sickly green [[Katara]] corruption. The younger by three years is Essi who's small stature accentuates her rotundity. 
 ### Fabó Vilmos
 Fabó is the local master of drink. He tends a field of barley to make his famous beer. The drink he brews matches the color of his [[Human#Tzelians|Tzelian]] skin and he is often the fulcrum of town gossip.
 ### The Marke Family

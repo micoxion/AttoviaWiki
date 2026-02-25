@@ -4,7 +4,6 @@ draft: false
 tags: 
 date: 2025-07-09 14:57
 ---
-
 # Zoherian
 ### Arm/Armed
 Generally to impress excessive force
@@ -20,7 +19,7 @@ Inferring the societal use of [[Tears of Memory]], this implies that one wishes 
 > [!example]+ Examples
 > "That performance was brilliant, I'll cry it."
 > 
-> "You idiot, cry that for years now!"
+> "You idiot, I'll cry that for years now!"
 
 # Gnomish
 ### Omu

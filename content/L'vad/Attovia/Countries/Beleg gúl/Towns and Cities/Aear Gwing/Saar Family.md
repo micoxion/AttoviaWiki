@@ -1,0 +1,17 @@
+---
+title: Saar Family
+draft: false
+tags: 
+date: 2026-02-25 09:50
+---
+The Saar family is without a doubt the wealthiest family in [[Aear Gwing]] holding a multigenerational place in the city's politics along side the [[Cundur Family]]. Currently lead by [[Dominique Saar]] who is attempting to further the family investments in slightly higher risk ventures such as [[Monster Fishers]]. He has inherited, along with the family estate, the same chip on the shoulder that most of his predecessors carried for centuries before him. Their name. [[Elves|Elven]] bloodlines and their surnames are linked strongly in their society and Saar is a name effectively unknown to be connected to royal blood. Their rivals the Cundur lineage tie a close line to the [[Beleg gúl#Cundo in Ambar|Cundo in Ambar]] granting them an implicit respect and right to their placement in the upper echelon of society. So continues then the everlasting need for the Saar family to legitimize itself, prove its worth and cast a shadow over other families where possible.
+# Achievements by Genealogy
+### Dominique
+Working to make the Saar Tower a tourist attraction and a space to be used for the upper class.
+### Selcheneb
+Responsible in his later years for contracting the construction of the [[Saar Tower]], the final [[Astrostone Clock]] tower made by [[Ai Chu]] herself. 
+### Nirdir
+Known for his wise and shrewd political moves which positioned the family at the top of the proverbial food chain. Politically the Saar household will likely never be as powerful as they were during his time. Selcheneb simply lacked the proper social skills to maintain the standing and their social credit dropped quickly. 
+### Carphor
+Before Carphor the Saar Family were nobodies. The tale of his leading the family's climb to prominence has been a bit mythologized my the family over time but in short goes something like this:
+Carphor moved to Aear Gwing when he turned 300. Though many flings and romantic encounters occurred before in his life he remained single for those first three centuries. This move held two aims, to remedy his bachelor status, and to further his monetary prospects (port towns had just begun to be truly lucrative and were a bit of a gold rush at the time). It is said that he was in talks at the port with a merchant at the time to purchase stake in his trades when it happened. [[Forvenian Sarhion]], at the time the most prominent Elf in the city, had come to inspect a neighboring vessel, which he owned, when disaster struck. A myriad of versions exist, in some he was pushed by an opportunity hungry deck hand, in others a [[Reachers|Reacher]] scrambled onto the boardwalk prepared to slaughter the man. No matter the truth of the danger Carphor saved Forvenian's life. Forvenian offered a single gift in exchange for the debt of his life and Carphor asked to think on the matter. Two years later Carphor came knocking on Forvenian's door with Dawel Sarhion (Forvenian's eldest daughter) on his arm and he asked for his blessing and the hand of his daughter in marriage. Forvenian obliged knowing full well the goals of Carphor. Forvenian had no sons and the estate would go to his eldest daughter and subsequently to Carphor. From that point forward the Saar family became a relevant name that flowed from the gossiping lips of the locals.

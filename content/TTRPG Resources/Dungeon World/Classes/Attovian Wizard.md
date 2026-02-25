@@ -9,16 +9,14 @@ Your maximum HP is 4+Constitution
 Your base damage is d4
 # Starting Moves
 ### Wizard Notes
-You hold with you the fundamentals of the [[Forms]] and **[[Meyda-work]]** at all times. When you attempt to **spout lore to recall elements of Meyda-work** you get +1 so long as your notes are on your person. If the GM sees it as truly fundamental they can wave the roll entirely and treat it as if a 10 were rolled.
+You hold with you the fundamentals of the [[Forms]] and **[[Meyda-work]]** at all times. When you attempt to **spout lore to recall elements of Meyda-work** you get +1 so long as your notes are on your person. If the GM sees it as truly fundamental they can waive the roll entirely and treat it as if a 10 were rolled.
 ### **Meyda-well**
 You have a **Tether** of some kind to an entity that can provide Meyda Intercession. Work together with your GM on what this might be and write down its source on your character sheet. Alternatively you and your character do *not* know the source of your **Meyda-well** in which case add the bond: I have an unknown **Tether** to a deity or other powerful entity, I must discover who or what it is. 
-### Potency
-Your **Meyda-well** is functionally endless, however your **Soul** can only process so much Transfusion. This amount is dictated by your Potency which is a pool of points totaling 4xLevel that refreshes after restful sleep.
 ### Recorded Workings
 You have 4 **Workings** of Complexity 1 recorded in your notes at Competency 1. You also have 3 Triflings recorded at Competency 2. 
 
 ---
-Anytime you encounter a **Working** in Attovia and **attempt to record it in your notes** roll+Int. On a 10+ the **Working** is added to your notes at Competency 0. On a 7-9 you fail to grasp the complete **Working**. You record the **Working** accurately but don't *understand* it, record it at Competency -4. Draw a U next to the **Working** in question, you cannot increase its Competency until you find a secondary source of knowledge to explain it to you. On a 6 or less you fail to grasp or record the **Working** correctly, and no one else within the scenario is currently able to elucidate whatever it is you are missing. You may write down the **Working** in question but no Competency thanks to it being currently unusable.
+Anytime you encounter a **Working** in Attovia and **attempt to record it in your notes** take +1 to attempt to learn and record it.
 
 ---
 ### Transfuse
@@ -43,9 +41,9 @@ Choose one:
 - 3 antitoxins (0 weight)
 # Bonds
 Fill in the name of one NPC you know of in at least one:
-\____ is keeping an important secret from me.
-\____ can teach me something about **Meyda-work** I must know what it is!
-# **Advanced Moves**
+\_\_\_\_ is keeping an important secret from me.
+\_\_\_\_ can teach me something about **Meyda-work** I must know what it is!
+# Advanced Moves
 
 **When you gain a level from 2-5, choose from these moves. You also add a new Working to your Recorded Workings at Competency 0 each level**
 ### Researcher

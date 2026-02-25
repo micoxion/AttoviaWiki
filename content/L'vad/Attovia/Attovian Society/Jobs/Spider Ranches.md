@@ -13,7 +13,7 @@ Each end of the long Silk Barns has an inset ladder that leads to a peep hole. E
 A large vat of water is brought to a boil using a [[Meyda-circle|Heating-circle]] and the spinning rods are dipped into it until the final strands are removed. The individual strands of silk are collected and hung to dry for use in making ropes, nets, and twine.
 # History
 [[Spider Silk]] played a large part in the Zyclester Empire’s success in [[Attovia/Events/Historical/The Magic War|The Magic War]]. It has a tensile strength unrivaled by any traditional rope or twine making for both a durable cloth armor and more powerful siege weaponry. It had been theorized as a useful tool for centuries but a safe and reliable way of collection was not found until several would be Zyclestian researchers developed the current method around 2788 [[Era’s of Attovia|AoN]]. 
-To this day Zyclest attempts to keep their silk production under wraps in the case that they may use the monopoly they have on it as before. Despite this there is of course a bustling black market which pays a handsome price for the rare material. Single spools about the size of hay bales go for up to 50 [[Chips|Slivers]].
+To this day Zyclest attempts to keep their silk production under wraps in the case that they may use the monopoly they have on it as before. Despite this there is of course a bustling black market which pays a handsome price for the rare material. Single spools about the size of hay bales go for up to 50 [[Clips|Slivers]].
 
 [^1]: The process of setting a sheet into a slat is known as locking.
 [^2]: Called the counter

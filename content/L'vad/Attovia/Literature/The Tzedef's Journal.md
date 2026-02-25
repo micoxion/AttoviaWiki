@@ -16,7 +16,7 @@ date: 2025-04-19 13:50
 > 
 > **234 Age of Nations - Minui 33**
 > **Liisa Rebane**
-> A silent fury must be quelled within me every evening I return home and fail once more to draw a Circle to the accuracy required. Its [[Meyda-well]] is correct, the Forms are right and proper, and I have even tried simply using [[Chips]] in case my Fatigue prevents me in some manner. I CANNOT *WORK* IT.
+> A silent fury must be quelled within me every evening I return home and fail once more to draw a Circle to the accuracy required. Its [[Meyda-well]] is correct, the Forms are right and proper, and I have even tried simply using [[Clips]] in case my Fatigue prevents me in some manner. I CANNOT *WORK* IT.
 > 
 > **234 Age of Nations - Atya 13**
 > **Liisa Rebane**

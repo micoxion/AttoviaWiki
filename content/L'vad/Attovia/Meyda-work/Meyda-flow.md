@@ -29,7 +29,7 @@ Strike-siphon-flow describes spells in which both key disciplines are used. Most
 These spells generally are explained by teachers as spells which kick and pull. Guiding bolt's initial flash of light being the kick, and the resulting bright white target the pull.
 
 # Measure of Flow
-Measurement of **Meyda-flow** is said to have been created by [[Mordechai]] several decades before his rise to [[Olam Beyn|godhood]] some claim it may have been this very study that provided him with the breakthrough necessary to become a god. **Meyda-flow** is measured in [[Chips]] and depends on the type of flow involved. Flow measurement requires a **Meyda-circle** with a **Meyda-zone** in which chips are placed. It is for this reason that all students of **Meyda-work** are taught to never attempt a spell before it has been measured or risk becoming a [[Tzedef]] due to an overdraw of **Meyda** destroying their [[Soul]].
+Measurement of **Meyda-flow** is said to have been created by [[Mordechai]] several decades before his rise to [[Olam Beyn|godhood]] some claim it may have been this very study that provided him with the breakthrough necessary to become a god. **Meyda-flow** is measured in [[Clips]] and depends on the type of flow involved. Flow measurement requires a **Meyda-circle** with a **Meyda-zone** in which chips are placed. It is for this reason that all students of **Meyda-work** are taught to never attempt a spell before it has been measured or risk becoming a [[Tzedef]] due to an overdraw of **Meyda** destroying their [[Soul]].
 ## S-flow
 S-flow is measured by the amount of chips it consumes as a flat metric. This is referred to by teachers as the Strike Cost or SC. 
 ###### Strike Cost by Spell Level

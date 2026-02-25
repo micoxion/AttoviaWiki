@@ -86,7 +86,7 @@ Beneath that are larger sections that seek to give a broad look at Attovian hist
 If there is something you wish to know more about, suggestions, or questions in general please reach out to me via the [discord](https://discord.gg/9FvdCZmyA5).
 # 5th Edition DnD Conversions
 There are several things done a bit differently in Attovia, namely many races that exist in typical 5e settings don't here, but for most there is a stat analog that can be played or used. I have created a table of stat analogs. If you don't see a race in the list please let me know. I am quite amenable to allowing people to play what they want and can usually make it work!
-In addition Attovian currency works differently, and while there is a whole doc on [[Chips]] I will provide a conversion table below for those building characters and taking starting wealth.
+In addition Attovian currency works differently, and while there is a whole doc on [[Clips]] I will provide a conversion table below for those building characters and taking starting wealth.
 ### Racial Analogs
 What this table means mechanically is this: If a homebrew does not exist for a race, you may use the 5th edition stat blocks. In most cases I'm fine if you use my homebrew statblock or the 5th Edition stat block. All current homebrews both races and classes can be found [here](https://homebrewery.naturalcrit.com/share/GbqHqm0VKNoM) in my homebrewery document.
 
@@ -102,7 +102,7 @@ What this table means mechanically is this: If a homebrew does not exist for a r
 | Bugbear      | [[Yewdi]]                          |
 | Deep Gnome   | [[Goweh Gnome]]                    |
 ### Currency Conversion
-See the [[Chips]] doc to see how the denominations within chips convert with one another, but below is how each denomination converts to 5th Editions typical metal currencies.
+See the [[Clips]] doc to see how the denominations within chips convert with one another, but below is how each denomination converts to 5th Editions typical metal currencies.
 
 | Attovia | 5e |
 | ---- | ---- |
@@ -190,7 +190,7 @@ Not every gnome is trained in the art of baking, but all of them encounter it ta
 Use the 5e stat block for Gnomes.
 ###### Naming Convention
 Gnomish culture and language [[Liàntiáo]] is pulled primarily from the Chinese, feel free to use the randomizer tool, or build an interesting name using simple Chinese translations.
-### [[Tieflings]]
+### [[Katara]]
 Not truly its own race or ethnic group, this moniker is used for those who's original genetics are not discernable beneath the demonic corruption that instead adorns their flesh. Every horn, tail and discoloration tells a haunting story of a distant relative long dead who suffered the presence of one of [[The Hebdomad]]. Few cultures still shun those with Tiefling mutations, but for any individual who suffers it, a crisis of identity must always be summited.  
 ##### Playing a Tiefling
 If you choose to play as a Tiefling keep in mind that this means your mutations are extreme enough to overpower other notable racial features. What are you underneath the corruption? An elf, human, gnome? Or are you an orphan who has no way of knowing?
@@ -258,7 +258,7 @@ Whether you are playing 5th Edition, or my maybe someday PbtA system, your chara
 ## The **Worker** Paths
 A wizard's grand display of destructive force differs from the simple herbalists water purification in little but its complexity. Both are **Meyda-workers** instructing the strange [[Meyda|substance]] to work changes in the world around them. 
 
-Whether it is via the precision of a **[[Meyda-circle]]** or through [[Meyda Intercession]] Attovian magic cannot function without a source of power. For commonplace **Meyda-circles** this is facilitated through the consumption of [[Chips]], Attovia's primary currency. In other instances it is the [[Tethers]] formed via [[Contracts]] with entities much more powerful than one's self that provide a flow of **Meyda**.
+Whether it is via the precision of a **[[Meyda-circle]]** or through [[Meyda Intercession]] Attovian magic cannot function without a source of power. For commonplace **Meyda-circles** this is facilitated through the consumption of [[Clips]], Attovia's primary currency. In other instances it is the [[Tethers]] formed via [[Contracts]] with entities much more powerful than one's self that provide a flow of **Meyda**.
 
 For more than eight thousand years **Meyda-work** was a tool of the gods, those they inspired, and the intellectual savant. However, the past several millennia have seen many jumps in understanding, leading to the generalization of what was once mere legend. Now during the tense Time of Rest **Meyda-work** can be seen in diverse forms in even the most remote hamlets.
 ### Divinely Inspired

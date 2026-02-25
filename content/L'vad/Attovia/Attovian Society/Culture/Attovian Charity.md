@@ -1,0 +1,9 @@
+---
+title: Attovian Charity
+draft: false
+tags: 
+date: 2026-02-25 09:51
+---
+Thanks to the prevalence of the [[Church of Hormus]] throughout the major center of the continent charity work can be found nearly everywhere. [[Church of Hormus Temples|Temples]] to [[Hormus]] offer two major forms of charity: Meals and healing. For most [[Bereaved]] looking for healing a small donation of [[Clips]] or other valued goods is pseudo-required. The donation is up to the one seeking the healing but standard social practices often dictate the "acceptable" amount without nailing down any specifics. If someone is homeless, impoverished or in desperate need of healing then this service is nearly always provided for free with the encouragement of a donation in the future or the becoming of a Bereaved. When it comes to the hungry members of a community or needy travelers most Church of Hormus Temples have stores of preservable goods such as [[Tuya]] or salted meats which can be prepared quickly in watery broth. 
+
+In [[Claskarian Theocracy|Claskaria]] where the Church of Hormus is its weakest the theocratic system of government there often takes over if not a bit bumbling in its execution. The [[Divine Star]] always puts in place some kind of system to feed those in need and many [[Moon-touched]] are capable of simple [[Tiken]] **[[Meyda-work|Workings]]**. However, the logistically sparse systems put in place by the Divine Stars are rarely able to adequately care for the populace under their reign. Instead, most turn to debt or selling of personal treasures to get by. This is often cited as the greatest weakness of the Divine Star, and a popular point pressed by the propaganda produced in [[The Gilded Corner]].

@@ -11,5 +11,5 @@ There are three positions an individual can be placed into within the Mun Blades
 Initiates and newbies receive this title. It generally lasts for one or two years depending on the renown the individual acquires.
 ### [[Shekt]]
 Once your prowess is deemed worthy by your Mun Blades Den you are given a coin with the Shekt engraved upon it. This is the rank that almost all Mun Blades will remain and die within. 
-### [[Yallë]]
+### [[Yalle]]
 There can only be a single Yallë within the whole of the Mun Blades. Their position taken only through rite of combat. If a Yallë dies of natural causes or steps down, any and all Shekt may participate in a tournament to determine the new leader. The finals of said tournament are a death match, no exceptions.

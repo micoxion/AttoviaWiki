@@ -65,6 +65,8 @@ A writer of cruthmen instructions specifically for the parsing of the Craft Mind
 An accountant, or bookkeeper who specifically works with money.
 ##### Grúdaire
 A brewer of alcohol but also less commonly for those who create tinctures, potions, and balms.
+##### Chlochair
+A gifted mason.
 ###### Examples
 Master Fiadh Cruthman Liam Connor
 Fiadh: A master cruthman with a son Liam, married to Connor
