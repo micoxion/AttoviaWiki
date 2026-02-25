@@ -38,6 +38,7 @@
     "@clack/prompts": "^0.7.0",
     "@expo/spawn-async": "^1.7.2",
     "@floating-ui/dom": "^1.6.11",
+    "@myriaddreamin/rehype-typst": "^0.7.0-rc2",
     "@napi-rs/simple-git": "0.1.19",
     "@tweenjs/tween.js": "^25.0.0",
     "ansi-truncate": "^1.4.0",
