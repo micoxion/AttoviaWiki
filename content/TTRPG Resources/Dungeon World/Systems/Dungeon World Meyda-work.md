@@ -9,8 +9,24 @@ Spells in Attovia, called **Workings**, have tags that inform us about how they 
 Competency represents your confidence and consistency with a **Working**. When conducting a **Working** you will almost always roll+Competency. Competency ranges from -4 to +2 and can be increased through failure or if the GM permits through consulting an expert.
 # Potency
 Potency is a score which increases with your level as a caster. You generally have 4 Potency per level unless some other outside factors are altering it. A **Working** will have a Potency tag followed by the number of potency it costs to typically transfuse
+
+Your **Meyda-well** is functionally endless, however your **Soul** can only process so much Transfusion. This amount is dictated by your Potency which is a pool of points totaling 4xLevel that refreshes after restful sleep.
 # Complexity
 The complexity of a **Working** determines the level at which it can be learned. Any complexity rating above your level is unlearnable until it is equal to or less than your level. This is usually due to a lack in knowledge in regard to how to even record the **Working** accurately in the first place.
+# Learning a **Working**
+Below are the times required to learn **Workings** at each complexity for those not academically trained or gifted directly in the subject (i.e. have a class that speeds up the process of recording/learning **Workings**).
+
+| Complexity   | Days |
+| ------------ | ---- |
+| Trifling     | 1/5  |
+| Complexity-1 | 1    |
+| Complexity-2 | 2    |
+| Complexity-3 | 4    |
+| Complexity-4 | 6    |
+| Complexity-5 | 10   |
+Without proper training Complexity ratings higher than 5 are not learnable under normal circumstances.
+
+After you have finished **learning a Working** roll+Int: On a 10+ You mark it down at Competency 0. On a 7-9 you have memorized or recorded the **Working** accurately but don't *understand* it, record it at Competency -4. Draw a U next to the **Working** in question, you cannot increase its Competency until you find a secondary source of knowledge to explain it to you. On a 6 or less you fail to grasp or record the **Working** correctly, and no one else within the scenario is currently able to elucidate whatever it is you are missing. You may write down the **Working** in question but no Competency thanks to it being currently unusable.
 # **[[Meyda-mark|Meyda-marks]]**
 Competent **Workers** usually remember roughly 5 **Meyda-marks** efficiently. These are simple patterns used to target entities or objects of **Workings** some of which *require* **Meyda-marks**. If you wish you may keep track of currently active marks any way in which you desire, allowing you to quickly Transfuse a **Working** that requires pre-targeting for any item that you keep a unique mark on. The same mark can be used for any **Working** that has the pre-target tag and who's target makes sense to the **Working's** function.
 # Modifications
@@ -33,9 +49,8 @@ Generally within the fiction it is probably unlikely someone understands a **Wor
 - **ap** ignores armor.
 - **(Element)** spreads the material or element in question, if fire things can be set aflame, if ice could cause frostbite or freeze the top of water. It is not and does not always have to be something obvious, the **Working** Ensnare has the tag (web) and spreads web like ropes and tendrils in its area
 - **circle** only really useful as a drawn or hewn **Meyda-circle**, means you can only use this as a ritual.
-- **touch** requires that you touch the target of the **Working** whether it is an object or living being
 - **pre-target** requires that you have drawn a **Meyda-mark** on a potential target *before* the **Working** is cast, otherwise the **Working** fails or goes off as though the caster was the target. Often things that are pre-targeted only need to be so once and the **Working** in question can be recast on that item if the context has not changed in a way that would break things.
-- **touch** the **Working** targets something you touch
+- **touch** the **Working** targets something you touch, for most **Workings** which have this tag this can be optionally switched for pre-target.
 - **reach** the **Working** targets something at arm's reach or a few feet away
 - **near** the **Working** targets something 20-40 feet away.
 - **far** the **Working** targets something at shouting distance.
@@ -63,10 +78,12 @@ Using the Karev field of **Workings** you compress a portion of air in a thin sp
 A compressed wall of air 100 square feet in any rectangle formation you choose comes into existence up to 30 feet away from you. %%This spell can optionally be pre-targeted at almost any range adding an extra Potency to its initial cost and sustain for every mile away you are from the targeted area. %% The Wall of Air is like a 2 inch steel plate in what it can rebuff.
 ##### Detect **Soul** (pre-target, circle, permanent, Potency-3, far)
 When a sentient creature steps on the detection portion of the **Meyda-circle** a **Meyda-mark** of your choosing and placement glows softly no matter where it is.
-##### Explode Light (Potency-1, instantaneous, near, pre-target)
+##### Explode Light (Potency-1, near, pre-target)
 Requires a solid object be **Meyda-marked** first. When transfused the portion marked flashes a blinding white light capable of damaging vision permanently in small portions. Can discombobulate anything that usually traditional eyes for vision for a short time.
 ##### Emit Great Light (Potency-1, lifetime-10minutes, sustain-1, pre-target)
 Much like the [[#Emit Light (lifetime-10minutes, sustain-0, pre-target)|Emit Light]] Trifling but with a denser instruction set, covers a similar 150 square ft. surface area directly connected to the **Meyda-mark** on the pre-targeted object. but the light can easily be seen from a mile away in low light, or from a great distance at night. Can light a dark room up better than several torches.
+##### Divide (Potency-variable, pre-target, permanent)
+A dangerously simple **Working** which divides an object in two based upon the perceived components of its whole. A "single rock": two equal halves. A key on a key ring: The key and the ring separated. The more complex the manner of division the more Potency required, your GM will tell you how much. Things that are simple when cognate as distinct elements are not always simple to divide.
 ### Complexity 2
 ##### Anti-light Area (Potency-3, lifetime-20minutes, near)
 An Ashem **Working** that absorbs any and all light in a 10 foot radius sphere. When inside the sphere absolute *no* light exists and nothing inside can see with even magical eyes. If one looks at the Anti-light Area from outside they cannot see around or past it as all light attempting to pass through it is absorbed.
@@ -90,9 +107,19 @@ Some substances are complex enough they require a higher complexity of **Working
 ### Complexity 3
 ##### Shimmer (Potency-2, lifetime-1hour, pre-target)
 This Ashem working warps the light *around* the **Meyda-marked** object. It only effects all connected surface area of an object up to roughly 500 square feet. The effect of this can often present as a kind of invisibility if the object is left still in one place. If moved or partially eclipsed by some connected object then it confuses the eye more than anything. Wearing something that is being affected by this **Working** makes it harder for things to track you easily, add +1 armor and take +1 to anything that involves an adversaries sight. Object with exceptionally strange forms may give off unique appearances when still or moving as the light is wrapped around them.
+###### Mirror Image (touch, Potency-6, lifetime-1minute, sustain-4)
+You touch an entity and and express the image of its form just in front of it. While this effect remains the target gains +2 armor as attacks made against it have trouble finding purchase.
+### Complexity 4
+###### Air Ballista (far, Potency-10, windup, area-large, 6d6)
+Highly destructive projectile of hardened air, usually used against castle walls or other large emplacements, difficult to get off against living targets.
+### Complexity 5
+### Complexity 6
+### Complexity 7
+### Complexity 8
+### Complexity 9
+### Complexity 10
 # Glossary
 ### Fields of **Meyda-work**
-Links go to the attovia.wiki for anything published there for additional reading. Remember to watch for spoiler tags!
 ###### [[Ashem]]
 ###### [[Necromancy]]
 ###### [[Tiken]]

@@ -16,7 +16,7 @@ You have a **Tether** of some kind to an entity that can provide Meyda Intercess
 You have 4 **Workings** of Complexity 1 recorded in your notes at Competency 1. You also have 3 Triflings recorded at Competency 2. 
 
 ---
-Anytime you encounter a **Working** in Attovia and **attempt to record it in your notes** take +1 to attempt to learn and record it.
+Anytime you encounter a **Working** in Attovia and **attempt to record it in your notes** take +1 to attempt to learn and record it. %%roll+Int. On a 10+ the **Working** is added to your notes at Competency 0. On a 7-9 you fail to grasp the complete **Working**. You record the **Working** accurately but don't *understand* it, record it at Competency -4. Draw a U next to the **Working** in question, you cannot increase its Competency until you find a secondary source of knowledge to explain it to you. On a 6 or less you fail to grasp or record the **Working** correctly, and no one else within the scenario is currently able to elucidate whatever it is you are missing. You may write down the **Working** in question but no Competency thanks to it being currently unusable.%%
 
 ---
 ### Transfuse
