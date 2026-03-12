@@ -1,0 +1,7 @@
+---
+title: Chembet the Seperate
+draft: false
+tags: 
+date: 2026-03-12 10:32
+---
+Started many centuries ago when the worship of [[Hormus]] became synonymous with being a [[Bereaved]]. [[Mirja Alli]] a [[Zoherian]] woman became frustrated by this fact. There were generations of worship practices and traditions among her people and family line that were swiftly being stamped out by the [[Church of Hormus|Church of Hormus']] vast and rapid conversion of the central continent. So she, along with 20 other members of her village, uprooted themselves from their own home and hiked deep into the [[Shid'rah Mountain Range]]. In a valley there they created the [[Chembet the Seperate]]. A home of solitude and learning for what they believe is the true worship and beliefs that should be ascribed to Hormus. To this day the Chembet of the Seperate has stood the test of time, becoming a home for the otherwise refuse of the Church of Hormus. Those among the Chembet specialize in mountain wilderness survival, and a set of unarmed combat techniques that involve strong stances and throws. Many legends are told of their prowess in combat whenever challenged by would be raiders, true monsters or dangerous wildlife. But they keep to themselves extensively, allowing in a few select individuals on very rare occasions. To be allowed in is an honor, to join is to become historical.

@@ -1,0 +1,9 @@
+---
+title: Nimble-flight-suits
+draft: false
+tags: 
+date: 2026-03-12 10:40
+---
+The [[Nimble-of-the-sky]] people are mighty in their strength capable of carrying and even flying with a load equal to their weight over long distances. This makes delivery around the [[Home-of-safety-high]] relatively easy as a single courier can take a large package across the entire continent in only a week. However, what of trade between the surface of [[Shelush]] and their extremely elevated homeland? This is where the [[Wings-of-blinding-glint]] have allowed technology to fill in the gaps that their biology otherwise would find insurmountable. Nimble-flight-suits are a two layered wearable piece of **[[Meyda-leho]]** infused technology. The first is for warmth and integrating, a carapace tight suit that hugs the abdomen and wraps around each Wing-joint. Over top of the under suit is a lightweight metal frame that supports and aids the wings and has several different strap options to aid in the carry of large goods. Additionally to the augmentation of wing strength the Nimble-flight-suit's **Meyda-leho** draws in the density of the air around it helping the Nimble-of-the-sky to breath, and providing a bit more substance for wings to push against.
+
+While the boost to strength and flight by a Nimble-flight-suit is not extreme it allows for two key things: Altitude agnostic flight and easier collaborative flight when carrying much more massive loads. With these the Wings-of-blinding-glint are capable of moving huge quantities of goods to and from the Home-of-safety-high and the islands of [[The-once-north-sea]].
