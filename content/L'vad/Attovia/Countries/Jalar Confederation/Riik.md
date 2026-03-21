@@ -1,0 +1,9 @@
+---
+title: Riik
+draft: false
+tags:
+date: 2026-03-21 12:42
+---
+Riik are the governing law enforcement of the [[Jalar Confederation]]. Their hierarchy technically terminates at the [[Jalar Union]] but generally never requires such input instead functioning largely from each [[Founding States of Jalar|Founding State]] and its [[Divisions]]. Riik are highly organized being funded directly by the Jalar Union and having a correlating hiring limit based upon a given states representative ration which is in turn based upon population. This has had the unfortunate effect of steadily lowering enforcement capabilities in the two smaller states, [[Founding States of Jalar#Southern Katki|Southern Katki]] and [[Founding States of Jalar#Duzi|Duzi]] while enforcement grows in [[Founding States of Jalar#Northern Katki|Northern Katki]] and [[Founding States of Jalar#Alaptany|Alaptany]]. The end effect sees population continue to dwindle in the smaller states thanks to a decrease in safety and that migration naturally shifts to those places more heavily under the judicial thumb.
+# Methods of Enforcement
+Riik specifically refers to the system within a single city which consists of Rings run by a Patrol Master and manned by said Patrol. A Patrol Master has near plenary authority within the bounds of their city with the stipulations of stripped funding if they overstep. The [[Laws of the Union]] define well what should be punished and how so whether that be a fine, detainment or worse. Regular inspections of Rings was put forward by Duzi representatives and was passed successfully which has done much towards holding the general integrity of Patrol Masters. Corruption is still found quite often just in piece meal and more often within the individuals of the Patrol paid to turn a blind eye to some simple organized crime, or bribed off of certain technicalities.

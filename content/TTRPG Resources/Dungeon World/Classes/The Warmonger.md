@@ -36,6 +36,20 @@ Fill in the name of one of your companions in at least one:
 \_\_\_\_ has fought beside me bravely, I can trust them.
 \_\_\_\_ is already part of my web.
 # Advanced Moves
-**When you gain a level from 2-5, choose from these moves. You also add a new Working to your Recorded Workings at Competency 0 each level**
+**When you gain a level from 2-5, choose from these moves.**
 ### Fearsome Deal Broker
 When you Tug at the Threads or Forge a Contract you may use STR instead of CHA
+### I Want That
+Mark something on or owned by someone. You gain +1 any time you work to acquiring it. You can only mark one thing at a time and must wait 24 hours before you can mark a new thing. Upon acquiring the something you've marked you get +1 to whatever move is made or involves it the first time it is used.
+### Come at Me
+When you **defend by calling attention to yourself in battle** you may use STR instead of CON. 
+### Heart of a Fighter
+Choose one move from the fighter class list.
+
+---
+**When you gain a level from 6-10, choose from these moves.**
+### That *WILL* Be Mine
+*Requires I Want That*
+Both bonuses for I Want That become +2 and the bonus upon requirement can be used one additional time. You must now wait two days to change your mark, your obsession is increased.
+### Now Things are Interesting
+You have an ongiong +1 to Hack and Slash when you **go into combat outnumbered or outclassed** 

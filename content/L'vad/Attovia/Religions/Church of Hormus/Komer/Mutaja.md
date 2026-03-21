@@ -1,0 +1,7 @@
+---
+title: Mutaja
+draft: false
+tags:
+date: 2026-03-21 12:43
+---
+There are a host of distinct groups and "classes" within the clergy of the [[Church of Hormus]] referred to as [[Komer]]. The most well known are [[The Head Priest]] and the [[Sundered Priests]]. The Sundered Priests are mischaracterized in this way as their true role within the religions body varies based upon not only the part sacrificed but where they feel called and where they are needed most. One of the lesser known roles taken on by Sundered Priests and regular [[Bereaved]] is that of Mutaja or "Rememberer". Mutaja are caretakers of libraries within [[The Body of Hormus]] or other [[Church of Hormus Temples]] but this is only where the responsibilities of the Mutaja begin. The position of Mutaja was put in place by [[Record of Head Priests#The Second Head Priest|The Second Head Priest]] [[Mauri Heikkila]] especially as a kind of aid or assistant to future Sundered Priests or scholarly inclined Bereaved. It is their goal to have a large basis of fundamental information and the ability to direct those inclined in learning more towards the proper literature or resources. Remarkably this role has remained quite impartial when it comes to actual spiritual guidance or correction leaving a mixed sentiment of those who come to the Mutaja of both respect and disappointment. Mutaja are so useful that even the [[Torn Order]] in all its esoteric knowledge and secrecy utilize their encyclopedic like minds when their own libraries and memory fails them.

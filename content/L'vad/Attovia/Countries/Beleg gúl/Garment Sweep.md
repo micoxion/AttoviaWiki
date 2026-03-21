@@ -1,0 +1,7 @@
+---
+title: Garment Sweep
+draft: false
+tags:
+date: 2026-03-21 12:41
+---
+Many [[Elves|Elven]] generations ago this practice found its origins in the act of Elves of noble blood lines disrobing to the waist upon entering the house of another noble to display no spots or signs of [[Katara]] corruption. Though this might seem embarrassing it should be impressed that nothing could be more shameful than a corrupting effect of a Katara blemish on pure Elven flesh and most nobles were more than happy to confirm their legitimacy in this manner. This became such a common ritual that high class clothing began to incorporate a set of "master clasps" around the shoulders which could be undone and immediately drop all clothing from the top half of the body and then be easily redone with minimal awkwardness. Over time this shifted to a set of basic flaps on the front and back that could be opened and closed quite easily. Finally though the flaps have stayed what is underneath has been replaced by additional cloth of the same cut and though still used the flaps are swung outward upon noble's entering another's house as a sign of respect only barely connected to its strange and problematic origins. Almost all noble Elven fashion incorporates these flaps known as the sweepers in the case that a noble might ever need to perform a Garment Sweep. In the case that a noble Elf feels it should be necessary and does not have sweepers on their clothing they will often simply mime the act of opening the flap on the front for the sake of propriety.
