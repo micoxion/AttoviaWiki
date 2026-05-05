@@ -5,6 +5,16 @@ tags:
 date: 2026-03-13 14:34
 ---
 Here you can find a history of each world builder's introduction/blurb who has been interviewed. The top entry in this document is the last/current Forge Master to come up with community questions for.
+
+> [!danger]+ NYÜX - Episode 2
+> My name is Nyux / Nyüx, either is fine and I use any variation of they/he/it pronouns. 
+> 
+> The world of Seruta 
+> 
+> And the many self-isolated factions that it was divided in over the span of thousands to hundreds of years. The magic of Seruta is based off arcane crystals and using the elements to create spells. The planet contains two competing intelligent species, the lyteans and the humans. Lyteans are evolved versions of humans with unique powers and "species". The first lyteans, also know as the " pure species" were created by the few remaining elder gods, after the majority were killed off in a war between them. The focus of the story is within the faction of Xandra, which is one of the most technologically advanced factions. Everything within it is powered by heating arcane crystals, with the vapor that comes off them. The faction is divided into three groups, the oppressive Government, The human resistance Aero and the countless Gangs fighting against them. 
+> 
+> I never explicitly got started on world building, I've just always had an overtly vivid imagination and have been lost in worlds of my own since I can remember. I didn't actually start working on any of my current worlds until about 2020, with me writing about them for the first time a couple of years after that.
+
 > [!danger]+ Jimmy Silverham (Alden) - Episode 1
 > Hi folks. My name is Alden (he/him) and I'm the lorekeeper and main worldbuilder of the Realm of Theorutis, my own D&D campaign setting written as a labor of love, paying homage to some of the greats like Middle Earth, Tamriel and Exandria. I've been writing this world for about 10 years, ever since I was in high school at about 16 years old.
 >

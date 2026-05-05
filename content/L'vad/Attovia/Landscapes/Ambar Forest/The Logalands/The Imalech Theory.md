@@ -1,0 +1,9 @@
+---
+title: The Imalech Theory
+draft: false
+tags:
+date: 2026-05-04 13:54
+---
+[[The Logalands]] having remained in its current state for so many centuries holds an odd mystery for most [[Elves]] and researchers in general. No mythology of the Elven bloodlines have constructed reasons for the place to exist, it is simply there in all its strange and twisting truth. However, just like all mysteries the sentient mind seeks answers and pulls often from the similarly cryptic. The [[Imalech#Elves|Elven Interpretation]] of the [[Imalech|Imalech's]] existence supplies a previous purpose but no other deep descriptors, instead treating the ancient creatures as a footstool for the [[Beleg gúl#Cundo in Ambar|Cundo in Ambar]] right to rule. Perhaps, think many, the places of [[Old Workings]] such as the [[Western Wastes]] and especially the Logalands are the only true resting grounds of the long degraded Imalech. Something about the immense potency of their **[[Soul|Souls]]** could have left behind an extreme form of [[Soul#**Soul** Memory|Soul Memory]] which continues to warp and change the land to this very day. What else might cause the very ground to warp and move other than a creature so colossal it practically was a piece of the continent? It would have been perceived as a moving mountain, and apparently worshiped as the land itself if common interpretations of ancient carvings are to be trusted.
+
+The idea has sparked additional searches into the Logalands and Western Wastes such as [[Tabitha Brentwood|Tabitha Brentwood's]] [[A survey of the Logalands|survey of the Logalands]], but so far, despite such expenditures and documentation mysteries remain just that.
