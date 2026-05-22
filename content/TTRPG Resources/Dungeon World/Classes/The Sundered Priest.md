@@ -15,7 +15,7 @@ Whenever you **sacrifice something for the well being of others or your spiritua
 ...if it is a sacrifice of your physical body roll+CON
 ...if it is a sacrifice of worldly possessions roll+CHA
 ...if it is a sacrifice of ego or self roll+WIS
-On a 10+ you receive a blessing from Hormus himself take +1 ongoing in the stat used for the roll until
+On a 10+ you receive a blessing from Hormus himself take +1 ongoing in the stat used for the roll until the following dawn.
 ##### Notes
 This sacrifice and boon is a heavy cost benefit analysis for you as the player and for the GM. Things that likely don't count as a worthy sacrifice:
 - Handing an orphan a few [[Clips]]
@@ -146,7 +146,7 @@ See the starter **Workings** list in the Meyda-work rules.
 ###### Depict Tethers (touch, Potency-1)
 Visualize the **[[Tethers]]** which are connected to an individual's **[[Soul]]**. These appear as thin blue lines which appear from inside the head of the target and travel towards and terminate at any other **Souls** or [[False Soul|False Souls]] which they have a **[[Contracts|Contract]]** with. This is a common way by which the Church of Hormus examines suspects to detect strange **Tethers** that might be connected to corrupt entities.
 ###### Gentle Mend (touch, Potency-2)
-You may heal small cuts, bruises and fractures so long as you know where they are with certainty and can draw a small circle around them. The target of this **Working** heals for 1d4 health. This **Working** *cannot* be pre-targeted as the injury(s) being healed must be seen or felt by the **Meyda-worker**.
+You may heal small cuts, bruises and fractures so long as you know where they are with certainty and can draw a small circle around them. The target of this **Working** heals for 4 damage. This **Working** *cannot* be pre-targeted as the injury(s) being healed must be seen or felt by the **Meyda-worker**.
 ###### Melt Stone (touch, Potency-1, permanent)
 Targets a circular area of rock or stone roughly 5 feet in diameter. Upon completing the **Working** the stone in question becomes nearly liquid, turning into a soft mod. Walls fall in heaps and areas of the ground turn into annoying terrain to traverse.
 ### Complexity 2

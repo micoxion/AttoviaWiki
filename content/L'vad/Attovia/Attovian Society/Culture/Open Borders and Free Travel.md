@@ -1,0 +1,11 @@
+---
+title: Open Borders and Free Travel
+draft: false
+tags:
+date: 2026-05-22 16:34
+---
+Roughly a century after the [[Eras of Attovia#Age of Nations|Age of Nations]] began post [[The Meyda War|Meyda War]] the nations of [[Zoher]], the [[Kingdom of Helva]], the [[Ornsiire Empire]], [[Claskarian Theocracy|Claskaria]], the [[Shen Dynasty]], the [[Jalar Confederation]] and the [[Zyclester Empire]] all entered into an Open Borders policy and allowed for free passage between all major borders as a show of good will and faith in the new era. This opened the door for a number of lucrative and beneficial trade agreements among the nations for hundreds of years, even the [[Central Nations League of Trade]] deal would likely never have happened without this lax security. 
+
+Generally this has made life at *least* marginally better for most folk as economies improved practically continent wide. Everyone steadily acquired access to new and interesting goods that were once impossible to find. The [[Silver Swords]] and [[Mun Blades]] were suddenly much more capable of aiding more people in more places, and their employees could easily travel to different cities or locations when jobs dried up in their regular haunts. [[Peddling Merchant|Peddling Merchants]], [[Minstrel Worker|Minstrel Workers]] and [[Hora]] groups could now visit more towns in a single year bringing their services, products and experiences to thousands more than before. Some think this change may have more to do with the general spread of knowledge regarding **[[Meyda-work]]** than the [[Flame Printer]] itself. At the very least the two combined made for the passage and transmission of knowledge at an exponential rate when looking back only a generation or so.
+
+In the modern tension these open borders are now tenuous and for the first time in three centuries the Ornsiire Empire has begun security checks and [[The Head Priest]] has called back all available [[Sundered Priests]] to work, patrol and man the borders in the case of incursion, espionage or worst of all: war.
