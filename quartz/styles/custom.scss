@@ -1,5 +1,19 @@
 @use "./base.scss";
 
+@font-face {
+    font-family: 'Geist Mono';
+    src: url("https://fonts.googleapis.com/css2?family=Geist+Mono:ital,wght@0,100..900;1,100..900&display=swap");
+}
+
+:root {
+    --alone-light: #1e2435;
+    --alone-secondary: #9db79b;
+    --alone-tertiary: #9be9ac;
+    --alone-lightgray: #5e6d73;
+    --alone-gray: #3d4c52;
+    --alone-highlight: #374b44;
+}
+
 // put your custom CSS here!
 article img {
     -webkit-user-drag: none;
@@ -19,4 +33,39 @@ article p strong {
 
 article p strong a {
     color: #db2e21 !important;
+}
+
+/* alone colors */
+body[data-slug^="L\'vad/Alone"] {
+    background-color: var(--alone-light);
+}
+
+body[data-slug^="L\'vad/Alone"] a, body[data-slug^="L\'vad/Alone"] .folder-container div>a, body[data-slug^="L\'vad/Alone"] .folder-icon {
+    color: var(--alone-secondary);
+}
+
+body[data-slug^="L\'vad/Alone"] .folder-icon:hover, body[data-slug^="L\'vad/Alone"] .explorer-content ul li>a.active {
+    color: var(--alone-tertiary);
+}
+
+body[data-slug^="L\'vad/Alone"] .search>.search-button, body[data-slug^="L\'vad/Alone"] hr {
+    border: var(--alone-lightgray);
+    background-color: var(--alone-lightgray);
+}
+
+body[data-slug^="L\'vad/Alone"] .search>.search-button>p {
+    color: var(--alone-gray)
+}
+
+body[data-slug^="L\'vad/Alone"] .graph>.graph-outer {
+    border: 1px solid var(--alone-lightgray)
+}
+
+body[data-slug^="L\'vad/Alone"] a.internal.tag-link, body[data-slug^="L\'vad/Alone"] a.internal {
+    background-color: var(--alone-highlight);
+}
+
+/* alone fonts */
+body[data-slug^="L\'vad/Alone"] p, body[data-slug^="L\'vad/Alone"] h1, body[data-slug^="L\'vad/Alone"] h2, body[data-slug^="L\'vad/Alone"] h3, body[data-slug^="L\'vad/Alone"] h4, body[data-slug^="L\'vad/Alone"] h5, body[data-slug^="L\'vad/Alone"] h6, body[data-slug^="L\'vad/Alone"] a {
+    font-family: "Geist Mono", monospace;
 }
