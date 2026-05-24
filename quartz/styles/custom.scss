@@ -5,6 +5,16 @@
     src: url("https://fonts.googleapis.com/css2?family=Geist+Mono:ital,wght@0,100..900;1,100..900&display=swap");
 }
 
+@font-face {
+    font-family: 'Jura';
+    src: url("../static/Jura-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: 'EagleLake-Regular';
+    src: url("../static/EagleLake-Regular.ttf");
+}
+
 :root {
     --alone-light: #1e2435;
     --alone-secondary: #9db79b;
@@ -12,6 +22,13 @@
     --alone-lightgray: #5e6d73;
     --alone-gray: #3d4c52;
     --alone-highlight: #374b44;
+
+    --shelush-light: #1b0200;
+    --shelush-secondary: #8d5979;
+    --shelush-tertiary: #916196;
+    --shelush-lightgray: #773430;
+    --shelush-gray: #49211e;
+    --shelush-highlight: #80aac2;
 }
 
 // put your custom CSS here!
@@ -35,37 +52,107 @@ article p strong a {
     color: #db2e21 !important;
 }
 
-/* alone colors */
+
 body[data-slug^="L\'vad/Alone"] {
+    /* alone colors */
     background-color: var(--alone-light);
+
+    a, .folder-container div>a, .folder-icon {
+        color: var(--alone-secondary);
+    }
+
+    .folder-icon:hover, .explorer-content ul li>a.active {
+        color: var(--alone-tertiary)
+    }
+
+    .search>.search-button, hr {
+        border: var(--alone-lightgray);
+        background-color: var(--alone-lightgray);
+    }
+
+    .search>.search-button>p {
+        color: var(--alone-gray)
+    }
+
+    .graph>.graph-outer {
+        border: 1px solid var(--alone-lightgray)
+    }
+
+    a.internal.tag-link, a.internal {
+        background-color: var(--alone-highlight);
+    }
+
+    /* alone fonts */
+    a, p, h1, h2, h3, h4, h5, h6 {
+        font-family: "Geist Mono", monospace;
+    }
 }
 
-body[data-slug^="L\'vad/Alone"] a, body[data-slug^="L\'vad/Alone"] .folder-container div>a, body[data-slug^="L\'vad/Alone"] .folder-icon {
-    color: var(--alone-secondary);
+body[data-slug^="L\'vad/Pafsitos"] {
+    /* Pafsitos colors */
+    background-color: black;
+
+    a, .folder-container div>a, .folder-icon {
+        color: white;
+    }
+
+    .folder-icon:hover, .explorer-content ul li>a.active, a:hover {
+        color: white;
+        text-shadow: 0 0 10px white, 0 0 20px white;
+    }
+
+    .search>.search-button, hr {
+        border: 1px solid #d4d4d4;
+        background-color: black;
+    }
+
+    .search>.search-button>p {
+        color: white;
+    }
+
+    a.internal.tag-link, a.internal {
+        color: white;
+        //text-shadow: 0 0 10px white, 0 0 20px white;
+        background: none;
+    }
+
+    a, p, h1, h2, h3, h4, h5, h6 {
+        font-family: "Jura", serif;
+    }
 }
 
-body[data-slug^="L\'vad/Alone"] .folder-icon:hover, body[data-slug^="L\'vad/Alone"] .explorer-content ul li>a.active {
-    color: var(--alone-tertiary);
-}
+body[data-slug  ^="L\'vad/Shelush"] {
+    /* Shelush colors */
+    background-color: var(--shelush-light);
 
-body[data-slug^="L\'vad/Alone"] .search>.search-button, body[data-slug^="L\'vad/Alone"] hr {
-    border: var(--alone-lightgray);
-    background-color: var(--alone-lightgray);
-}
+    a, .folder-container div>a, .folder-icon {
+        color: var(--shelush-secondary);
+    }
 
-body[data-slug^="L\'vad/Alone"] .search>.search-button>p {
-    color: var(--alone-gray)
-}
+    .folder-icon:hover, .explorer-content ul li>a.active {
+        color: var(--shelush-tertiary)
+    }
 
-body[data-slug^="L\'vad/Alone"] .graph>.graph-outer {
-    border: 1px solid var(--alone-lightgray)
-}
+    .search>.search-button, hr {
+        border: var(--shelush-lightgray);
+        background-color: var(--shelush-lightgray);
+    }
 
-body[data-slug^="L\'vad/Alone"] a.internal.tag-link, body[data-slug^="L\'vad/Alone"] a.internal {
-    background-color: var(--alone-highlight);
-}
+    .search>.search-button>p {
+        color: var(--shelush-gray)
+    }
 
-/* alone fonts */
-body[data-slug^="L\'vad/Alone"] p, body[data-slug^="L\'vad/Alone"] h1, body[data-slug^="L\'vad/Alone"] h2, body[data-slug^="L\'vad/Alone"] h3, body[data-slug^="L\'vad/Alone"] h4, body[data-slug^="L\'vad/Alone"] h5, body[data-slug^="L\'vad/Alone"] h6, body[data-slug^="L\'vad/Alone"] a {
-    font-family: "Geist Mono", monospace;
+    .graph>.graph-outer {
+        border: 1px solid var(--shelush-lightgray)
+    }
+
+    a.internal.tag-link, a.internal {
+        background-color: var(--shelush-highlight);
+    }
+
+    /* Shelush font */
+    a, p, h1, h2, h3, h4, h5, h6 {
+        font-family: "EagleLake-Regular", serif;
+        font-style: normal;
+    }
 }
