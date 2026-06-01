@@ -109,6 +109,8 @@ Some substances are complex enough they require a higher complexity of **Working
 This Ashem working warps the light *around* the **Meyda-marked** object. It only effects all connected surface area of an object up to roughly 500 square feet. The effect of this can often present as a kind of invisibility if the object is left still in one place. If moved or partially eclipsed by some connected object then it confuses the eye more than anything. Wearing something that is being affected by this **Working** makes it harder for things to track you easily, add +1 armor and take +1 to anything that involves an adversaries sight. Object with exceptionally strange forms may give off unique appearances when still or moving as the light is wrapped around them.
 ###### Mirror Image (touch, Potency-6, lifetime-1minute, sustain-4)
 You touch an entity and and express the image of its form just in front of it. While this effect remains the target gains +2 armor as attacks made against it have trouble finding purchase.
+###### Protection Sphere (Potency-4, lifetime-10minute, pre-target, sustain-3)
+A "bubble" of compressed air surrounds an area roughly 20 feet in diameter that protects from missile attacks and also rebuffs anyone's less than powerful attempt to enter or leave.
 ### Complexity 4
 ###### Air Ballista (far, Potency-10, windup, area-large, 6d6)
 Highly destructive projectile of hardened air, usually used against castle walls or other large emplacements, difficult to get off against living targets.
@@ -120,9 +122,10 @@ Highly destructive projectile of hardened air, usually used against castle walls
 ### Complexity 10
 # Glossary
 ### Fields of **Meyda-work**
+Links go to the attovia.wiki for anything published there for additional reading. Remember to watch for spoiler tags!
 ###### [[Ashem]]
 ###### [[Necromancy]]
-###### [[Tiken]]
-###### [[Chomkar]]
-###### [[Leshnot]]
-###### [[Meyvir]]
+###### Tiken
+###### Chomkar
+###### Leshnot
+###### Meyvir

@@ -1,0 +1,15 @@
+---
+title: Yatcun
+draft: false
+tags:
+date: 2026-05-31 17:24
+---
+Marriage and partnering for life is not common among the [[Semari]], however in some ways it is *more* profound than in other cultures thanks to its rarity. A mating pair of Semari who wish perform Yatcun must first be evaluated by the [[Fikcan]] in a ceremony known as "[[#Yatcun Heqiqet]]". Once paired for life the Semari couple may only copulate with one another, and often enforce a minimum distance between their physical bodies. This is meant to display to the Fikcan the depth of the commitment and the truth of the vow made between the two parties.
+
+Yatcun is not an act to be considered lightly. Its intention is to reflect the [[Boyukdas]] who are believed to have enhanced their perception of the [[Balacan]] and the will of the Fikcan through a relationship which mirrors that of [[Aysu]] and the Fikcan which in turn beget the very [[Krest]]. Those within the Yatcun are not allowed to be Gücmuri or Müjdeci both of which might distract from the fulfillment and focus required by Yatcun. They can however perform [[Semari#Izaden|Izaden]] and are encouraged to do so it being believed they have better sight for the Balacan than other, non-Yatcun Semari.
+# Yatcun Heqiqet
+Yatcun Heqiqet begins with both parties to the Yatcun bathing in the closest clean body of water. They must spend an entire day in the clear waters scrubbing their feathers and removing from them the [[Yazil]] green dye they earned when they came of age. This act represents a kind of rebirth and the embracing of a new direction of growth in life. Yatcun individuals dye their feathers again when they perform an act known as [[#Boyukdas Qosun]] which could take many decades to be possible; some Yatcun never get to perform Boyukdas Qosun, especially those near the eastern border of the [[Western Wastes]].
+
+A large gathering of Balacan images similar to that of an Izaden ritual is gathered around the duo before the current Gücmuri grants them the proper blessings. The two Yatcun-to-be now sit and meditate for a full 10 Praks. At the end of their meditation each should see the world anew. It is described by some Yatcun as though the world now teems with life in every crevice and it cannot be mistaken. If each sees the world anew they are Yatcun and begin a new life as Life Mates.
+# Boyukdas Qosun
+One of the primary aims of the Yatcun bond is to eventually have it tested by the Boyukdas themselves. The Boyukdas Qosun is a ritualistic dance that is to be performed before a Life Mate pair of Boyukdas upon their approval of the Yatcun. In so doing a **[[Contracts|Contract]]** forms between the two pairs and an understanding of the Fikcan deeper than can be described takes hold in the **[[Soul|Souls]]** of the Yatcun. The few tribes who have Yatcun with such a **[[Tethers|Tether]]** are said to be blessed with an immense gathering of Balacan, the kind which Aysu himself might have envied.
