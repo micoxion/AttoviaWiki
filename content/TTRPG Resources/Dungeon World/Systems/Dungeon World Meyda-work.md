@@ -54,6 +54,8 @@ Generally within the fiction it is probably unlikely someone understands a **Wor
 - **reach** the **Working** targets something at arm's reach or a few feet away
 - **near** the **Working** targets something 20-40 feet away.
 - **far** the **Working** targets something at shouting distance.
+- **forbidden** the **Working** cannot be learned without discovering the knowledge yourself as it is not contained in any mundane book or mind.
+- **inspired** the **Working** cannot be learned without a holy book and usually a member of the relevant church. These **Workings** are free to take on level up if you are part of the religion in question or have a **Tether** to the relevant deity.
 # Starter **Workings** List
 ### Complexity 0 (Triflings)
 These **Workings** are so simple and fundamental that they do not tax the **Soul**. 
@@ -76,6 +78,8 @@ Ten cubic feet of water appear in a sphere shape where designated by the caster 
 Using the Karev field of **Workings** you compress a portion of air in a thin spear like shape which then surges forward following your eyeline as you target it through a hole in your hand(s). It is barely visible as a shimmer in the air, but is as solid as a hunk of iron and can pierce flesh and wood. It fully dissipates after it strikes its target. 
 ##### Wall of Air (lifetime-5min, sustain-1, Potency-2, near)
 A compressed wall of air 100 square feet in any rectangle formation you choose comes into existence up to 30 feet away from you. %%This spell can optionally be pre-targeted at almost any range adding an extra Potency to its initial cost and sustain for every mile away you are from the targeted area. %% The Wall of Air is like a 2 inch steel plate in what it can rebuff.
+%%##### Coalesce Acid (Potency-1, permanent, Acid, touch)
+This Leshnot **Working** involves pulling fluid from the air and turning it acidic. Coalesce Acid is a simple version of much more complex iterations which can be built upon as one's skill grows. This acid is enough to eat through thin layers of metal and would require extended skin contact to do more than leave a slight irritant. However if concentrated at least 5 times with this **Working** the resulting mixture though only about a vial full can punch through thick metal or stone walls, and would leave anyone it was splashed on with a bad rash (1d6 damage, armor piercing)%%
 ##### Detect **Soul** (pre-target, circle, permanent, Potency-3, far)
 When a sentient creature steps on the detection portion of the **Meyda-circle** a **Meyda-mark** of your choosing and placement glows softly no matter where it is.
 ##### Explode Light (Potency-1, near, pre-target)
@@ -107,19 +111,61 @@ Some substances are complex enough they require a higher complexity of **Working
 ### Complexity 3
 ##### Shimmer (Potency-2, lifetime-1hour, pre-target)
 This Ashem working warps the light *around* the **Meyda-marked** object. It only effects all connected surface area of an object up to roughly 500 square feet. The effect of this can often present as a kind of invisibility if the object is left still in one place. If moved or partially eclipsed by some connected object then it confuses the eye more than anything. Wearing something that is being affected by this **Working** makes it harder for things to track you easily, add +1 armor and take +1 to anything that involves an adversaries sight. Object with exceptionally strange forms may give off unique appearances when still or moving as the light is wrapped around them.
-###### Mirror Image (touch, Potency-6, lifetime-1minute, sustain-4)
+##### Mirror Image (touch, Potency-6, lifetime-1minute, sustain-4)
 You touch an entity and and express the image of its form just in front of it. While this effect remains the target gains +2 armor as attacks made against it have trouble finding purchase.
-###### Protection Sphere (Potency-4, lifetime-10minute, pre-target, sustain-3)
+##### Protection Sphere (Potency-4, lifetime-10minute, pre-target, sustain-3)
 A "bubble" of compressed air surrounds an area roughly 20 feet in diameter that protects from missile attacks and also rebuffs anyone's less than powerful attempt to enter or leave.
+##### Exploding Flame (Potency-5, near, fire)
+A cone of flame erupts from your hands burning the air roughly 10 feet in front of you. It sets anything flammable alight very quickly and deals 2d4 damage to all caught in its blast.
 ### Complexity 4
-###### Air Ballista (far, Potency-10, windup, area-large, 6d6)
+##### Air Ballista (far, Potency-10, windup, area-large, 6d6)
 Highly destructive projectile of hardened air, usually used against castle walls or other large emplacements, difficult to get off against living targets.
+##### Disperse **Meyda** (near, Potency-8, area-large)
+Expel all **Meyda** from a wide area for several seconds. This at least temporarily forces all **Workings** around you to cease their function at *least* until the **Meyda** returns.
+##### Enfeeble (touch, Potency-X, permanent, inspired)
+An Anti-Tiken **Working** used by [[Sundered Priests]] to bring about a sickly nature or general weakness to a target. You may reduce the target's HP to half its maximum, spending 1 potency per HP reduced. You may spend an additional 3 potency to debilitate the creature further reducing its armor by 1.
+##### Consume Light (near, Potency-5, area-small)
+An Ashem **Working** that is described as "Eating" light. A 20 foot diameter sphere of the complete absence of light appears where you point. It appears as a very strange pure black void as all light entering the area ceases to exist.
+##### Icy Grip (touch, Potency-4, area-small, frost, 2d6)
+A Chomkar **Working** which spreads substantial frost over the area connected to whatever you touch by the extension of a reduction in heat. This is enough to freeze portions of the top of a lake or slow moving river, turn a large tub of water solid, and give anyone frostbite if prolonged in their exposure.
 ### Complexity 5
+##### Far Eye (Potency-8, near, lifetime-1hour, sustain-4)
+A remarkable [[Meyvir]] **Working** which allows one to transfer the light from a point in space directly into their own brain for processing. Getting used to this however, is a steady road and the information gathered depends on your Competency with the **Working**.
+
+| Competency | Usability                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
+| -4         | Detect changes in brightness, requires intense concentration and shutting your physical eyes.                           |
+| -2         | See movement, still requires closing your own eyes.                                                                     |
+| 0          | You may passively watch from the Far Eye's position with minimal concentration. Images however are blurry.              |
+| +2         | As if you have a third disembodied eye the Far Eye is a natural way to view the world for you at all times when active. |
+##### Firmament Armor (Potency-6, touch, lifetime-1minute, sustain-4)
+A Meyvir-Leshnot **Working** that requires a **Contract** with the target to function. Surrounds the target's form with a layer of almost solid air giving them +2 armor for the duration.
+##### Calming Presence (Potency-5, lifetime-1hour, inspired)
+A Tiken **Working** of the Sundered Priests which has a calming effect on people the conductor of the **Working** interacts with in a large circle around them. This is strong enough that it is advised to be used sparingly by priests. Antagonistic individuals can be temped to the point of amenability and strangers become fast friends. The effect wears off immediately after they leave your area but the realization of what happened may come much later.
 ### Complexity 6
+##### Inflict Disease (Potency-12, touch, inspired, **forbidden**)
+Technically a Tiken **Working** but quite the opposite to most people are aware of. It practically nukes the touched entities immune system leaving them feeling drained and extremely vulnerable to disease. The second half of the **Working** speeds up the natural processes of the body to explode any bacteria or viral populations. While varied the effect is almost always immediate severe illness, though rarely fatal with proper care.
 ### Complexity 7
+###### **Meyda-thrall** (Potency-25x3, touch, windup, permanent)
+This [[Necromancy#Profane Necromancy|Profane Necromancy]] **Working** allows you to encode a simple set of instructions into a humanoid form. This could be the corpse of a once living individual, a suit of armor, a skeleton, a jointed training dummy etc. so long as it is familiar enough to your own biology. You must have a [[Minor Stone]] or [[God Stone]] in which you encode your instructions which is placed, typically in the head, of the soon-to-be **Meyda-thrall**. The process of encoding the instructions takes at *least* 3 days or more at the GMs discretion based upon the complexity of the instructions you wish to give. Each day spent on this process costs you 25 Potency and at minimum 4 hours. The **Meyda-thrall** typically receives the following stats.
+4 HP
+4 Armor
+1d6 Damage
+
+Here are some example instruction sets:
+"I want the suit of armor to defend the door to my house. If 3 or less individuals attempt to enter he will fight them. If more then he attempts to light the pyre on the roof."
+"The skeleton should follow me and attack anything I give the following gesture to."
 ### Complexity 8
+###### Encode **Soul** (Potency-15, pre-target, windup, **forbidden**)
+A True Necromancy **Working** which allows the **Worker** to send themselves, body and mind, into a [[Luumara]] or [[Luumakheder]]. They require a **Contract** with the target and a **Tether** to the target destination.
 ### Complexity 9
 ### Complexity 10
+##### **Soul** Ripper (Potency-35, area, pre-target, windup, **forbidden**)
+A [[Necromancy#True Necromancy|True Necromancy]] **Working** that is extremely taxing on the conductor.  You create a 10-15 foot radius shell of high condensed **Meyda**. Any **Soul** which passes the threshold either way is torn asunder nearly instantly leaving the individual a mindless husk, functionally removed from existence. Use with *great* caution.
+##### Banishment (Potency-23, pre-target, **forbidden**)
+You imbue another's **Soul** whom you can see with a Forced Contract of Focus. You may then send it, and its body if it is inside it, to any [[Luumara]] or [[Luumakheder]] you hold a **Tether** to. Technically this name is a misnomer that has stuck and it functions both directions, meaning so long as you maintain the Forced Contract of Focus you may send the individual in and out of Luumara at will. This does take extensive concertation and Potency however. It can be circumnavigated by building a proper **Tether** to the individual that allows this kind of activity, but such deals can be hard to make.
+##### Awaken (Potency-30x15, touch, **forbidden**)
+Requires a creature which has a mind but not a **Soul**. You spend 15 days effectively splitting off a portion of your **Soul** and conjoining it to the mind of the target. You must build in the structure of an [[Ogen]] and its connection to the **Soul** and in the end whether or not the creature becomes sapient and capable of complex thought and speech is ultimately up to *something else*. Hopefully you are in its good graces.
 # Glossary
 ### Fields of **Meyda-work**
 Links go to the attovia.wiki for anything published there for additional reading. Remember to watch for spoiler tags!
@@ -127,5 +173,5 @@ Links go to the attovia.wiki for anything published there for additional reading
 ###### [[Necromancy]]
 ###### Tiken
 ###### Chomkar
-###### Leshnot
+###### [[Leshnot]]
 ###### Meyvir
