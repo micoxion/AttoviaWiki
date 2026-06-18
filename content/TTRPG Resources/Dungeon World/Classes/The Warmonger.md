@@ -5,7 +5,7 @@ tags:
   - incomplete
 date: 2026-02-26 15:37
 ---
-The Warmonger does not yearn for war they instead see its inevitability. When the storm clouds break over the horizon you take the Sika indoors, ensure all children and old folk are accounted for, before you face the weathers wrath. So too does a Warmonger prepare. You seek connections everywhere, favorable or otherwise, if it is aid or allyship it is useful to you. Power does not come from raw might, or knives between shoulder blades. Power comes from the web you weave across the continent. 
+The Warmonger does not yearn for war they instead see its inevitability. When the storm clouds break over the horizon you take the [[Sika]] indoors and ensure all children and old folk are accounted for before you face the weathers wrath. So too does a Warmonger prepare. You seek connections everywhere, favorable or otherwise, if it is aid or allyship it is useful to you. Power does not come from raw might, or knives between shoulder blades. Power comes from the web you weave across the continent. 
 # Stats
 Your maximum HP is 10+Constitution
 Your base damage is d10
@@ -45,6 +45,8 @@ Mark something on or owned by someone. You gain +1 any time you work to acquirin
 When you **defend by calling attention to yourself in battle** you may use STR instead of CON. 
 ### Heart of a Fighter
 Choose one move from the fighter class list.
+### Feel the Vibrations
+Whenever you utilize [[#Foresight]] you gain the additional benefit of pulling at the knowledge of one of your threads. The GM determines how exactly this happens and what it looks like, but it *will* be pertinent to your current mission. It will often come with a stipulation or request for exchange, you do not have to accept.
 
 ---
 **When you gain a level from 6-10, choose from these moves.**
@@ -53,3 +55,9 @@ Choose one move from the fighter class list.
 Both bonuses for I Want That become +2 and the bonus upon requirement can be used one additional time. You must now wait two days to change your mark, your obsession is increased.
 ### Now Things are Interesting
 You have an ongiong +1 to Hack and Slash when you **go into combat outnumbered or outclassed** 
+### Impenetrable
+When you take the Oiled and Polished benefit of [[#Foresight]] gain +2 Armor.
+### Master Weaver
+Whenever you [[#Tug at the Threads]] take +1
+### Friends in Low Places
+Whenever you use the "I know a guy" benefit of [[#Foresight]] you may receive a single item that you do not currently own. The better the item, the more in debt you are likely to be.
