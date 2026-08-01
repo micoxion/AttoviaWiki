@@ -47,6 +47,8 @@ When you **defend by calling attention to yourself in battle** you may use STR i
 Choose one move from the fighter class list.
 ### Feel the Vibrations
 Whenever you utilize [[#Foresight]] you gain the additional benefit of pulling at the knowledge of one of your threads. The GM determines how exactly this happens and what it looks like, but it *will* be pertinent to your current mission. It will often come with a stipulation or request for exchange, you do not have to accept.
+### I'll Take What I'm Owed
+You may break one of your connecting threads to immediately gain a temporary spendable 20 Favor with the group that thread is or is part of. Once this is done that bond is irreparable and possibly now antagonistic.
 
 ---
 **When you gain a level from 6-10, choose from these moves.**

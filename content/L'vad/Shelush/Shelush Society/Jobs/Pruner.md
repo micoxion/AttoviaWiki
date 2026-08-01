@@ -1,0 +1,9 @@
+---
+title: Pruner
+draft: false
+tags:
+date: 2026-08-01 13:57
+---
+When a [[Shelush|Shelushian]] approaches or is in the process of [[Sprouting]] there are only two ways to avoid the inevitable. Learn one's [[The Power of Names#Soul Name|Soul Name]], a near impossibility, or find a Pruner. Pruners are rare, but they are well known and thus easy to find. The first thing required of a Pruner's patient is their [[The Power of Names#Strong Name|Strong Name]]. Having even a modicum of knowledge surrounding the process of Sprouting this comes as a surprise to many who are unfamiliar with the specifics of Pruner work. However, Pruner's must have the name to form the **[[Tethers|Tether]]** necessary to their work. Pruner's lie somewhere between Soul Named and regular folk, though they are unlikely to ever find their Soul Name, they have much finer control over **Tethers** connected to their **[[Soul|Souls]]** and more importantly, can impact the **Tethers** of any who willingly grant them their Strong Name. Most assume this is a born ability, but any Pruner will tell those who ask that their abilities come of arduous practice and the training of the [[Ogen]]. Pruners often take on apprentices, but the success rate of such students becoming full fledged Pruner's themselves is extremely low. A Pruner is lucky should they train more than a single competent student in their life time. Such is the difficult path these experts must walk.
+
+Once the **[[Contracts|Contract]]** is made with the Pruner they can begin carefully severing the near-Sprouting individuals undesired **Tethers**. This process is a delicate one that involves much conversation and the sharing of many intimate details. Many leave a Pruner session relieved to be safe, but emotionally exhausted after extensive exposition regarding the ins and outs of their relationships.
