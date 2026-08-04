@@ -1,0 +1,7 @@
+---
+title: Entry 12 - Hollow Sky
+draft: false
+tags:
+date: 2026-08-04 14:09
+---
+My sensors and organs have no difficulty piercing distant horizons. The outermost "shell" is one such discovery made by an eventually focused observation. Space perpendicular from any level surface: It ends. It is certainly vast, but something tells me, Alone of the past perhaps, that it is not nearly vast enough. An unknown material lies past evaporated water by many millions of units. Between the firmament boundary, and the secondary boundary, which I now call the Hollow Sky, there is such an extent as to house three orbiting bodies. Each of these bodies is of a mass significant enough to make observable change to surrounding foliage, flight patterns, and fluid pools when they pass overhead and their alignments change. The Hollow Sky does not appear to be filled with anything other than these three masses once past the initial firmament, though there is clearly some molecular particulate collected there which impedes clear vision of the external most boundary with enough distance. The light I had previously been calling Father Star may very well be artificial and not a complex celestial body. The artificial version I shall dub Simple Star, though its construction is certainly nothing of the like. It's capacity to provide adequate radiation for Home's biosphere is remarkable and I am certain even I could not have produced it. 

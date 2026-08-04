@@ -1,0 +1,11 @@
+---
+title: The Leabharchoimeád Archives
+draft: false
+tags:
+date: 2026-08-04 14:13
+---
+In [[Abhaile Brionnaigh]] a mere walk from [[Abhaile Brionnaigh#The Council Hall|The Council Hall]] is the Leabharchoimeád archives. For over a thousand years now the Rugadhian Master Leabharchoimeáds have recorded history, written books, deciphered ancient names, reconstructed genealogies, and taken down the countless instruction sets provided by the [[Scríobs]] of [[Master Cruthman|Master Cruthmen]]. No other culture, not even the [[Elves]] have as much recorded information from their past to present as the [[Rugadh Sliabh]]. Despite this, few books or proper literature has come out of the Rugadhian nation, instead the Leabharchoimeáds tend to enjoy the discovery and recording of newly extrapolated or unearthed information. The actual synthesis of much of the archive's stored work is not a common pursuit. Only recently was a proper [[Rugadhian History|historical account]] of the Rugadhian journey, from below the mountain to its surface, put down that utilized the archives as a primary source.
+
+The bulk of the Archives at this point is taken up by nearly a million recorded instruction sets, meticulously labeled, organized and supplied with ample descriptions or sketches. If one desired they could take one such recording and have [[The Craft Mind]] make it for them in short order so long as they have access to Scríobal runes. Nearly all of the recorded sets however, include a seal, stamp or signature and without a deep knowledge of the forge and Craft Mind any kind of recipe reconstruction is quite impossible.
+
+The source of knowledge withing the archives most proudly maintained and updated by the Leabharchoimeáds who spend their time there is the [[Seanainmneacha]]: The book of Old Names. More than 40,000 of the original names of the first 50,000 Rugadh have been successfully recorded in order to preserve their memory and provide ample names for the [[Ainm Bronntanas]] for any who sought out an ancestral name of those who carved the mountain long before [[Desolation of Deep Home|Deep Home's Desolation]].
